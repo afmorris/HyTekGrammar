@@ -60,3 +60,691 @@ Event 4  Boys 110 Meter Hurdles 39"
  19 Nate Buchanan             11 Fairfield              18.00      19.65   2 
  20 Garrett Spargur           12 Fairfield              18.00      19.70   2 
  21 Ty Hill                   12 Huntington R           21.50      22.22   1 
+
+Event 5  Girls 100 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Leta Heigley              12 Waverly                13.00      13.16   4  10   
+  2 Kensley Bailey            10 Whiteoak               12.72      13.46   4   8   
+  3 Greta Barker               9 Crooksville            13.00      13.65   4   6   
+  4 Jazmine Jackson           12 Chillicothe            13.00      13.73   4   5   
+  5 Kilynn Guiler             10 Amanda-Clear           13.84      13.77   4   4   
+  6 Grace Throne              12 Southeastern           13.00      13.89   4   3   
+  7 Ammryn Roberts             9 Logan                  14.00      14.03   3   2   
+  8 Arianna DaRif              9 Adena                  14.70      14.18   2   1   
+  9 Gracie Hyme               10 Amanda-Clear           14.52      14.24   3 
+ 10 Laynee Hill                9 Zane Trace             13.90      14.34   3 
+ 11 Anne Throckmorton          9 Hillsboro              15.30      14.61   2 
+ 12 Regan Henning             10 Crooksville            13.50      14.69   4 
+ 13 Aly Flores                12 Zane Trace             13.80      14.70   4 
+ 14 Hannah Bevan              09 Paint Valley           14.80      14.76   2 
+ 15 Ariane Sias               11 Westfall               14.80      14.77   2 
+ 16 Abbie Meadows             10 Waverly                14.50      14.84   3 
+ 17 Ailean Duffie             10 Fairfield              14.30      14.92   3 
+ 18 Jordan Griggs             10 Whiteoak               14.50      15.08   3 
+ 19 Eva Kingery                9 Southeastern           15.00      15.33   2 
+ 20 Kyla Primmer              11 Logan                  14.50      15.49   3 
+ 21 Hailey Daniels            10 Fairfield              15.40      15.68   1 
+ 22 Keerston Clark            12 Adena                  17.20      15.72   1 
+ 23 Allison Minney            10 Paint Valley           15.20      16.11   2 
+ 24 Kylie Davis               10 Logan B                15.50      16.55   1 
+ 25 Ashleigh Fletcher          9 Piketon                18.70      16.94   1 
+ 26 Kayla Horner              10 Logan B                15.50      17.31   1 
+ 27 Nancy Browning             9 Huntington R           15.20      17.36   2 
+ 28 Taylor Ingham             10 Huntington R           16.20      18.10   1 
+ 29 Megan Raines              12 Chillicothe            14.00      18.26   3 
+ -- Maddie King               11 Hillsboro              16.05         FS   1 
+ 
+Event 6  Boys 100 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Brayden Ison              10 Paint Valley           11.50      11.53   4  10   
+  2 Lane Ruby                 10 Southeastern           11.50      11.87   4   8   
+  3 Austin Goolsby            12 Hillsboro              11.40      11.88   4   6   
+  4 Zach Leggett              12 Chillicothe            11.70      11.97   4   5   
+  5 Garrett Trent             12 Paint Valley           11.70      12.09   3   4   
+  6 Mark Gallimore            10 Hillsboro              11.70      12.12   4   3   
+  7 Tate Myers                 9 Adena                  11.70      12.27   3   2   
+  8 Marc Anthony Rosado       18 Logan B                12.00      12.31   3   1    12.301
+  9 Nick Nesser               10 Zane Trace             11.80      12.31   3  12.309
+ 10 Justin Snyder             20 Logan                  11.90      12.36   3 
+ 11 Steven Hartley            10 Piketon                12.60      12.43   2  12.423
+ 12 Walker Harris             11 Crooksville            12.50      12.43   2  12.427
+ 13 Jacob Campbell            11 Whiteoak                          12.46   1 
+ 14 Nick Price                12 Fairfield              12.00      12.57   3 
+ 15 Jaiden Frankopoulos       10 Zane Trace             12.00      12.63   2 
+ 16 Darren Harvey             12 Amanda-Clear           11.59      12.74   4 
+ 17 Cody Marion               12 Whiteoak                          12.75   1 
+ 18 Luke Mark                 10 Adena                  11.90      12.79   3 
+ 19 Preston Yates             19 Logan B                12.00      12.85   3 
+ 20 Joe Phillips              11 Huntington R           12.00      12.89   2 
+ 21 Cade Williams             10 Chillicothe            12.00      12.91   2 
+ 22 Austin Hannah             12 Waverly                12.90      13.16   2 
+ 23 Tristan Victor            10 Fairfield                         13.33   1 
+ 24 Clay Miller                9 Crooksville            12.50      13.40   2 
+ 25 Brandon Binkley            9 Amanda-Clear           11.47      13.44   4 
+ 26 Patrick Bundock           10 Westfall               13.50      13.73   1 
+ 27 Zachary Murrey            11 Logan                  11.40      13.76   4 
+ 28 Gavin Runkle               9 Westfall               13.50      13.87   1 
+ 29 Aman Sing                 12 Waverly                13.50      14.02   1 
+ 30 Andrew Hayes              10 Southeastern           13.50      14.52   1 
+ 31 Carter Amole               9 Huntington R           14.50      15.50   1 
+
+Event 9  Girls 1600 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Taylor Flechtner          12 Zane Trace           5:50.00    5:40.76   10   
+  2 Ciara Colwell             10 Fairfield            5:45.00    5:43.14    8   
+  3 Savannah Moorehead        10 Crooksville          5:50.00    5:49.93    6   
+  4 Lakin Tarlton             10 Chillicothe          5:40.00    5:57.00    5   
+  5 Hannah Kerr                9 Zane Trace           5:55.50    6:00.03    4   
+  6 Avery Thompson             9 Logan                6:15.00    6:04.89    3   
+  7 Sarah Crabtree            10 Waverly              6:11.00    6:15.60    2   
+  8 Maya Burggraf              9 Logan                5:50.00    6:19.10    1   
+  9 Audery Butterbaugh         9 Amanda-Clear         5:50.00    6:19.67  
+ 10 Molly McCreary            11 Hillsboro            6:28.00    6:23.56  
+ 11 Ella Parks - Cuzzalinni   11 Chillicothe          6:00.00    6:26.10  
+ 12 Makinley Trapp            12 Westfall             6:38.00    6:34.86  
+ 13 Hannah Skinner            12 Adena                6:32.00    6:35.44  
+ 14 Morgan Richmond            9 Fairfield            6:30.00    6:54.20  
+ 15 Maddie Huff               10 Adena                6:55.00    7:00.56  
+ 16 Mackenzie Henry           11 Westfall             7:15.10    7:13.95  
+ 17 Ellie Howland             12 Hillsboro            7:13.00    7:16.16  
+ 18 Stephanie Ferlise         11 Southeastern         8:30.00    7:25.57  
+ 19 Becca Woida               12 Amanda-Clear         6:53.00    7:27.82  
+ 20 Sydney Brooks             12 Logan B              7:00.00    7:29.16  
+ 21 Logan Leffler             10 Logan B              7:15.00    7:58.03  
+ 22 Makalah Hashman            9 Crooksville          6:30.00    8:00.32  
+ 23 Caliann Owens              9 Piketon              9:50.00    8:19.39  
+ 24 Nikki Garrett              9 Huntington R                    8:21.53  
+ 25 Morgan Evans               9 Whiteoak             8:35.50    8:23.99  
+ -- Hannah Goodman            12 Waverly              6:06.00         DQ  
+ 
+Event 10  Boys 1600 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Brandtson Duffie          11 Fairfield            4:35.00    4:39.86   10   
+  2 Cole Clever               12 Zane Trace           4:54.00    4:47.77    8   
+  3 Aidan Judd                10 Waverly              5:01.10    4:53.23    6   
+  4 Andrew Davis              12 Fairfield B          4:41.00    4:54.22    5   
+  5 Noah Kanniard             10 Adena                5:45.00    4:58.01    4   
+  6 Joshua Franco             10 Logan                4:50.00    4:58.77    3   
+  7 Phillip Evory             10 Waverly              5:20.50    5:00.79    2   
+  8 Jacob Nichols             12 Piketon              4:50.00    5:01.98    1   
+  9 Cohen Frost                9 Fairfield B          4:55.00    5:03.47  
+ 10 Kameron Hunter            10 Crooksville          5:03.00    5:03.49  
+ 11 Oscar Mikus                9 Chillicothe          5:10.00    5:08.65  
+ 12 Ricky Villarreal          11 Chillicothe          5:10.00    5:11.36  
+ 13 Luke Johnson              10 Zane Trace           4:55.00    5:13.81  
+ 14 Jarrett Klinker           10 Piketon                         5:14.62  
+ 15 Bryon Lowry               12 Logan                4:50.00    5:15.89  
+ 16 Johnny Hatfield            9 Hillsboro            5:30.00    5:19.22  
+ 17 P.J. Mcallister           11 Paint Valley         5:00.00    5:20.65  
+ 18 Bailey Lucarello          11 Hillsboro            5:25.00    5:23.91  
+ 19 Garrett Simmons            9 Adena                5:50.00    5:26.37  
+ 20 Trent Palambo             10 Amanda-Clear         5:25.00    5:27.30  
+ 21 Hunter Sheets             11 Huntington R         5:30.00    5:31.42  
+ 22 Caleb Herring             12 Logan B              5:10.00    5:34.52  
+ 23 Noah Chevalier            10 Crooksville          5:25.00    5:36.65  
+ 24 Preston Fyffe             10 Westfall             5:40.10    5:37.16  
+ 25 Austin Otto               11 Amanda-Clear         6:10.00    6:05.48  
+ 26 Spencer Immell            10 Paint Valley         5:45.00    6:11.09  
+ 27 Dylan Burns               21 Logan B              5:15.00    6:23.65  
+ 28 Jack Latham                9 Westfall             6:29.60    6:24.59  
+ 29 Eli Dresbach              11 Southeastern         6:00.00    6:34.75  
+
+Event 13  Girls 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Leta Heigley              12 Waverly              1:01.00    1:01.63   4  10   
+  2 Hailey Puckett            12 Zane Trace           1:05.00    1:03.53   4   8   
+  3 Haleigh Willison           9 Crooksville          1:05.00    1:05.23   4   6   
+  4 Jaeleigh Hart             10 Hillsboro            1:09.00    1:06.18   4   5   
+  5 Emma Myers                10 Logan                1:06.00    1:06.84   4   4   
+  6 Lauren Lane                9 Zane Trace           1:09.00    1:07.95   4   3   
+  7 Jasmine Roper             12 Chillicothe          1:10.00    1:08.93   3   2   
+  8 Lexis Fickel              11 Logan                1:08.00    1:09.51   4   1   
+  9 Sarah Smith               10 Amanda-Clear         1:08.00    1:09.74   4 
+ 10 Lexie Snider              10 Amanda-Clear         1:12.00    1:10.25   2 
+ 11 Paige Teeters             10 Fairfield            1:12.00    1:12.38   3 
+ 12 Allisen Jones              9 Southeastern         1:30.00    1:12.79   1 
+ 13 Eva Kingery                9 Southeastern         1:20.00    1:13.15   1 
+ 14 Hannah Sykes              12 Adena                1:10.20    1:14.47   3 
+ 15 Jordan Griggs             10 Whiteoak             1:14.50    1:14.49   2 
+ 16 Annabelle Dykes           10 Chillicothe          1:12.00    1:14.99   3 
+ 17 Caroline Crouch            9 Hillsboro            1:10.00    1:15.50   3 
+ 18 Kiara Smith               12 Waverly              1:12.00    1:17.34   3 
+ 19 Leah Liston                9 Westfall             1:18.10    1:17.41   2 
+ 20 Sydnee Breining           10 Logan B              1:10.00    1:17.98   3 
+ 21 Sadie Tornberg            11 Huntington R         1:15.00    1:21.84   2 
+ 22 Molly Wooldridge           9 Piketon              1:52.00    1:22.27   1 
+ 23 Shelby Elliot             11 Paint Valley                    1:22.99   1 
+ 24 Ashleigh Fletcher          9 Piketon              1:50.00    1:24.84   1 
+ 25 Jetta Hampson             10 Westfall             1:18.00    1:25.51   2 
+ 26 Lakyn McClintic           10 Adena                1:12.30    1:27.85   2 
+ 27 Maddy Leach                9 Huntington R         1:15.00    1:28.49   2 
+ 28 Hayley Yost               10 Logan B              1:18.00    1:31.07   2 
+ 
+Event 14  Boys 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Tygr Tesi                 12 Paint Valley           53.00      52.90   5  10   
+  2 Ty Alexander              11 Hillsboro              54.00      52.99   5   8   
+  3 Spencer Wycinski           9 Zane Trace             54.30      54.34   5   6   
+  4 Nick Nesser               10 Zane Trace             55.50      55.68   5   5   
+  5 Jacob Campbell            11 Whiteoak                          55.82   1   4   
+  6 Canaan Knoles             11 Huntington R           55.50      56.03   5   3   
+  7 Kyle Hicks                10 Amanda-Clear           57.90      56.36   4   2   
+  8 Tanner Koren              12 Logan                  54.50      57.24   5   1   
+  9 Cam Kendricks             10 Waverly                58.13      57.44   4 
+ 10 Austin Holdren            10 Huntington R           55.50      57.50   4 
+ 11 Zach Thompson             11 Paint Valley           56.00      57.94   4 
+ 12 Ethan Holman              10 Westfall               57.60      58.25   4 
+ 13 Vincent Roper             10 Chillicothe            55.00      58.34   5 
+ 14 Mckellan Lee              10 Chillicothe            55.00      59.24   5 
+ 15 Toby Stewart              21 Logan                  56.50      59.87   4 
+ 16 Garrett Dearth            10 Amanda-Clear           59.60    1:00.11   3 
+ 17 Nick Bailey                9 Whiteoak                        1:00.14   1 
+ 18 Dylan Reno                10 Piketon                59.00    1:01.23   3 
+ 19 Zander Butterbaugh         9 Piketon              1:03.00    1:01.59   3 
+ 20 Israel Bookman            10 Logan B                59.00    1:01.77   3 
+ 21 Jerry Dunwoody            11 Crooksville          1:10.00    1:01.86   1 
+ 22 Bo Nihiser                19 Logan B                59.00    1:02.75   3 
+ 23 Reagan Schaffer            9 Southeastern         1:05.00    1:03.19   2 
+ 24 Logan Hester              10 Hillsboro              59.00    1:03.58   4 
+ 25 Bryce Posey                9 Fairfield                       1:04.60   1 
+ 26 Gavin Alberty             10 Crooksville          1:10.00    1:05.40   2 
+ 27 Braighton Wise            10 Fairfield                       1:07.85   1 
+ 28 Thomas Martin              9 Westfall             1:05.00    1:09.58   2 
+ 29 Thomas Fraysier            9 Fairfield B          1:15.00    1:14.39   1 
+ 30 Benji Mitten              10 Adena                1:05.00    1:14.51   2 
+ 31 Keagan Stewart            11 Southeastern         1:05.00    1:18.42   2 
+ 
+Event 15  Girls 300 Meter Hurdles 30"
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Abby Sullivan             12 Chillicothe            48.50      50.13   4  10   
+  2 Camryn Chandler           12 Piketon                51.00      53.79   4   8   
+  3 Kaylee Prall              12 Waverly                54.30      53.86   3   6   
+  4 Mattie Elliott            10 Waverly                52.30      54.85   4   5   
+  5 Caitlyn Mauger            10 Chillicothe            53.00      55.44   4   4   
+  6 Caitlin Hoellrich         11 Logan B                56.00      55.61   3   3   
+  7 Emma Hess                 10 Hillsboro              48.00      55.68   4   2   
+  8 Hannah Stark              10 Adena                  55.60      55.76   3   1   
+  9 Cierra Lively              9 Hillsboro              53.00      57.37   4 
+ 10 Madison Miller            11 Westfall             1:04.00      57.81   1 
+ 11 Maddie Allman             12 Southeastern           57.80      58.03   2 
+ 12 Arianna Cole              09 Paint Valley                      58.28   4 
+ 13 Paige Hinton              10 Amanda-Clear           59.00      58.44   2 
+ 14 Gracie Dunkle             11 Zane Trace             56.50      58.49   3 
+ 15 Dakota Haynes             12 Fairfield              59.00      58.69   2 
+ 16 Ashley Carter              9 Piketon                54.00    1:00.16   4 
+ 17 Audra Danielle Green      11 Logan                  55.00    1:00.21   3 
+ 18 Ailean Duffie             10 Fairfield              57.00    1:01.15   2 
+ 19 Leah Branson              10 Zane Trace           1:00.00    1:01.74   1 
+ 20 Colleen Mills             11 Paint Valley         1:00.00    1:02.17   2 
+ 21 Nicole Kashner            10 Adena                  59.20    1:02.75   2  1:02.741
+ 22 Mackenzie Price           11 Westfall             1:10.00    1:02.75   1  1:02.745
+ 23 Kiley Holbrook            10 Amanda-Clear         1:05.00    1:02.76   1 
+ 24 Abby Burggraf             10 Logan B                56.00    1:05.74   3 
+ 
+Event 16  Boys 300 Meter Hurdles 36"
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 J'Quan Harris             11 Chillicothe            44.00      43.88   4  10   
+  2 Gage Savely               12 Waverly                44.30      44.61   4   8   
+  3 Phoenix Wolfe              9 Waverly                44.40      44.80   4   6   
+  4 Marcus Whaley              9 Westfall               46.10      45.50   3   5   
+  5 Iann Cockrell             10 Paint Valley           45.00      45.59   4   4   
+  6 Tyo Mansfield             12 Logan                  45.50      45.93   3   3   
+  7 Quinn Conlon              11 Hillsboro              45.00      46.03   4   2   
+  8 Weston Brooks             11 Logan                  45.50      46.60   3   1   
+  9 Joshua Howard             11 Chillicothe            46.00      46.67   3 
+ 10 Quintin Lott               9 Amanda-Clear           45.00      47.07   4 
+ 11 Garrett Spargur           12 Fairfield              44.00      47.48   4 
+ 12 Chayce Watson             11 Hillsboro              46.00      48.26   3 
+ 13 Garrett Miller             9 Whiteoak                          48.30   1 
+ 14 Jacob Craig               21 Logan B                48.00      49.91   2 
+ 15 Evan Miller               12 Crooksville            49.00      49.96   2 
+ 16 Nate Buchanan             11 Fairfield              44.00      50.47   4 
+ 17 Kaden McQuaide            11 Logan B                48.00      50.89   2 
+ 18 Owen Campbell             10 Zane Trace             50.00      52.04   2 
+ 19 Dalton Thurston           10 Southeastern           55.00      52.51   1 
+ 20 Mikey Castle               9 Southeastern           55.00      54.61   1 
+ 21 Ty Hill                   12 Huntington R           52.00      56.49   2 
+ 22 Corbin Rutherford          9 Huntington R           55.00    1:06.70   1 
+ 
+Event 17  Girls 800 Meter Run
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Taylor Flechtner          12 Zane Trace           2:40.00    2:36.19   2  10   
+  2 Ciara Colwell             10 Fairfield            2:40.00    2:37.99   2   8   
+  3 Savannah Moorehead        10 Crooksville          2:33.00    2:44.95   2   6   
+  4 Sarah Crabtree            10 Waverly              2:48.00    2:46.24   2   5   
+  5 Reese Hartsaugh            9 Zane Trace           2:50.00    2:48.41   2   4   
+  6 Sydney Lanning             9 Hillsboro            3:02.00    2:48.92   2   3   
+  7 Keely Fickel               9 Logan                2:50.00    2:52.33   2   2   
+  8 Sarah Young               12 Fairfield            2:55.00    2:55.89   2   1   
+  9 Jordan Morris             12 Piketon              2:45.00    2:55.90   2 
+ 10 Avery Thompson             9 Logan                2:50.00    2:57.42   2 
+ 11 Sydney Wissler             9 Chillicothe          2:50.00    2:58.29   2 
+ 12 Abbie Ogle                11 Westfall             3:06.20    3:01.09   1 
+ 13 Grace McAllister          11 Paint Valley         3:05.00    3:02.89   2 
+ 14 Ariel Farahay              9 Whiteoak             3:04.50    3:04.35   2 
+ 15 Grace Smith               10 Logan B              2:55.00    3:04.85   2 
+ 16 Madi Montgomery            9 Huntington R         3:10.00    3:05.49   1 
+ 17 Kaylee Sharp               9 Amanda-Clear         3:50.00    3:08.46   1 
+ 18 Haylee Hamilton           12 Crooksville          3:30.00    3:09.10   1 
+ 19 Kenzie Blue               12 Westfall             3:17.00    3:12.97   1 
+ 20 Ellie Howland             12 Hillsboro                       3:14.51   1 
+ 21 Grace Mullett             10 Logan B              3:08.00    3:15.06   1 
+ 22 Virginia Dickens           9 Waverly              3:20.00    3:16.10   1 
+ 23 Ella Parks - Cuzzalinni   11 Chillicothe          2:40.00    3:17.81   2 
+ 24 Eva Kingery                9 Southeastern         3:10.00    3:18.30   1 
+ 25 Morgan Anderson            9 Amanda-Clear         3:56.00    3:18.32   1 
+ 26 Madelyn Madder             9 Huntington R         3:35.00    3:21.17   1 
+ 27 Miah Richendollar          9 Adena                3:05.00    3:24.31   2 
+ 28 Madison Gray              10 Adena                3:10.00    3:25.65   1 
+ 29 Stephanie Ferlise         11 Southeastern         3:20.00    3:25.81   1 
+ 30 Caliann Owens              9 Piketon              3:40.00    3:46.27   1 
+ 31 Morgan Evans               9 Whiteoak             4:00.00    3:49.44   1 
+ 
+Event 18  Boys 800 Meter Run
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Brandtson Duffie          11 Fairfield            1:57.49    2:01.92   2  10   
+  2 Gabriel Rosado            10 Logan                2:03.00    2:11.80   2   8   
+  3 Britton Haines            12 Hillsboro            2:10.00    2:12.81   2   6   
+  4 Cole Clever               12 Zane Trace           2:21.00    2:14.22   1   5   
+  5 Bennett Hodson            11 Fairfield B          2:12.00    2:15.76   2   4   
+  6 Andrew Davis              12 Fairfield            2:12.00    2:16.11   2   3   
+  7 Tyrese Pettiford          12 Adena                2:30.00    2:17.69   1   2   
+  8 Phillip Evory             10 Waverly              2:18.90    2:19.31   2   1   
+  9 Ethan Long                10 Logan                2:11.00    2:22.78   2 
+ 10 Garrett Clark             10 Adena                2:35.00    2:24.17   1 
+ 11 Noah Davis                12 Paint Valley         2:20.00    2:24.19   2 
+ 12 Cohen Frost                9 Fairfield B          2:14.00    2:29.57   2 
+ 13 Bryce Morgensen           10 Piketon                         2:32.05   1 
+ 14 Jacob Littler              9 Chillicothe          2:25.00    2:34.95   1 
+ 15 Liam Smith                12 Westfall             2:34.20    2:35.14   1 
+ 16 Corbin Mash               12 Southeastern         2:25.00    2:35.39   1 
+ 17 Trevor Spence             10 Amanda-Clear         2:28.00    2:36.63   1 
+ 18 Joseph Swingle            12 Crooksville          3:00.00    2:38.39   1 
+ 19 Dylan Carroll             11 Huntington R         2:15.00    2:38.92   2 
+ 20 Tye Hinshaw                9 Huntington R         2:20.00    2:40.06   2 
+ 21 Cody Everhart             10 Whiteoak             2:16.00    2:41.10   2 
+ 22 Jon Hurst                 12 Piketon              2:19.00    2:46.37   2 
+ 23 Nathan Heister             9 Amanda-Clear         2:50.00    2:49.32   1 
+ 24 Jack Latham                9 Westfall             2:52.60    2:56.66   1 
+ 25 Gabe Sheppard              9 Whiteoak                        2:59.22   1 
+ 26 A.J. Sibole                9 Waverly              3:10.00    3:08.21   1 
+ 
+Event 19  Girls 200 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Leta Heigley              12 Waverly                27.00      27.39   4  10   
+  2 Greta Barker               9 Crooksville            29.00      27.93   4   8   
+  3 Hailey Puckett            12 Zane Trace             28.20      27.94   4   6   
+  4 Kensley Bailey            10 Whiteoak               28.17      28.30   4   5   
+  5 Jazmine Jackson           12 Chillicothe            28.80      28.35   4   4   
+  6 Kilynn Guiler             10 Amanda-Clear           29.20      28.75   3   3   
+  7 Mahaley Farmer             9 Westfall               28.90      29.10   4   2   
+  8 Gracie Hyme               10 Amanda-Clear           29.90      29.31   3   1   
+  9 Amanda Chandler           10 Logan                  29.50      29.37   3 
+ 10 Grace Throne              12 Southeastern           29.50      29.45   3 
+ 11 Regan Henning             10 Crooksville            30.00      29.83   3 
+ 12 Arianna DaRif              9 Adena                  28.30      30.69   4 
+ 13 Kasi Green                11 Westfall               30.50      30.83   2 
+ 14 Stefanie Stewart          11 Waverly                30.00      30.86   3 
+ 15 Mikayla Griffith          10 Fairfield              31.00      30.96   2 
+ 16 Lexis Fickel              11 Logan                  30.00      31.38   2 
+ 17 Aly Flores                12 Zane Trace             29.80      31.48   3 
+ 18 Kayla Lipscomb            12 Southeastern           33.00      31.72   1 
+ 19 Alexia Shepard             9 Fairfield              31.00      32.25   2 
+ 20 Jordan Griggs             10 Whiteoak               32.72      32.60   2 
+ 21 Sydnee Breining           10 Logan B                31.00      32.86   2 
+ 22 Paige Howland             10 Hillsboro              32.95      32.96   2  32.956
+ 23 Caroline Crouch            9 Hillsboro              32.00      32.96   2  32.957
+ 24 Alivia Purdum             10 Paint Valley                      34.45   1 
+ 25 Allison Minney            10 Paint Valley                      34.53   1 
+ 26 Molly Wooldridge           9 Piketon                39.78      35.88   1 
+ 27 Lisa Misskampf            11 Logan B                36.00      36.97   1 
+ 28 Brylee Lunsford            9 Piketon                40.56      37.53   1 
+ 29 Kristin Howard            12 Huntington R           38.00      39.09   1 
+ 30 Marissa Elkins             9 Huntington R           35.00      42.73   1 
+ 
+Event 20  Boys 200 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Brayden Ison              10 Paint Valley           23.70      23.74   5  10   
+  2 Lane Ruby                 10 Southeastern           24.20      24.33   5   8   
+  3 Ty Alexander              11 Hillsboro              24.00      24.59   5   6   
+  4 Austin Holdren            10 Huntington R           25.00      24.66   4   5   
+  5 Kyle Hicks                10 Amanda-Clear           25.40      24.74   3   4   
+  6 Tate Myers                 9 Adena                  24.20      24.98   5   3   
+  7 Nick Nesser               10 Zane Trace             25.00      25.12   4   2    25.115
+  8 Garrett Trent             12 Paint Valley           24.30      25.12   4   1    25.119
+  9 Reece Alley               11 Zane Trace             25.30      25.49   4 
+ 10 Taylor Lucas               9 Hillsboro              24.90      25.58   4 
+ 11 Darren Harvey             12 Amanda-Clear           26.50      25.69   3  25.685
+ 12 Cody Marion               12 Whiteoak                          25.69   1  25.689
+ 13 Trey Brown                12 Southeastern           25.00      25.75   4 
+ 14 Nick Bailey                9 Whiteoak                          26.10   1 
+ 15 Preston Yates             19 Logan B                24.90      26.30   4 
+ 16 Shane Richards            11 Adena                  25.00      26.53   4 
+ 17 Walker Harris             11 Crooksville            25.50      26.69   3 
+ 18 Tyce Netter               10 Chillicothe            23.00      26.72   5 
+ 19 Jacob Hackworth           18 Logan B                27.00      27.09   3 
+ 20 Cody Thompson              9 Westfall               27.70      27.37   2 
+ 21 Tristan Victor            10 Fairfield                         27.52   1 
+ 22 Djion Brooks              11 Chillicothe            24.00      27.54   5 
+ 23 Joseph Bundock            12 Westfall               26.94      27.62   3 
+ 24 Elijah Lummer             12 Waverly                27.63      27.66   2 
+ 25 Jacob Harris              11 Piketon                27.00      27.88   2 
+ 26 Clay Miller                9 Crooksville            26.80      28.05   3 
+ 27 Tyler Howard               9 Huntington R           27.50      28.24   2 
+ 28 Brandon Vidourek          12 Fairfield                         28.47   1 
+ 29 Braighton Wise            10 Fairfield B            29.00      29.00   2 
+ 30 Josh Heigley               9 Waverly                31.06      30.88   2 
+ 31 Thomas Fraysier            9 Fairfield B            32.00      32.65   1 
+ 
+Event 21  Girls 3200 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Lakin Tarlton             10 Chillicothe         12:00.00   12:38.35   10   
+  2 Hannah Kerr                9 Zane Trace          13:30.00   12:53.63    8   
+  3 Reese Hartsaugh            9 Zane Trace          13:30.00   13:32.11    6   
+  4 Hannah Goodman            12 Waverly             13:00.00   13:34.84    5   
+  5 Danielle Fleurima          9 Chillicothe         13:30.00   13:44.88    4   
+  6 Molly McCreary            11 Hillsboro                      14:00.19    3   
+  7 Abby Sutton               11 Logan               14:00.00   14:17.97    2   
+  8 Hannah Skinner            12 Adena                          14:40.16    1   
+  9 Chloe Barber              12 Fairfield           14:50.00   14:51.78  
+ 10 Aslhey Wihl               12 Westfall                       15:08.84  
+ 11 Katelyn Baughman          11 Crooksville         13:00.00   15:36.97  
+ 12 Maddie Huff               10 Adena                          15:47.06  
+ 13 Makalah Hashman            9 Crooksville         13:00.00   15:52.45  
+ 14 Emily Young               12 Hillsboro           16:34.00   15:58.90  
+ 15 Sam Reed                   9 Waverly             15:50.00   16:10.17  
+ 16 Sarah Wuellner            10 Fairfield           15:50.00   16:57.92  
+ 
+
+ 
+Event 26  Boys Discus Throw
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Travis Burton             12 Paint Valley          130-00     160-00   10   
+  2 Noah Smith                11 Amanda-Clear          140-00     152-07    8   
+  3 Eric Hurtt                 9 Adena                 125-00     129-07    6   
+  4 Sam Hall                  11 Logan                 145-00     119-08    5    117-9
+  5 Draven Stodgel            10 Hillsboro             130-00     119-08    4    117-0
+  6 Stephen Ford              12 Zane Trace            133-00     115-07    3   
+  7 Mason Sherrick            11 Waverly               116-02     112-05    2   
+  8 Brion Peoples             12 Waverly               123-06     108-06    1   
+  9 Brady Woodbridge          11 Zane Trace            116-00     105-01  
+  9 Kamryn Carter             12 Logan B               115-00     105-01  
+ 11 Corey Thacker             11 Piketon                90-00      98-04  
+ 12 Edward Setty              11 Piketon                97-00      98-00  
+ 13 Jasper Jones              11 Logan                 125-00      97-09  
+ 14 Tucker Wilson             18 Logan B               115-00      97-08  
+ 15 Christian Howard          12 Huntington R           90-00      97-03  
+ 16 Jon May                   11 Paint Valley          100-00      96-05  
+ 17 Zach Burns                 9 Hillsboro             110-00      96-00  
+ 18 Cort Kleinline            10 Amanda-Clear          119-08      95-05  
+ 19 Eric Allen                12 Westfall              105-06      94-02  
+ 20 Ethan Whalen              11 Fairfield              99-08      91-05  
+ 21 Jarrett Knisely           12 Chillicothe           110-00      84-00  
+ 22 Patrick Rourke            10 Chillicothe           100-00      82-06  
+ 23 Johnathan Cokonougher     12 Adena                  85-00      82-05  
+ 24 Holden Ferguson           10 Fairfield              94-10      82-02  
+ 25 P.J. Marolt               10 Crooksville            85-00      78-06  
+ 26 Eli Dresbach              11 Southeastern           85-00      75-09  
+ 27 Devon Bowers               9 Westfall               76-05      69-09  
+ 28 Corey Allen               10 Fairfield B            56-11      64-05  
+ 29 Andrew Hayes              10 Southeastern           70-00      63-05  
+ 30 Hunter McIntosh            9 Fairfield B            64-09      62-00  
+ 31 Thane Childress           10 Crooksville            80-00      60-06  
+ 32 Sam Conacher               9 Huntington R           75-00      58-06  
+ 
+Event 27  Girls High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Hailey Puckett            12 Zane Trace           4-10.00    4-10.00   10   
+  2 Jordan Morris             12 Piketon              4-08.00    4-06.00    7   
+  2 Kaitlynn Connell          10 Amanda-Clear         4-06.00    4-06.00    7   
+  4 Rachel Pierce             11 Logan                           4-06.00    5   
+  5 Amanda Chandler           10 Logan                           4-04.00    2.50
+  5 Emma Hess                 10 Hillsboro            4-04.00    4-04.00    2.50
+  5 Marjorie Savely           11 Waverly              4-04.00    4-04.00    2.50
+  5 Regan Henning             10 Crooksville          4-04.00    4-04.00    2.50
+  9 Mackenzie Price           11 Westfall             4-04.00    4-04.00  
+  9 Electa Seymour            12 Southeastern         4-04.00    4-04.00  
+  9 Haleigh Willison           9 Crooksville          4-08.00    4-04.00  
+ 12 Kiara Smith               12 Waverly              4-04.00    4-02.00  
+ 12 Caitlyn Mauger            10 Chillicothe          4-08.00    4-02.00  
+ 12 Alisha Jones               9 Piketon              4-06.00    4-02.00  
+ 12 Katelyn Weber             09 Paint Valley                    4-02.00  
+ -- Dakota Haynes             12 Fairfield            4-04.00         NH  
+ -- Paige Howland             10 Hillsboro            4-00.00         NH  
+ -- Annabelle Dykes           10 Chillicothe                          NH  
+ -- Carsyn Lawrence            9 Logan B                              NH  
+ -- Bailey Farley             12 Logan B                              NH  
+ -- Samantha Clark            11 Westfall             4-04.00         NH  
+ 
+Event 28  Boys High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Quinn Conlon              11 Hillsboro            5-10.00    5-06.00   10   
+  2 Grayson Diener            10 Waverly              5-08.00    5-04.00    8   
+  3 J.D. woodgeard            12 Paint Valley         5-02.00    5-04.00    6   
+  4 Cam Kendricks             10 Waverly              5-06.00    5-04.00    5   
+  5 Joshua Blazer             10 Logan                5-08.00    5-04.00    3.50
+  5 Triton Davidson           10 Zane Trace           5-06.00    5-04.00    3.50
+  7 Britton Haines            12 Hillsboro            5-10.00    5-04.00    2   
+  8 Aaron Magdich             11 Logan                5-08.00    5-04.00    1   
+ -- Zach Martin               10 Westfall             5-00.00         NH  
+ -- Thomas Martin              9 Westfall             5-00.00         NH  
+ -- Shane Elliott             12 Whiteoak             5-08.00         NH  
+ -- Garrett Miller             9 Whiteoak                             NH  
+ -- J'Quan Harris             11 Chillicothe          5-10.00         NH  
+ -- Vincent Roper             10 Chillicothe          5-06.00         NH  
+ -- Noah Cochenour            11 Huntington R         5-04.00         NH  
+ -- Brody Pugh                 9 Amanda-Clear         4-08.00         NH  
+ -- Jay Sahr                   9 Amanda-Clear                         NH  
+ -- Jarred Supher             10 Southeastern         5-06.00         NH  
+ -- Judson Bevan              10 Paint Valley         5-02.00         NH  
+ -- Lucas Maininger           11 Southeastern         5-02.00         NH  
+ -- Tye Hinshaw                9 Huntington R         5-00.00         NH  
+ -- Conner Ruff Ruff          20 Logan B              5-00.00         NH  
+ 
+Event 29  Girls Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Leta Heigley              12 Waverly             17-02.00   16-02.50   10   
+  2 Hailey Puckett            12 Zane Trace          14-05.00   14-09.00    8   
+  3 Sydney Callahan            9 Hillsboro           13-00.00   14-03.00    6   
+  4 Riley Wrightsel           11 Chillicothe         14-10.00   14-02.25    5   
+  5 Kaylee George             12 Zane Trace          14-00.00   13-10.75    4   
+  6 Caitlyn Mauger            10 Chillicothe         15-00.00   13-09.50    3   
+  7 Maggie Reisinger          10 Waverly             14-00.00   13-08.50    2   
+  8 Kensley Bailey            10 Whiteoak                       13-08.00    1   
+  9 Emma Hess                 10 Hillsboro           13-00.00   13-06.50  
+ 10 Dakota Haynes             12 Fairfield           14-02.00   13-05.75  
+ 11 Ammryn Roberts             9 Logan               14-05.00   13-05.50  
+ 12 Hannah Bevan              09 Paint Valley        12-09.00   13-02.00  
+ 13 Kaci Morin                12 Amanda-Clear        13-07.00   13-00.00  
+ 14 Alexis Karshner           12 Southeastern        13-00.00   12-11.50  
+ 15 Nicole Kashner            10 Adena               14-06.00   12-11.00  
+ 15 Carsyn Lawrence            9 Logan B                        12-11.00  
+ 17 Alisha Jones               9 Piketon             13-00.00   12-08.00  
+ 18 Allison Baughman           9 Crooksville         13-00.00   12-04.75  
+ 19 Ariane Sias               11 Westfall            13-00.00   12-02.50  
+ 20 Gus Hooks                 12 Huntington R                   12-01.00  
+ 21 Lelila Kennedy             9 Crooksville         13-00.00   11-11.00  
+ 22 Carliee Pieratt           12 Amanda-Clear        12-05.00   11-08.00  
+ 23 Caitlin Hoellrich         11 Logan B                        11-00.00  
+ 24 Madi Montgomery            9 Huntington R                   10-11.00  
+ 25 Libby Beckley             11 Logan               13-00.00   10-07.00  
+ 26 Alexia Shepard             9 Fairfield           11-03.00    9-09.50  
+ 27 Kaitlyn Harper            12 Southeastern        10-00.00    9-07.00  
+ 
+Event 30  Boys Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Austin Goolsby            12 Hillsboro           21-00.00   20-01.00   10   
+  2 Lane Ruby                 10 Southeastern        20-06.00   19-05.50    8   
+  3 Cody Remington            11 Waverly             20-00.75   19-00.00    6   
+  4 Iann Cockrell             10 Paint Valley        17-00.00   18-04.50    5   
+  5 Malique Davis             11 Paint Valley        17-00.00   18-01.00    4   
+  6 Preston Yates             19 Logan               19-00.00   17-09.00    3   
+  7 Canaan Knoles             11 Huntington R        16-06.00   17-07.00    2   
+  8 Nick Bailey                9 Whiteoak                       17-06.50    1   
+  9 Logan Hester              10 Hillsboro           18-00.00   17-06.00  
+ 10 Aaron Magdich             11 Logan               18-00.00   17-05.00  
+ 11 Triton Davidson           10 Zane Trace          17-09.00   17-04.00  
+ 12 Tate Myers                 9 Adena               16-00.00   17-03.75  
+ 13 Joel Barnes                9 Chillicothe         15-08.00   17-02.50  
+ 14 Brandon Binkley            9 Amanda-Clear        17-00.00   16-09.75  
+ 15 Casey Heft                12 Logan B             18-00.00   16-08.50  
+ 16 Caden Fry                  9 Zane Trace          16-11.50   16-06.00  
+ 17 D.J. Upton-Barrows        11 Chillicothe         15-00.00   15-10.00  
+ 18 Skyler Bohach             11 Amanda-Clear        16-00.00   15-07.00  
+ 19 Joe Phillips              11 Huntington R        16-00.00   15-06.50  
+ 20 Evan Miller               12 Crooksville         16-00.00   15-03.00  
+ 21 Joseph Bundock            12 Westfall            16-09.00   14-11.75  
+ 22 Lee Osborne                9 Crooksville         16-00.00   14-09.50  
+ 23 Luke Remington             9 Waverly             15-10.00   14-06.00  
+ 24 Braighton Wise            10 Fairfield B                    13-09.50  
+ 25 Cody Thompson              9 Westfall            14-10.00   13-03.50  
+ 26 Bryce Posey                9 Fairfield                      12-11.50  
+ 27 Brandon Vidourek          12 Fairfield                      12-04.00  
+ 28 Thomas Fraysier            9 Fairfield B                    11-03.00  
+ 
+Event 31  Girls Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Lanie Bainter             10 Logan               37-08.00   34-06.75   10   
+  2 Alisha Jones               9 Piketon             31-02.00   30-10.50    8   
+  3 Cassidy Rinehart          11 Paint Valley        30-00.00   30-08.25    6   
+  4 Kaila Barr                11 Waverly             33-09.00   30-01.25    5   
+  5 Abby French               10 Adena               27-00.00   29-00.50    4   
+  6 Haylee Fleischmann        11 Westfall            28-04.00   28-11.25    3   
+  7 Abby Tooill               10 Amanda-Clear        26-05.25   28-11.00    2   
+  8 Kelsey Burns              11 Hillsboro           27-10.00   28-04.50    1   
+  9 Morgan Baker              10 Fairfield           27-05.00   27-07.75  
+ 10 Lilly Clark               10 Zane Trace          29-00.00   27-02.25  
+ 11 Avery Hileman             11 Logan B             27-00.00   26-11.50  
+ 12 Autumn Cooper              9 Logan               30-00.00   26-10.25  
+ 13 Kailey Dietrick           11 Hillsboro           26-00.00   26-04.50  
+ 14 Katie Hirsch               9 Huntington R                   26-04.00  
+ 15 Hannah Taylor              9 Crooksville         28-00.00   26-02.00  
+ 16 Montana Wood              10 Adena               21-00.00   26-01.75  
+ 17 Paige Wolfe               10 Fairfield           26-05.00   25-05.75  
+ 18 Mikayla Hicks             12 Amanda-Clear        27-01.50   24-10.25  
+ 19 Libby Beckley             11 Logan B             28-00.00   24-09.00  
+ 20 Cora Gillespie            10 Whiteoak                       24-07.50  
+ 21 Daija Smart               09 Paint Valley        25-00.00   24-03.25  
+ 22 Jyle Harris                9 Chillicothe                    23-02.75  
+ 23 Taylor Blakeman           10 Waverly             22-09.00   23-01.00  
+ 23 Grace Picklesimer          9 Westfall            22-10.00   23-01.00  
+ 25 Lida Blevins              10 Piketon             25-05.00   22-07.25  
+ 26 Janae Seals                9 Crooksville         25-00.00   22-05.00  
+ 27 Kayla Park                 9 Zane Trace          25-00.00   21-07.50  
+ 28 Unique Simmons            11 Chillicothe                    20-03.00  
+ 29 Kylie Jordan              12 Southeastern        15-00.00   19-01.25  
+ 30 Brie Blanton              10 Whiteoak                       17-09.50  
+ 31 Cheyenne Allen             9 Southeastern        13-00.00   17-04.50  
+ 32 Nikki Garrett              9 Huntington R                   16-02.00  
+ 
+Event 32  Boys Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Carson Miller             10 Logan               43-00.00   49-05.00   10   
+  2 Kamryn Carter             12 Logan               50-00.00   46-02.25    8   
+  3 Travis Burton             12 Paint Valley        50-00.00   44-08.25    6   
+  4 Noah Smith                11 Amanda-Clear        47-00.00   44-05.75    5   
+  5 Macayne Bock              11 Waverly             43-03.50   43-08.75    4   
+  6 Gunnar Robinson           12 Waverly             49-07.00   43-06.25    3   
+  7 Dion Burns                11 Hillsboro           45-00.00   43-04.50    2   
+  8 Lance Edwards             11 Logan B             42-00.00   42-01.25    1   
+  9 Caelem Knauff             12 Piketon             38-00.00   40-06.50  
+ 10 Corey Thacker             11 Piketon             40-00.00   40-03.75  
+ 11 Eric Hurtt                 9 Adena               42-00.00   40-00.25  
+ 12 Brock Hill                10 Paint Valley        40-00.00   38-10.00  
+ 13 Jarrett Knisely           12 Chillicothe         37-00.00   36-11.00  
+ 14 Ethan Whalen              11 Fairfield           35-06.00   36-07.00  
+ 15 Stephen Ford              12 Zane Trace          41-08.50   36-05.50  
+ 16 Cort Kleinline            10 Amanda-Clear        38-00.00   35-05.25  
+ 17 Eric Allen                12 Westfall            39-11.00   35-03.25  
+ 18 P.J. Marolt               10 Crooksville         35-00.00   34-11.50  
+ 19 Patrick Rourke            10 Chillicothe         37-00.00   34-10.00  
+ 20 Clinton Perry             10 Zane Trace          36-05.25   34-02.25  
+ 21 Christian Howard          12 Huntington R        35-02.00   34-01.50  
+ 22 Tristan Mick              11 Whiteoak                       34-00.50  
+ 23 Layne Bobb                12 Adena               33-00.00   33-10.50  
+ 24 Jasper Jones              11 Logan B             36-00.00   32-09.25  
+ 25 Mikey Castle               9 Southeastern        35-00.00   32-08.00  
+ 25 Holden Ferguson           10 Fairfield           34-04.00   32-08.00  
+ 27 Alan Mead                 10 Southeastern        32-00.00   29-02.50  
+ 28 Corey Allen               10 Fairfield B         27-07.50   27-00.25  
+ 29 Darian Daugherty          10 Crooksville         32-00.00   26-05.00  
+ 30 Sam Conacher               9 Huntington R        25-00.00   25-09.75  
+ 31 Devon Bowers               9 Westfall            25-02.50   25-02.00  
+ 32 Lance Dellenbaugh         11 Whiteoak                       21-11.00  
+ 33 Hunter McIntosh            9 Fairfield B         22-01.50   21-08.00  
+ -- Draven Stodgel            10 Hillsboro           46-00.00       FOUL  
+ 
+Event 33  Girls Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Emma Myers                10 Logan                           8-06.00   10   
+  2 Riley Wrightsel           11 Chillicothe          9-00.00    8-00.00    8   
+  3 Hannah Skinner            12 Adena                7-00.00    7-00.00    6   
+  4 Ashley Carter              9 Piketon              5-05.00    7-00.00    5   
+  5 Lexis Fickel              11 Logan                           6-06.00    4   
+ -- Audra Danielle Green      11 Logan B                              NH  
+ -- Elyssa Wolfe               9 Logan B                              NH  
+ 
+Event 34  Boys Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Austin Goolsby            12 Hillsboro           15-00.00   14-00.00   10   
+  2 Tyler Willams             12 Adena               11-00.00   12-00.00    8   
+  3 Mark Gallimore            10 Hillsboro           12-00.00   11-00.00    6   
+  4 Luke Nichols              12 Piketon             12-06.00   10-06.00    5   
+  5 D.J. Upton-Barrows        11 Chillicothe         11-00.00   10-06.00    4   
+  6 Quentin Montgomery        12 Huntington R        10-00.00   10-00.00    3   
+  7 Marty Link                11 Westfall            11-00.00   10-00.00    2   
+  8 Logan Mossberger          10 Adena               10-00.00    9-06.00    1   
+ -- Tristan Myers             12 Logan               13-00.00         NH  
+ -- Lance Seymour             11 Zane Trace           8-06.00         NH  
+ -- Logan McDowell             9 Zane Trace           7-06.00         NH  
+ -- Marcus Whaley              9 Westfall             9-06.00         NH  
+ -- Will Campanaro            10 Paint Valley         7-00.00         NH  
+ -- Dalton Ewry               10 Paint Valley         7-00.00         NH  
+ -- Joshua Blazer             10 Logan B              9-00.00         NH  
+ -- Shawn Knight              12 Southeastern        10-00.00         NH  
+ -- Ethan Redman               9 Southeastern         8-00.00         NH  
+ -- Dylan Reno                10 Piketon              9-06.00         NH  

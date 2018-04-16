@@ -37,6 +37,16 @@ public interface HyTekListener extends ParseTreeListener {
 	 */
 	void exitLicense(HyTekParser.LicenseContext ctx);
 	/**
+	 * Enter a parse tree produced by {@link HyTekParser#licensee}.
+	 * @param ctx the parse tree
+	 */
+	void enterLicensee(HyTekParser.LicenseeContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#licensee}.
+	 * @param ctx the parse tree
+	 */
+	void exitLicensee(HyTekParser.LicenseeContext ctx);
+	/**
 	 * Enter a parse tree produced by {@link HyTekParser#exportInfo}.
 	 * @param ctx the parse tree
 	 */
@@ -167,6 +177,56 @@ public interface HyTekListener extends ParseTreeListener {
 	 */
 	void exitEventResult(HyTekParser.EventResultContext ctx);
 	/**
+	 * Enter a parse tree produced by {@link HyTekParser#individualResult}.
+	 * @param ctx the parse tree
+	 */
+	void enterIndividualResult(HyTekParser.IndividualResultContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#individualResult}.
+	 * @param ctx the parse tree
+	 */
+	void exitIndividualResult(HyTekParser.IndividualResultContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#relayResult}.
+	 * @param ctx the parse tree
+	 */
+	void enterRelayResult(HyTekParser.RelayResultContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#relayResult}.
+	 * @param ctx the parse tree
+	 */
+	void exitRelayResult(HyTekParser.RelayResultContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#legInfo}.
+	 * @param ctx the parse tree
+	 */
+	void enterLegInfo(HyTekParser.LegInfoContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#legInfo}.
+	 * @param ctx the parse tree
+	 */
+	void exitLegInfo(HyTekParser.LegInfoContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#leg}.
+	 * @param ctx the parse tree
+	 */
+	void enterLeg(HyTekParser.LegContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#leg}.
+	 * @param ctx the parse tree
+	 */
+	void exitLeg(HyTekParser.LegContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#legNumber}.
+	 * @param ctx the parse tree
+	 */
+	void enterLegNumber(HyTekParser.LegNumberContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#legNumber}.
+	 * @param ctx the parse tree
+	 */
+	void exitLegNumber(HyTekParser.LegNumberContext ctx);
+	/**
 	 * Enter a parse tree produced by {@link HyTekParser#place}.
 	 * @param ctx the parse tree
 	 */
@@ -266,4 +326,154 @@ public interface HyTekListener extends ParseTreeListener {
 	 * @param ctx the parse tree
 	 */
 	void exitPoints(HyTekParser.PointsContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#tiebreaker}.
+	 * @param ctx the parse tree
+	 */
+	void enterTiebreaker(HyTekParser.TiebreakerContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#tiebreaker}.
+	 * @param ctx the parse tree
+	 */
+	void exitTiebreaker(HyTekParser.TiebreakerContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#hour}.
+	 * @param ctx the parse tree
+	 */
+	void enterHour(HyTekParser.HourContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#hour}.
+	 * @param ctx the parse tree
+	 */
+	void exitHour(HyTekParser.HourContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#minute}.
+	 * @param ctx the parse tree
+	 */
+	void enterMinute(HyTekParser.MinuteContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#minute}.
+	 * @param ctx the parse tree
+	 */
+	void exitMinute(HyTekParser.MinuteContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#second}.
+	 * @param ctx the parse tree
+	 */
+	void enterSecond(HyTekParser.SecondContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#second}.
+	 * @param ctx the parse tree
+	 */
+	void exitSecond(HyTekParser.SecondContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#decimal}.
+	 * @param ctx the parse tree
+	 */
+	void enterDecimal(HyTekParser.DecimalContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#decimal}.
+	 * @param ctx the parse tree
+	 */
+	void exitDecimal(HyTekParser.DecimalContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#period}.
+	 * @param ctx the parse tree
+	 */
+	void enterPeriod(HyTekParser.PeriodContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#period}.
+	 * @param ctx the parse tree
+	 */
+	void exitPeriod(HyTekParser.PeriodContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#day}.
+	 * @param ctx the parse tree
+	 */
+	void enterDay(HyTekParser.DayContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#day}.
+	 * @param ctx the parse tree
+	 */
+	void exitDay(HyTekParser.DayContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#month}.
+	 * @param ctx the parse tree
+	 */
+	void enterMonth(HyTekParser.MonthContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#month}.
+	 * @param ctx the parse tree
+	 */
+	void exitMonth(HyTekParser.MonthContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#year}.
+	 * @param ctx the parse tree
+	 */
+	void enterYear(HyTekParser.YearContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#year}.
+	 * @param ctx the parse tree
+	 */
+	void exitYear(HyTekParser.YearContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#date}.
+	 * @param ctx the parse tree
+	 */
+	void enterDate(HyTekParser.DateContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#date}.
+	 * @param ctx the parse tree
+	 */
+	void exitDate(HyTekParser.DateContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#clockTime}.
+	 * @param ctx the parse tree
+	 */
+	void enterClockTime(HyTekParser.ClockTimeContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#clockTime}.
+	 * @param ctx the parse tree
+	 */
+	void exitClockTime(HyTekParser.ClockTimeContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#foot}.
+	 * @param ctx the parse tree
+	 */
+	void enterFoot(HyTekParser.FootContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#foot}.
+	 * @param ctx the parse tree
+	 */
+	void exitFoot(HyTekParser.FootContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#inch}.
+	 * @param ctx the parse tree
+	 */
+	void enterInch(HyTekParser.InchContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#inch}.
+	 * @param ctx the parse tree
+	 */
+	void exitInch(HyTekParser.InchContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#number}.
+	 * @param ctx the parse tree
+	 */
+	void enterNumber(HyTekParser.NumberContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#number}.
+	 * @param ctx the parse tree
+	 */
+	void exitNumber(HyTekParser.NumberContext ctx);
+	/**
+	 * Enter a parse tree produced by {@link HyTekParser#words}.
+	 * @param ctx the parse tree
+	 */
+	void enterWords(HyTekParser.WordsContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link HyTekParser#words}.
+	 * @param ctx the parse tree
+	 */
+	void exitWords(HyTekParser.WordsContext ctx);
 }

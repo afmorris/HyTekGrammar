@@ -46,7 +46,7 @@ eventName
 : (ID|number)+;
 
 eventHeader
-: SEPARATOR NEWLINE words NEWLINE SEPARATOR NEWLINE;
+: SEPARATOR NEWLINE words NEWLINE SEPARATOR NEWLINE 'Finals'?;
 
 eventResult
 : individualResult
@@ -132,7 +132,7 @@ year
 : INTEGER_NUMBER;
 
 date
-: day '/' month '/' year;
+: month '/' day '/' year;
 
 clockTime
 : hour ':' minute ':'? second? period;

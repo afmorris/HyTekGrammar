@@ -46,7 +46,7 @@ eventName
 : (ID|number)+;
 
 eventHeader
-: SEPARATOR NEWLINE words NEWLINE SEPARATOR NEWLINE;
+: SEPARATOR NEWLINE words NEWLINE SEPARATOR NEWLINE 'Finals'?;
 
 eventResult
 : individualResult

@@ -54,7 +54,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HyTekVisitor.cs" />
+    <Compile Include="DataModels\Event.cs" />
+    <Compile Include="DataModels\EventInfo.cs" />
+    <Compile Include="DataModels\EventResult.cs" />
+    <Compile Include="DataModels\ExportInfo.cs" />
+    <Compile Include="DataModels\File.cs" />
+    <Compile Include="DataModels\IndividualResult.cs" />
+    <Compile Include="DataModels\Leg.cs" />
+    <Compile Include="DataModels\LegInfo.cs" />
+    <Compile Include="DataModels\License.cs" />
+    <Compile Include="DataModels\Meet.cs" />
+    <Compile Include="DataModels\RelayResult.cs" />
+    <Compile Include="DataModels\Performance.cs" />
+    <Compile Include="Listeners\EventListener.cs" />
+    <Compile Include="Listeners\ExportInfoListener.cs" />
+    <Compile Include="Listeners\LicenseListener.cs" />
+    <Compile Include="Listeners\MeetInfoListener.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -64,7 +79,9 @@
       <Generator>MSBuild:Compile</Generator>
       <CustomToolNamespace>HyTekLanguageApplication</CustomToolNamespace>
     </Antlr4>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

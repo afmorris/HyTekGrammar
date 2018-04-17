@@ -19,10 +19,10 @@ exportDate
 : date clockTime;
 
 meetInfo
-: meetName '-' meetDate NEWLINE meetLocation NEWLINE 'Results' NEWLINE;
+: meetName '-' meetDate NEWLINE (meetLocation NEWLINE)? (date NEWLINE)? 'Results' NEWLINE;
 
 meetName
-: words;
+: (ID|number)+;
 
 meetDate
 : date;
@@ -34,7 +34,7 @@ event
 : eventInfo NEWLINE eventHeader eventResult+ NEWLINE+;
 
 eventInfo
-: eventNumber eventGender eventName ;
+: eventNumber? eventGender eventName ;
 
 eventNumber
 : 'Event' number;
@@ -53,10 +53,16 @@ eventResult
   | relayResult;
 
 individualResult
-: place athleteName athleteYear? schoolName seed? performance heatNumber? points? tiebreaker? NEWLINE;
+: place athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE;
 
 relayResult
-: place schoolName seed? performance heatNumber? points? tiebreaker? NEWLINE legInfo?;
+: place schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE legInfo?;
+
+metric
+: foot '.' inch 'm';
+
+wind
+: 'NWI';
 
 legInfo
 : leg leg NEWLINE leg leg NEWLINE;
@@ -158,6 +164,6 @@ DIGIT : ('0'..'9');
 DQPLACE : '--' ;
 SEPARATOR : '='+ ;
 INT : [0-9]+ ;
-ID  : [a-zA-Z"#'.\-]+ ;
+ID  : [a-zA-Z"#'.\-:]+ ;
 NEWLINE : '\r'? '\n' ;
 WS : [ \t]+ -> skip ;

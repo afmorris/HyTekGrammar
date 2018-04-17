@@ -14,6 +14,8 @@ namespace HyTekLanguageApplication
         {
             var html = string.Empty;
             var url = "http://www.baumspage.com/track/zanetrace/2018/Results%20(meet%20suspended%20after%20girls%203200).htm";
+            //var url = "http://www.baumspage.com/track/jackson/2018/Results.htm";
+            //var url = "http://www.baumspage.com/track/madisoncomp/2018/2018%20Results.htm";
             using (var client = new WebClient())
             {
                 html = client.DownloadString(url);

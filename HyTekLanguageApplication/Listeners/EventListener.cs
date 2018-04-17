@@ -13,7 +13,11 @@ namespace HyTekLanguageApplication.Listeners
         {
             var @event = new Event();
 
-            @event.EventInfo.Number = int.Parse(context.eventInfo().eventNumber().number().GetText());
+            if (context.eventInfo().eventNumber() != null)
+            {
+                int.TryParse(context.eventInfo().eventNumber().number().GetText(), out var eventNumber);
+                @event.EventInfo.Number = eventNumber;
+            }
             @event.EventInfo.Gender = context.eventInfo().eventGender().GetText();
             @event.EventInfo.Name = context.eventInfo().eventName().GetText();
 

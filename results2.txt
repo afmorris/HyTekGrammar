@@ -1,634 +1,1281 @@
-Licensed to On The Mark Timing - Contractor License
-                                       HY-TEK's Meet Manager 3/30/2018 08:09 PM
-                  4th Annual Madison Invitational - 3/30/2018                  
-                       Hosted by:  Mansfield Madison HS                        
-                                   3/30/2018                                   
+Licensed to Fredericktown High School  HY-TEK's Meet Manager 4/14/2018 05:06 PM
+                        2018 Cowen Rebird Invitational                         
+                            Loudonville High School                            
                                     Results                                    
  
-Girls 100 Meter Dash
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
+Event 1  Girls 4x800 Meter Relay
+================================================================================
+    School                                               Seed     Finals  Points
+================================================================================
 Finals
-  1 Alaya Grose               12 Mansfield Se             13.16   2  10   
-  2 Jordan Taylor             10 Hillsdale                13.20   2   8   
-  3 Cheyanne Davis            12 Mad. Compreh             13.41   2   6   
-  4 Jasmine Beery             10 Smithville               13.46   2   4   
-  5 Chesney Davis              9 Mad. Compreh             13.73   2   2   
-  6 Elya John                 12 Shelby                   13.83   2   1   
-  7 Kayla Evans                9 Shelby                   13.93   1 
-  8 Naomi Pokrzywa            10 Ashland                  13.95   1 
-  9 Emily Hart                10 Clear Fork               14.19   1 
- 10 Hayley Unkefer            11 Smithville               14.33   1 
- 11 Emma Bell                  9 Ashland                  14.41   1 
- 12 Destiny Yocum              9 Mansfield Se             14.45   2 
- 13 Cassandra Vaughn          12 Clear Fork               14.49   1 
- 14 Amber Maki                10 Hillsdale                15.34   2 
+  1 Cloverleaf                                       10:54.00   10:22.73   10   
+     1) #500 Kurtz, Tommie              2) #503 Freeland, Bailey          
+     3) #513 Porras, Maria              4) #517 Oliver, Jenna             
+  2 Rittman                                          10:35.00   10:24.03    8   
+     1) #650 Wilson, Cora               2) #655 Gasser, Erica             
+     3) #642 Brainard, Miranda          4) #635 Hill, Brianna             
+  3 Fredericktown                                    10:40.00   10:36.60    6   
+     1) Linhares, Molly                 2) Groseclose, Nichole            
+     3) Shrimplin, Ashlyn               4) Davis, Lauren                  
+  4 Northmor                                         11:32.00   10:39.46    5   
+     1) #355 Ditullio, Julianna         2) #358 Blunk, Kaitlyn            
+     3) #352 Duryea, Jessica            4) #366 Kanagy, Julia             
+  5 Chippewa                                         11:25.06   10:39.98    4   
+     1) #137 Lindquist, Grace           2) #114 Kish, Ashley              
+     3) #101 Lowe, Maddy                4) #125 Henegar, Allie            
+  6 Highland                                         11:50.00   12:20.98    3   
+     1) #514 Schauer, Jordan            2) #504 Cooley, Sarah             
+     3) #518 Schmidt, Katherine         4) #526 White, Miachele           
+  7 Mad. Comprehensive                                          12:28.38    2   
+     1) #419 Slick, Madeline            2) #408 Weaver, Makayla           
+     3) #443 Eckenwiler, Lindsay        4) #426 Bickers, Billi            
+  8 East Knox                                        12:45.00   13:56.16    1   
+     1) #935 Totten, Joci               2) #942 Gebhardt, Cassie          
+     3) #930 Salinas, Jade              4) #945 King, Lexi                
  
-Girls 200 Meter Dash
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Jordan Taylor             10 Hillsdale                27.71   2  10   
-  2 Kaely Pean                12 Ashland                  27.80   2   8   
-  3 Cheyanne Davis            12 Mad. Compreh             28.03   2   6   
-  4 Kari Eckenwiler            9 Mad. Compreh             28.38   2   4   
-  5 Nayasha Franklin          12 Mansfield Se             29.15   2   2   
-  6 Marissa Lynch             12 Shelby                   29.17   1   1   
-  7 Elya John                 12 Shelby                   29.23   1 
-  8 Jenna Jundzilo            11 Smithville               30.30   1 
-  9 Aiyanna Cameron           11 Mansfield Se             30.43   2 
- 10 Maite San Juan            11 Ashland                  30.59   1 
- 11 MeKenna Montgomery        12 Clear Fork               30.62   1 
- 12 Mackenzie Fidler          12 Clear Fork               31.64   1 
- 13 Amber Maki                10 Hillsdale                31.71   2 
+Event 2  Boys 4x800 Meter Relay
+================================================================================
+    School                                               Seed     Finals  Points
+================================================================================
+  1 Chippewa                                          8:45.00    8:40.07   10   
+     1) #125 Hennis, Steve              2) #116 Gerstenslager, Cameron    
+     3) #102 Franks, Tanyon             4) #118 Sims, Clayton             
+  2 Cloverleaf                                        8:55.00    8:45.51    8   
+     1) #555 Bailey, Nick               2) #564 Stepp, Frank              
+     3) #553 West, Dillon               4) #565 Vaughan, Tristan          
+  3 Fredericktown                                     9:00.00    8:47.01    6   
+     1) #622 Smith, Dakota              2) #617 Roddy, Roghan             
+     3) #620 Riley, Connor              4) #611 Spencer, Paden            
+  4 East Knox                                         9:07.00    9:03.44    5   
+     1) #905 Whitney, Nathan            2) #913 Kohl, Jeremieh            
+     3) #911 Gilmore, Anthony           4) #907 Moreland, Dawson          
+  5 Northmor                                          9:35.00    9:05.50    4   
+     1) #303 Evans, Mostyn              2) #329 Keen, Kooper              
+     3) #319 Price, Kyle                4) #317 Keen, Gavin               
+  6 Mount Gilead                                      9:20.00    9:23.28    3   
+     1) #670 Zmuda, Evan                2) #609 Clark, Tyler              
+     3) #606 Mowery, Eric               4) #621 Shipman, Sy               
+  7 Highland                                          9:30.21    9:30.08    2   
+     1) #502 Tague, Tucker              2) #525 Lee, Dalton               
+     3) #505 Mentzer, Travis            4) #526 Damron, Bailey            
+  8 Loudonville                                                  9:40.40    1   
+     1) #707 Young, Harley              2) #705 Fraley, Mason             
+     3) #702 Rhodes, Seth               4) #712 Cawrse, Anthony           
+  9 Coshocton                                         9:45.00    9:45.42  
+     1) #512 George, Jacob              2) #507 Angleo, Joey              
+     3) #513 Kobel, Noah                4) #518 Mathias, Payne            
+ 10 Hillsdale                                         9:45.00    9:52.15  
+     1) #333 Koster, Kooper             2) #347 Adams, Drew               
+     3) #345 Parker, Mason              4) #343 Sipe, Josh                
+ 11 Rittman                                          10:10.00    9:54.66  
+     1) #614 LaBouf, Jon-Luc            2) #617 Cornelius, Seth           
+     3) #608 Vale, Eli                  4) #607 Holman, Arizona           
+ 12 Mad. Comprehensive                                           9:56.03  
+     1) #431 Amos, Tyler                2) #438 Gilbert, David            
+     3) #437 Wagner, Ashton             4) #478 Liviskie, Howie           
+ 13 Utica                                            10:10.00   10:19.95  
+     1) Humphrey, Kai                   2) Talty, Matt                    
+     3) Fondriest, Brendon              4) Alexander, Jack                
+ 14 Cardington-Lincoln                                9:58.00   10:23.55  
+     1) #28 White, Mason                2) #43 Meade, Kaleb               
+     3) #24 Gheen, Devin                4) Hallabrin, Racine              
+ 15 Danville                                         11:00.00   11:06.17  
+     1) #643 Wilson, Tyler              2) #619 Cook, Charlie             
+     3) #640 Vickers, Gavin             4) #622 Pitsenberger, Thor        
  
-Girls 400 Meter Dash
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Maddie Heimlich           11 Shelby                 1:01.69   2  10   
-  2 Cheyanne Davis            12 Mad. Compreh           1:03.43   2   8   
-  3 Tara Friesen              11 Ashland                1:04.67   2   6   
-  4 Phyllis Stanfield          9 Mad. Compreh           1:04.76   2   4   
-  5 Nikki Schuster            12 Ashland                1:05.44   2   2   
-  6 Marissa Lynch             12 Shelby                 1:10.60   2   1   
-  7 Ellie Brillhart           10 Smithville             1:11.32   1 
-  8 Trinity Murray            11 Clear Fork             1:12.63   1 
-  9 Valerie Golden            11 Clear Fork             1:13.89   1 
- 10 Dairrionna Hood           10 Mansfield Se           1:15.42   2 
- 11 Zoe Eulett                 9 Hillsdale              1:15.93   1 
- 12 Sydney Tekempel           11 Smithville             1:16.05   1 
- 13 Ashley Graves             10 Mansfield Se           1:17.28   2 
+Event 3  Girls 100 Meter Hurdles
+============================================================================
+8 Advance:  Top 1 Each Heat plus Next 5 Best Times
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 #  752 Kline, Stephanie      Loudonville                       17.21Q  2 
+  2 #  403 Lambert, Alyssa       Mad. Compreh           18.00      18.35Q  1 
+  3 #  676 Sullivan, Samanth     Mount Gilead           18.20      18.91Q  3 
+  4 #  939 Van Hoose, Ashley     East Knox              17.29      17.64q  2 
+  5 #  430 Ladd, Tori            Mad. Compreh           19.00      18.69q  1 
+  5 #  118 Lattea, Abby          Chippewa               17.40      18.69q  1 
+  7       Grooms, Lilly          Cardington-L           17.00      18.98q  3 
+  8 #  121 Delagrange, Avery     Chippewa               18.08      18.99q  2 
+  9 #  601 Rolince, Makayla      Danville               18.50      19.73   3 
+ 10 #  670 Tinch, Adriana        Mount Gilead           20.00      19.98   2 
+ 11 #  375 Bloom, Natalie        Northmor               19.00      20.18   2 
+ 12 #  548 Malena, Katelyn       Cloverleaf             20.00      20.21   3 
+ 13 #  659 Isaac, Sion           Rittman                22.00      20.32   3 
+ 14 #  938 Opfer, Emily          East Knox              19.07      20.56   1 
+ 15 #  534 Zamer, Madison        Highland               20.90      20.63   1 
+ 16 #  604 Thomas, Brianna       Danville               20.70      20.89   1 
+ 17       Wydick, Danielle       Utica                             20.92   1 
+ 18       Pauley, Madeline       Fredericktow           21.60      21.07   3 
+ 19 #  522 Bolton, Madison       Highland               20.53      21.38   2 
+ 20 #  653 Loverink, Rena        Rittman                22.00      21.51   2 
+ 21 #   34 Crum, Isabelle        Cardington-L           20.50      22.25   3 
+ 22       Baker, Natalie         Fredericktow           22.00      22.61   1 
+ 23 #  370 Houghtby, Maleah      Northmor               21.00      22.75   2 
+ 24 #  755 Michalovich, Anne     Loudonville                       26.52   3 
  
-Girls 800 Meter Run
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Makenna Heimlich          11 Shelby                 2:25.57   10   
-  2 Emily Atwell              10 Mad. Compreh           2:30.54    8   
-  3 Emilie Lemon               9 Ashland                2:34.91    6   
-  4 Veronica Barrios          10 Ashland                2:37.58    4   
-  5 Nicole Cook                9 Mad. Compreh           2:41.56    2   
-  6 Rebekah Carr               9 Smithville             2:44.27    1   
-  7 Keeley Mack                9 Shelby                 2:51.80  
-  8 Cora Mong                 10 Smithville             3:03.03  
-  9 Zoe Eulett                 9 Hillsdale              3:05.44  
- 10 Tymber Hetsler            11 Clear Fork             3:19.41  
- 11 Lauren Hollar             10 Clear Fork             3:24.33  
+Event 3  Girls 100 Meter Hurdles
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 #  752 Kline, Stephanie      Loudonville            17.21      16.69   10   
+  2 #  676 Sullivan, Samanth     Mount Gilead           18.91      18.02    8   
+  3 #  403 Lambert, Alyssa       Mad. Compreh           18.35      18.05    6   
+  4 #  121 Delagrange, Avery     Chippewa               18.99      18.28    5   
+  5 #  430 Ladd, Tori            Mad. Compreh           18.69      18.43    4   
+  6 #  118 Lattea, Abby          Chippewa               18.69      18.62    3   
+  7       Grooms, Lilly          Cardington-L           18.98      18.78    2   
+  8 #  939 Van Hoose, Ashley     East Knox              17.64      20.98    1   
  
-Girls 1600 Meter Run
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Makenna Heimlich          11 Shelby                 5:28.87   10   
-  2 Emily Atwell              10 Mad. Compreh           5:31.14    8   
-  3 Taylor Russell             9 Mad. Compreh           5:40.44    6   
-  4 Danielle Honaker          10 Ashland                5:46.62    4   
-  5 Ava Carnegie              10 Hillsdale              6:09.57    2   
-  6 Ella McBride              10 Ashland                6:12.52    1   
-  7 Kenzie Brookover          11 Smithville             6:26.74  
-  8 Aubrey Bailey              9 Clear Fork             6:36.49  
-  9 Chloe Hlad                12 Shelby                 6:39.59  
- 10 Kate Larson               11 Smithville             6:42.19  
- 11 Madeline Hamilton         10 Mansfield Se           7:32.81  
+Event 4  Boys 110 Meter Hurdles
+============================================================================
+8 Advance:  Top 1 Each Heat plus Next 5 Best Times
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 #  126 Zollinger, Jake       Chippewa               16.50      16.99Q  1 
+  2 #  528 Dickerson, Devin      Coshocton              15.60      17.76Q  3 
+  3 #  315 Petulla, Anthony      Northmor               17.60      18.33Q  2 
+  4 #  310 Petulla, Adam         Northmor               18.80      18.08q  1 
+  5 #  906 Enderle, Spencer      East Knox              17.83      18.09q  1 
+  6 #  416 Shasky, Hunter        Mad. Compreh           18.00      18.39q  1 
+  7 #  908 Moreland, Brice       East Knox              18.75      18.46q  2 
+  8 #  622 Baer, Aaron           Mount Gilead           17.80      18.91q  3 
+  9 #  579 Taylor, DeAnte        Cloverleaf             18.90      18.92   1 
+ 10       Imbody, Michael        Utica                  16.08      18.94   2 
+ 11 #  425 Richter, Anthony      Mad. Compreh           18.50      19.01   3 
+ 12 #  614 Riel, Colton          Fredericktow           18.50      19.08   3 
+ 13 #  556 Remmert, Landon       Highland               19.03      19.22   2 
+ 14       Gray, Brayden          Hiland                 17.80      19.74   2 
+ 15       Homman, Brett          Utica                  17.49      19.76   1 
+ 16       Chupp, Aaron           Hiland                 19.24      19.90   3 
+ 17 #  106 Frazee, Michael       Chippewa               17.60      19.90   3 
+ 18 #  625 Kerr, Skyler          Danville               20.00      20.15   2 
+ 19 #  725 Gebhart, Russell      Loudonville                       21.01   2 
+ 20 #  617 Cronenwett, Colto     Mount Gilead           20.20      22.24   1 
+ 21 #  640 Vickers, Gavin        Danville               26.00      23.89   1 
  
-Girls 3200 Meter Run
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Taylor Russell             9 Mad. Compreh          12:27.78   10   
-  2 Adrianna Russell          10 Mad. Compreh          12:46.28    8   
-  3 Natalie Jurjevic          10 Ashland               13:02.06    6   
-  4 Ashleigh Clabaugh         10 Smithville            13:24.62    4   
-  5 Alex Cundiff              11 Shelby                13:25.06    2   
-  6 Ava Carnegie              10 Hillsdale             13:29.47    1   
-  7 Lizzy Liles               10 Shelby                13:36.41  
-  8 Kenzie Brookover          11 Smithville            13:58.70  
-  9 Lydia Kerschner           10 Ashland               14:03.17  
- 10 Emily Snell               11 Clear Fork            14:37.63  
+Event 4  Boys 110 Meter Hurdles
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 #  126 Zollinger, Jake       Chippewa               16.99      16.66   10   
+  2 #  528 Dickerson, Devin      Coshocton              17.76      16.68    8   
+  3 #  622 Baer, Aaron           Mount Gilead           18.91      17.76    6   
+  4 #  906 Enderle, Spencer      East Knox              18.09      17.95    5   
+  5 #  315 Petulla, Anthony      Northmor               18.33      17.96    4   
+  6 #  416 Shasky, Hunter        Mad. Compreh           18.39      18.25    3   
+  7 #  908 Moreland, Brice       East Knox              18.46      18.36    2   
+  8 #  310 Petulla, Adam         Northmor               18.08      18.66    1   
  
-Girls 100 Meter Hurdles 33"
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Alaya Grose               12 Mansfield Se             14.97   2  10   
-  2 Lauren Callen             12 Clear Fork               16.55   2   8   
-  3 Kari Eckenwiler            9 Mad. Compreh             16.65   2   6   
-  4 Kassie Stine               9 Shelby                   17.85   2   4   
-  5 Caitlyn Zeigler           11 Mad. Compreh             17.89   2   2   
-  6 Lauryn Thut               11 Smithville               18.87   1   1   
-  7 Sydney Tekempel           11 Smithville               19.30   2 
-  8 Macey Mills               12 Ashland                  19.56   1 
-  9 Alysia Miller             10 Clear Fork               20.26   1 
+Event 5  Girls 100 Meter Dash
+============================================================================
+8 Advance:  Top 1 Each Heat plus Next 3 Best Times
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 #  652 Busic, Briana         Rittman                13.20      13.04Q  4 
+  2 #  307 Taylor, Jordan        Hillsdale              13.00      13.59Q  5 
+  3 #  528 Keener, Sara          Cloverleaf             13.40      13.70Q  3 
+  4 #  657 Collins, Faith        Rittman                           14.29Q  1 
+  5 #  369 Bennett, Brooke       Northmor               13.40      15.00Q  2 
+  6 #  752 Kline, Stephanie      Loudonville                       13.34q  4 
+  7 #  601 Rolince, Makayla      Danville               13.50      13.66q  5 
+  8 #  529 Boltz, Maddie         Cloverleaf             13.50      13.87q  3 
+  9 #  519 Carpenter, Peyton     Highland               13.71      13.88   5 
+ 10       Oswalt, Paige          Fredericktow           13.80      14.21   3 
+ 11 #  607 Wilson, Rachel        Danville               14.40      14.29   5 
+ 12 #  379 Cutrupi, Vivenne      Northmor               13.80      14.30   4 
+ 13       Brannon, Sage          Cardington-L           13.50      14.31   4 
+ 14       Robinson, Kallie       Utica                             14.41   5 
+ 15       Johnston, Ashley       Fredericktow           14.30      14.43   4 
+ 16 #  109 Markley, Alexis       Chippewa               14.70      14.80   4 
+ 17 #  315 Maki, Amber           Hillsdale              14.40      14.82   5 
+ 18 #  671 Chapman, Addison      Mount Gilead           14.00      15.00   1 
+ 19 #  403 Lambert, Alyssa       Mad. Compreh           15.00      15.08   3 
+ 20       Somers, Marissa        Hiland                 13.50      15.09   1 
+ 21 #  100 Bennett, Abby         Coshocton              14.00      15.16   2 
+ 22 #  418 Smith, Haili          Mad. Compreh           15.40      15.16   1 
+ 23 #  122 Kettler, Ellie        Chippewa               14.10      15.27   3 
+ 24 #  680 Philpot, Olivia       Mount Gilead           16.00      15.29   2 
+ 25       Miller, Hailey         Hiland                 13.50      15.30   2 
+ 26 #  751 Karper, Tressa        Loudonville                       15.32   4 
+ 27 #  517 Albertson, Rachel     Highland               13.84      15.32   2 
+ 28 #  914 Hull, Ashley          East Knox              15.10      15.35   2 
+ 29       Robinson, Hailey       Utica                             15.44   3 
+ 30 #  105 Miller, Belle         Coshocton              14.00      15.64   1 
+ 31 #  912 Compton, Katie        East Knox              15.40      16.35   1 
+ 32 #  533 Donahue (wheeled)     Cloverleaf                        49.85   5 
  
-Girls 300 Meter Hurdles 30"
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Kari Eckenwiler            9 Mad. Compreh             50.23   10   
-  2 Kassie Stine               9 Shelby                   51.29    8   
-  3 Caitlyn Zeigler           11 Mad. Compreh             52.69    6   
-  4 Hayley Brown              12 Clear Fork               56.09    4   
-  5 Alysia Miller             10 Clear Fork               58.05    2   
-  6 Lauryn Thut               11 Smithville             1:00.60    1   
-  7 Macey Mills               12 Ashland                1:01.51  
+Event 5  Girls 100 Meter Dash
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 #  652 Busic, Briana         Rittman                13.04      12.86   10   
+  2 #  752 Kline, Stephanie      Loudonville            13.34      13.12    8   
+  3 #  307 Taylor, Jordan        Hillsdale              13.59      13.55    6   
+  4 #  601 Rolince, Makayla      Danville               13.66      13.65    5   
+  5 #  529 Boltz, Maddie         Cloverleaf             13.87      13.72    4   
+  6 #  528 Keener, Sara          Cloverleaf             13.70      13.82    3   
+  7 #  657 Collins, Faith        Rittman                14.29      14.10    2   
+  8 #  369 Bennett, Brooke       Northmor               15.00      14.42    1   
  
-Girls 4x100 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Mad. Comprehensive  'A'                               53.81   10   
-     1) Olivia Remy 10                  2) Montana Walker 9               
-     3) Caitlyn Zeigler 11              4) Chesney Davis 9                
-  2 Mansfield Senior  'A'                                 54.44    8   
-     1) Destiny Yocum 9                 2) Nayasha Franklin 12            
-     3) Akira Johnson 10                4) Alaya Grose 12                 
-  3 Ashland  'A'                                          54.91    6   
-     1) Emma Bell 9                     2) Naomi Pokrzywa 10              
-     3) Alayna Jorden 12                4) Emma Etzwiler 10               
-  4 Smithville  'A'                                       55.06    4   
-     1) Emma Leway 12                   2) Morgan Stoller 9               
-     3) Hayley Unkefer 11               4) Jenna Jundzilo 11              
-  5 Clear Fork  'A'                                       55.35    2   
-     1) Mariah Smith 9                  2) Cassandra Vaughn 12            
-     3) Emily Hart 10                   4) Lauren Callen 12               
-  6 Shelby  'A'                                           57.07    1   
-     1) Kylie Barber 11                 2) Makenna Noel 9                 
-     3) Kelsey Weaver 9                 4) Kayla Evans 9                  
-  7 Hillsdale  'A'                                        57.09  
-     1) Amber Maki 10                   2) Lorena Derr 10                 
-     3) Shelby Taylor 11                4) Jordan Taylor 10               
+Event 6  Boys 100 Meter Dash
+============================================================================
+8 Advance:  Top 1 Each Heat plus Next 4 Best Times
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 #  331 Stiltner, Trace       Hillsdale              11.20      11.59Q  3 
+  2 #  509 Veley, Brock          Highland               10.96      11.59Q  4 
+  3 #  550 Weaver, Jack          Highland               11.43      11.91Q  1 
+  4 #  311 Becker, Conan         Northmor               11.30      12.00Q  2 
+  5 #   22 Goers, Mason          Cardington-L           12.00      11.68q  3 
+  6 #  570 Munchick, Zack        Cloverleaf             11.70      11.88q  4 
+  7 #  628 Zolman, Zayde         Fredericktow           11.92      11.92q  4 
+  8 #  606 Hamilton, Alex        Fredericktow           11.91      11.93q  4 
+  9 #  475 Bond, Miles           Mad. Compreh           11.80      12.09   4 
+ 10 #  340 Slagle, Braxton       Hillsdale              11.70      12.15   3 
+ 11 #  324 Barnhart, Garrett     Northmor                          12.29   1 
+ 12 #  140 Petty, Tre            Chippewa               11.90      12.49   1 
+ 13 #  611 Holt, Alex            Danville               11.80      12.54   2 
+ 14 #  903 Moreland, Brant       East Knox              11.80      12.58   1 
+ 15       Hershey, Cordell       Hiland                 12.84      12.62   2 
+ 16 #  556 Manzuk, John          Cloverleaf             11.90      12.67   3 
+ 17       Wagner, James          Mad. Compreh           11.80      12.71   3 
+ 18       Yoder, Jadon           Hiland                 12.77      12.77   4 
+ 19       Loper, Mason           Utica                  12.19      12.81   2 
+ 20 #  663 Clark, Colten         Mount Gilead           12.50      12.85   2 
+ 21 #  122 Long, Nick            Chippewa               11.90      12.86   2 
+ 22 #  544 Johns, Cameron        Coshocton              12.50      12.86   3 
+ 23 #  626 Franks, Justice       Mount Gilead           12.50      13.03   1 
+ 24 #  508 George, Adam          Coshocton              13.00      13.14   1 
+ 25 #  721 Paxton, Ethan         Loudonville                       13.45   2 
+ 26 #  647 Looney, Mason         Danville               12.80      13.49   3 
+ 27 #  920 Davis, Stephen        East Knox              13.20      13.51   1 
+ 28 #   32 Coder, Nick           Cardington-L           12.50      13.95   4 
+ 29 #  701 Portz, Trevor         Loudonville                       14.42   3 
+ 30 #  604 Gibson, Josh          Rittman                           14.61   1 
  
-Girls 4x200 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Ashland  'A'                                        1:52.47   10   
-     1) Emma Etzwiler 10                2) Tara Friesen 11                
-     3) Nikki Schuster 12               4) Kaely Pean 12                  
-  2 Mad. Comprehensive  'A'                             1:53.79    8   
-     1) Olivia Remy 10                  2) Montana Walker 9               
-     3) Phyllis Stanfield 9             4) Chesney Davis 9                
-  3 Shelby  'A'                                         1:55.42    6   
-     1) Maddie Heimlich 11              2) Faith Bailey 12                
-     3) Elya John 12                    4) Marissa Lynch 12               
-  4 Clear Fork  'A'                                     1:55.79    4   
-     1) Mariah Smith 9                  2) Cassandra Vaughn 12            
-     3) Emily Hart 10                   4) Lauren Callen 12               
-  5 Smithville  'A'                                     1:57.36    2   
-     1) Jenna Jundzilo 11               2) Morgan Stoller 9               
-     3) Ellie Brillhart 10              4) Jasmine Beery 10               
-  6 Mansfield Senior  'A'                               1:57.68    1   
-     1) Destiny Yocum 9                 2) Nayasha Franklin 12            
-     3) Aiyanna Cameron 11              4) Tor'Reian Brown 11             
-  7 Hillsdale  'A'                                      2:03.72  
-     1) Amber Maki 10                   2) Lorena Derr 10                 
-     3) Shelby Taylor 11                4) Jordan Taylor 10               
+Event 6  Boys 100 Meter Dash
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 #  331 Stiltner, Trace       Hillsdale              11.59      11.24   10   
+  2 #  509 Veley, Brock          Highland               11.59      11.35    8   
+  3 #   22 Goers, Mason          Cardington-L           11.68      11.36    6   
+  4 #  570 Munchick, Zack        Cloverleaf             11.88      11.68    5   
+  5 #  628 Zolman, Zayde         Fredericktow           11.92      11.71    4   
+  6 #  311 Becker, Conan         Northmor               12.00      11.82    3   
+  7 #  606 Hamilton, Alex        Fredericktow           11.93      11.90    2   
+  8 #  550 Weaver, Jack          Highland               11.91      11.96    1   
  
-Girls 4x400 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Mad. Comprehensive  'A'                             4:20.73   10   
-     1) Cheyanne Davis 12               2) Montana Walker 9               
-     3) Phyllis Stanfield 9             4) Emily Atwell 10                
-  2 Shelby  'A'                                         4:25.12    8   
-     1) Maddie Heimlich 11              2) Marissa Lynch 12               
-     3) CC Gurney 11                    4) Makenna Heimlich 11            
-  3 Ashland  'A'                                        4:26.17    6   
-     1) Emma Bell 9                     2) Tara Friesen 11                
-     3) Nikki Schuster 12               4) Kaely Pean 12                  
-  4 Clear Fork  'A'                                     5:02.83    4   
-     1) Mariah Smith 9                  2) Trinity Murray 11              
-     3) Valerie Golden 11               4) Hayley Brown 12                
+Event 8  Girls 4x200 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Fredericktown                                     1:57.50    1:57.74   2  10   
+     1) Smith, Leona                    2) Oswalt, Paige                  
+     3) Hamilton, Almonnie              4) Hamilton, Katerina             
+  2 Northmor                                          1:56.00    1:59.26   2   8   
+     1) #365 Cutrupi, Frankie           2) #379 Cutrupi, Vivenne          
+     3) #375 Bloom, Natalie             4) #380 Wiseman, Bailey           
+  3 Hiland                                            2:03.00    2:01.65   2   6   
+     1) Miller, Brooke                  2) Somers, Marissa                
+     3) Miller, Hailey                  4) Yoder, Nikki                   
+  4 Rittman                                           2:02.00    2:01.86   2   5   
+     1) #677 Dingess, Kacie             2) #657 Collins, Faith            
+     3) #674 Kitchen, Jasmyn            4) #649 Schuster, Victoria        
+  5 Danville                                          2:17.00    2:02.60   1   4   
+     1) #602 Rine, Julia                2) #607 Wilson, Rachel            
+     3) #629 Furay, Haley               4) #603 Furay, Hannah             
+  6 East Knox                                         1:59.00    2:02.65   2   3   
+     1) #914 Hull, Ashley               2) #902 Annett, Madison           
+     3) #931 Mahle, Jaclyn              4) #943 Huggins, Taylor           
+  7 Loudonville                                                  2:03.82   1   2   
+     1) #751 Karper, Tressa             2) #763 Reddix, Jaden             
+     3) #779 Farley, Cheyanne           4) #757 Forbes, Cora              
+  8 Highland                                                     2:05.23   1   1   
+     1) #530 Oder, Bridget              2) #508 Belcher, Makenna          
+     3) #519 Carpenter, Peyton          4) #502 Church, Whitney           
+  9 Cardington-Lincoln                                2:06.00    2:06.88   1 
+     1) McElwee, Alicia                 2) Brannon, Sage                  
+     3) #3 Scurlock, Bella              4) #37 Brehm, Maddie              
+ 10 Mount Gilead                                      2:05.00    2:07.09   2 
+     1) #673 Mathwig, Madison           2) #660 Shipman, Jadyn            
+     3) #670 Tinch, Adriana             4) #676 Sullivan, Samantha        
+ 11 Coshocton                                         2:00.00    2:07.76   2 
+     1) #100 Bennett, Abby              2) #104 Casey, Emily              
+     3) #107 Jansen, Sarah              4) #115 Haley, Kennedy            
+ 12 Cloverleaf                                        2:00.00    2:08.23   2 
+     1) #549 Wilson, Kirsten            2) #545 Pintos, Juliet            
+     3) #514 Hansen, Nyah               4) #507 Ayesteran, Sara           
+ -- Utica                                             2:09.00         DQ   1 
+     1) Hill, Sierra                    2) Robinson, Hailey               
+     3) Swetnam, Brittany               4) Hornyak, Kim                   
  
-Girls 4x800 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Mad. Comprehensive  'A'                            10:57.54   10   
-     1) Haili Smith 10                  2) Nicole Cook 9                  
-     3) Adrianna Russell 10             4) Ashley Richter 9               
-  2 Smithville  'A'                                    11:15.75    8   
-     1) Ashleigh Clabaugh 10            2) Rebekah Carr 9                 
-     3) Kate Larson 11                  4) Kenzie Brookover 11            
-  3 Ashland  'A'                                       11:19.49    6   
-     1) Emilie Lemon 9                  2) Emma Britton 9                 
-     3) Oliva Plank 11                  4) Veronica Barrios 10            
-  4 Shelby  'A'                                        11:39.03    4   
-     1) Alex Cundiff 11                 2) Lizzy Liles 10                 
-     3) Katie Owen 9                    4) Chloe Hlad 12                  
+Event 9  Boys 4x200 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Fredericktown                                     1:35.00    1:33.95   2  10   
+     1) #606 Hamilton, Alex             2) #628 Zolman, Zayde             
+     3) #613 Davis, Cole                4) #612 Smith, Noah               
+  2 Northmor                                          1:37.00    1:37.19   2   8   
+     1) #307 Martinez, Tony             2) #324 Barnhart, Garrett         
+     3) #323 Becker, Conor              4) #311 Becker, Conan             
+  3 Hillsdale                                         1:38.00    1:37.45   2   6   
+     1) #338 Jones, Bryce               2) #348 Myers, Mason              
+     3) #342 Davis, Josh                4) #331 Stiltner, Trace           
+  4 Chippewa                                          1:36.50    1:37.92   2   5   
+     1) #112 Smith, Drew                2) #116 Gerstenslager, Cameron    
+     3) #102 Franks, Tanyon             4) #140 Petty, Tre                
+  5 Highland                                          1:41.65    1:38.65   2   4   
+     1) #509 Veley, Brock               2) #526 Damron, Bailey            
+     3) #527 Weissenfluh, Ryan          4) #550 Weaver, Jack              
+  6 Hiland                                            1:39.85    1:38.70   2   3   
+     1) Gray, Brayden                   2) Casey, Evan                    
+     3) Yoder, Nathaniel                4) Yoder, Jadon                   
+  7 Mount Gilead                                      1:42.00    1:40.61   2   2   
+     1) #622 Baer, Aaron                2) #635 Bolha, Jason              
+     3) #663 Clark, Colten              4) #619 Page, Scott               
+  8 Coshocton                                         1:37.00    1:42.31   2   1   
+     1) #504 Bender, Adam               2) #544 Johns, Cameron            
+     3) #527 Gray, Gunner               4) #528 Dickerson, Devin          
+  9 Cloverleaf                                        1:50.00    1:46.34   1 
+     1) #581 Arnold, Jake               2) #569 Nau, Jacob                
+     3) #559 Flora, Cooper              4) #590 McNeal, Cameron           
+ 10 East Knox                                         1:44.00    1:53.48   1 
+     1) #915 Kannady, Blake             2) #948 Smith, Matt               
+     3) #946 Kohl, Isiah                4) #920 Davis, Stephen            
+ -- Utica                                             1:48.98         DQ   1 
+     1) Martinsen, Nick                 2) Loper, Mason                   
+     3) Alexander, Jack                 4) Geiger, Joey                   
+ -- Cardington-Lincoln                                1:50.00         DQ   1 
+     1) #28 White, Mason                2) #32 Coder, Nick                
+     3) #1 Lester, Zach                 4) Streich, Skyler                
+ -- Danville                                          1:47.00         DQ   1 
+     1) #634 Butts, Nathen              2) #615 Spearman, Gage            
+     3) #614 Johnson, Langdon           4) #647 Looney, Mason             
+ -- Loudonville                                                       DQ   1 
+     1) #721 Paxton, Ethan              2) #708 Stanger, Ben              
+     3) #711 Taylor-Lloyd, Mason        4) #718 Pryor, Justin             
  
-Girls High Jump
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Faith Bailey              12 Shelby                 5-00.00      1.52m  10   
-  2 Camden McDaniel            9 Ashland                4-10.00      1.47m   8   
-  3 Lexi Muntin                9 Smithville             4-08.00      1.42m   6   
-  4 Kassie Stine               9 Shelby                 4-08.00      1.42m   4   
-  5 Lauren Callen             12 Clear Fork             4-08.00      1.42m   2   
-  6 Cassidy Crowe             11 Mad. Compreh           4-08.00      1.42m   1   
-  7 Lauryn Thut               11 Smithville             4-08.00      1.42m 
-  8 Montana Walker             9 Mad. Compreh           4-06.00      1.37m 
-  9 Lorena Derr               10 Hillsdale              4-04.00      1.32m 
- 10 Alysia Miller             10 Clear Fork             4-02.00      1.27m 
- -- Morgan Sexton             10 Ashland                     NH            
+Event 10  Girls 1600 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  635 Hill, Brianna         Rittman              5:42.00    5:36.25   10   
+  2 #  753 Hinkle, Emma          Loudonville          5:40.00    5:37.91    8   
+  3 #  520 Thompson, Sophia      Highland                        5:41.66    6   
+  4       Stute, Lydia           Fredericktow         5:55.00    5:45.11    5   
+  5 #  650 Wilson, Cora          Rittman                         5:47.13    4   
+  6 #  114 Kish, Ashley          Chippewa             6:06.37    5:51.68    3   
+  7 #  517 Oliver, Jenna         Cloverleaf           5:48.00    5:55.56    2   
+  8       Baker, Miranda         Fredericktow         6:07.00    5:57.35    1   
+  9 #  320 Carnegie, Ava         Hillsdale            6:09.00    6:03.09  
+ 10 #  125 Henegar, Allie        Chippewa             6:29.05    6:13.45  
+ 11 #  366 Kanagy, Julia         Northmor             6:20.00    6:21.04  
+ 12 #  506 Naples, Sara          Cloverleaf           6:20.00    6:24.82  
+ 13 #  406 Richter, Ashley       Mad. Compreh         6:28.00    6:27.82  
+ 14 #  367 Goodson, Olivia       Northmor             6:43.00    6:35.21  
+ 15 #  526 White, Miachele       Highland             6:39.83    6:35.92  
+ 16 #  430 Weaver, Bailey        Mad. Compreh         6:35.00    6:41.83  
+ 17 #  661 Weaver, Makayla       Mount Gilead         6:45.60    6:50.39  
+ 18 #    8 Young, Marlo          Cardington-L         6:58.00    7:07.01  
+ 19 #  942 Gebhardt, Cassie      East Knox            8:39.00    8:45.24  
+ -- #  759 Carrol, Hannah        Loudonville          6:10.00         NT  
  
-Girls Pole Vault
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Makenna Noel               9 Shelby                 5-00.00      1.52m   3.87
-  1 Audrey Sermulis           10 Hillsdale              5-00.00      1.52m   3.87
-  1 Sydney Tekempel           11 Smithville             5-00.00      1.52m   3.87
-  1 Kelsey Weaver              9 Shelby                 5-00.00      1.52m   3.87
-  1 Kayla Hokes               10 Ashland                5-00.00      1.52m   3.87
-  1 Emma Etzwiler             10 Ashland                5-00.00      1.52m   3.87
-  1 Alysia Miller             10 Clear Fork             5-00.00      1.52m   3.87
-  1 Trinity Murray            11 Clear Fork             5-00.00      1.52m   3.87
+Event 11  Boys 1600 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  125 Hennis, Steve         Chippewa             4:38.00    4:42.70   10   
+  2 #  605 Leach, Logan          Rittman              4:54.00    4:53.17    8   
+  3 #  603 Caputo, Thomas        Fredericktow         5:20.00    4:56.66    6   
+  4 #  907 Moreland, Dawson      East Knox            4:52.00    4:58.98    5   
+  5 #  610 Krabill, Titus        Fredericktow         5:20.00    4:58.99    4   
+  6 #  502 Gucker, Max           Cloverleaf           4:54.00    5:01.07    3   
+  7 #  609 Clark, Tyler          Mount Gilead         5:15.00    5:06.88    2   
+  8       Kuhns, Tyler           Hiland               5:12.00    5:09.24    1   
+  9 #  333 Koster, Kooper        Hillsdale            5:25.00    5:14.19  
+ 10       Hallabrin, Racine      Cardington-L         5:25.00    5:14.67  
+ 11 #  621 Shipman, Sy           Mount Gilead         5:16.00    5:16.14  
+ 12 #  329 Keen, Kooper          Northmor             5:25.00    5:16.23  
+ 13       Homman, Brett          Utica                5:25.09    5:24.54  
+ 14 #  705 Fraley, Mason         Loudonville                     5:28.34  
+ 15 #  517 Christmas, Austin     Coshocton            5:45.00    5:30.05  
+ 16 #   43 Meade, Kaleb          Cardington-L         5:30.00    5:31.93  
+ 17 #  502 Tague, Tucker         Highland             5:37.00    5:32.67  
+ 18 #  611 Hardy, Austin         Rittman              5:40.00    5:32.70  
+ 19       Fondriest, Brendon     Utica                5:42.93    5:39.61  
+ 20 #  343 Sipe, Josh            Hillsdale            5:35.00    5:40.03  
+ 21 #  438 Gilbert, David        Mad. Compreh         5:40.00    5:40.41  
+ 22 #  712 Cawrse, Anthony       Loudonville                     5:43.43  
+ 23 #  478 Liviskie, Howie       Mad. Compreh         5:50.00    5:50.37  
+ 24 #  947 Bates, Scott          East Knox            6:05.00    5:59.06  
+ 25 #  312 Hart, Kaleb           Northmor             5:45.00    6:06.08  
+ -- #  118 Sims, Clayton         Chippewa             4:55.00         NT  
+ -- #  529 Bumpus, Chandler      Highland             6:00.00         NT  
+ -- #  555 Bailey, Nick          Cloverleaf           4:59.00         NT  
  
-Girls Long Jump
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Kari Eckenwiler            9 Mad. Compreh          16-10.25      5.13m  10   
-  2 Emma Etzwiler             10 Ashland               16-03.00      4.95m   8   
-  3 Faith Bailey              12 Shelby                14-11.00      4.54m   6   
-  4 Alayna Jorden             12 Ashland               14-09.75      4.51m   4   
-  5 Olivia Remy               10 Mad. Compreh          14-08.75      4.48m   2   
-  6 Bailey Walter             11 Shelby                14-06.50      4.43m   1   
-  7 Ellie Brillhart           10 Smithville            13-10.75      4.23m 
-  8 Mariah Smith               9 Clear Fork            13-03.25      4.04m 
-  9 Jenna Jundzilo            11 Smithville            13-00.00      3.96m 
- 10 Valerie Golden            11 Clear Fork            12-09.75      3.90m 
- 11 Elizabeth Derr            10 Hillsdale             11-10.50      3.61m 
- -- Ruby Walker                9 Hillsdale                 FOUL            
+Event 12  Girls 4x100 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Rittman                                             53.07      52.29   2  10   
+     1) #677 Dingess, Kacie             2) #652 Busic, Briana             
+     3) #655 Gasser, Erica              4) #673 Weiler, Gina              
+  2 Fredericktown                                       54.40      54.18   2   8   
+     1) Hyatt, Ashlyn                   2) Oswalt, Paige                  
+     3) Hamilton, Katerina              4) Smith, Leona                   
+  3 Cloverleaf                                          55.00      54.94   2   6   
+     1) #549 Wilson, Kirsten            2) #528 Keener, Sara              
+     3) #514 Hansen, Nyah               4) #544 Romano, Emily             
+  4 Chippewa                                            54.94      55.22   2   5   
+     1) #109 Markley, Alexis            2) #121 Delagrange, Avery         
+     3) #118 Lattea, Abby               4) #137 Lindquist, Grace          
+  5 Northmor                                            57.00      55.38   2   4   
+     1) #379 Cutrupi, Vivenne           2) #360 Kelley, Sabrina           
+     3) #350 Miracle, Hope              4) #380 Wiseman, Bailey           
+  6 Hillsdale                                           57.20      56.24   2   3   
+     1) #315 Maki, Amber                2) #313 Sermulis, Audrey          
+     3) #302 Taylor, Shelby             4) #307 Taylor, Jordan            
+  7 Hiland                                              60.00      56.34   1   2   
+     1) Miller, Brooke                  2) Somers, Marissa                
+     3) Miller, Hailey                  4) Yoder, Nikki                   
+  8 Mount Gilead                                        60.00      56.99   1   1   
+     1) #673 Mathwig, Madison           2) #696 Millisor, Bridgette       
+     3) #671 Chapman, Addison           4) #660 Shipman, Jadyn            
+  9 Danville                                            60.30      57.56   1 
+     1) #629 Furay, Haley               2) #604 Thomas, Brianna           
+     3) #603 Furay, Hannah              4) #602 Rine, Julia               
+ 10 Highland                                            59.00      57.57   2 
+     1) #530 Oder, Bridget              2) #517 Albertson, Rachel         
+     3) #508 Belcher, Makenna           4) #502 Church, Whitney           
+ 11 Coshocton                                           65.00      59.49   1 
+     1) #100 Bennett, Abby              2) #132 Duling, Caitlyn           
+     3) #105 Miller, Belle              4) #107 Jansen, Sarah             
+ 12 East Knox                                           59.70      60.57   2 
+     1) #914 Hull, Ashley               2) #943 Huggins, Taylor           
+     3) #931 Mahle, Jaclyn              4) #939 Van Hoose, Ashley         
+ 13 Utica                                                          61.83   1 
+     1) Hornyak, Kim                    2) Evans, Katie                   
+     3) Hill, Sierra                    4) Robinson, Hailey               
+ 14 Cardington-Lincoln                                  63.00      62.90   1 
+     1) #9 Lee-Rosch, Caitlyn           2) #34 Crum, Isabelle             
+     3) #14 Kuhn, Baily                 4) #13 Mellenger, Lexie           
  
-Girls Shot Put
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Paige Walker              12 Clear Fork            36-00.00     10.97m  10   
-  2 Tabi Hamilton             12 Clear Fork            33-07.50     10.24m   8   
-  3 Linda Rose                11 Smithville            32-09.25      9.98m   6   
-  4 Bailey Walter             11 Shelby                31-06.00      9.60m   4   
-  5 Abigail Sanders           10 Ashland               29-09.00      9.06m   2   
-  6 Kami Baker                 9 Mad. Compreh          29-07.75      9.03m   1   
-  7 Abby Maibach              11 Smithville            28-02.00      8.58m 
-  8 Rebecca Phelps            11 Mad. Compreh          28-01.50      8.57m 
-  9 Sage Glass                11 Hillsdale             27-03.50      8.31m 
- 10 Megan Crain               12 Shelby                26-05.00      8.05m 
- 11 Kelsey Watson             10 Hillsdale             25-05.50      7.75m 
- 12 Natalie Ratliff           12 Ashland               23-05.50      7.15m 
- 13 Jacquelyn Barles          10 Mansfield Se          19-04.25      5.89m 
- 14 Lyndsey Karcher           11 Ashland                9-01.50      2.78m 
+Event 13  Boys 4x100 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Fredericktown                                       45.00      45.11   2  10   
+     1) #606 Hamilton, Alex             2) #628 Zolman, Zayde             
+     3) #613 Davis, Cole                4) #612 Smith, Noah               
+  2 Hillsdale                                           46.50      45.31   2   8   
+     1) #338 Jones, Bryce               2) #340 Slagle, Braxton           
+     3) #348 Myers, Mason               4) #331 Stiltner, Trace           
+  3 Northmor                                            46.20      45.66   2   6   
+     1) #318 Zoll, Drew                 2) #324 Barnhart, Garrett         
+     3) #323 Becker, Conor              4) #311 Becker, Conan             
+  4 Highland                                            47.50      46.44   2   5   
+     1) #509 Veley, Brock               2) #526 Damron, Bailey            
+     3) #527 Weissenfluh, Ryan          4) #550 Weaver, Jack              
+  5 Mad. Comprehensive                                  47.00      46.48   2   4   
+     1) #411 Crowe, Corbin              2) #405 Stanfield, Wyatt          
+     3) Wagner, James                   4) #475 Bond, Miles               
+  6 Cloverleaf                                          46.58      46.64   2   3   
+     1) #556 Manzuk, John               2) #568 Wilson, Blake             
+     3) #562 Curtis, Ryan               4) #570 Munchick, Zack            
+  7 Chippewa                                            46.40      47.90   2   2   
+     1) #126 Zollinger, Jake            2) #110 Cowan, Josh               
+     3) #122 Long, Nick                 4) #140 Petty, Tre                
+  8 Mount Gilead                                        49.00      48.84   1   1   
+     1) #626 Franks, Justice            2) #635 Bolha, Jason              
+     3) #663 Clark, Colten              4) #619 Page, Scott               
+  9 Coshocton                                           47.50      48.89   2 
+     1) #527 Gray, Gunner               2) #500 Johns, Brayden            
+     3) #544 Johns, Cameron             4) #504 Bender, Adam              
+ 10 Danville                                            48.80      49.29   1 
+     1) #634 Butts, Nathen              2) #647 Looney, Mason             
+     3) #614 Johnson, Langdon           4) #611 Holt, Alex                
+ 11 Loudonville                                                    49.59   1 
+     1) #721 Paxton, Ethan              2) #708 Stanger, Ben              
+     3) #711 Taylor-Lloyd, Mason        4) #718 Pryor, Justin             
+ 12 Hiland                                              49.93      49.94   1 
+     1) Howell, Declan                  2) Chupp, Aaron                   
+     3) Casey, Evan                     4) Yoder, Jadon                   
+ 13 East Knox                                           49.10      53.06   1 
+     1) #920 Davis, Stephen             2) #948 Smith, Matt               
+     3) #946 Kohl, Isiah                4) #915 Kannady, Blake            
+ 14 Cardington-Lincoln                                             54.45   1 
+     1) #19 Hamilton, Eric              2) Streich, Skyler                
+     3) #32 Coder, Nick                 4) #40 Jenkins, Brice             
+ -- Utica                                               47.52         DQ   1 
+     1) Martinsen, Nick                 2) Lowry, Demitri                 
+     3) Riley, Justin                   4) Loper, Mason                   
  
-Girls Discus Throw
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Megan Crain               12 Shelby                  105-03     32.08m  10   
-  2 Bailey Walter             11 Shelby                  100-05     30.60m   8   
-  3 Linda Rose                11 Smithville               99-02     30.22m   6   
-  4 Paige Walker              12 Clear Fork               97-07     29.74m   4   
-  5 Abby Maibach              11 Smithville               85-04     26.00m   2   
-  6 Tabi Hamilton             12 Clear Fork               84-00     25.60m   1   
-  7 Sage Glass                11 Hillsdale                79-07     24.25m 
-  8 Kelsey Watson             10 Hillsdale                78-11     24.05m 
-  9 Carmen Adkins             11 Ashland                  75-05     22.98m 
- 10 Natalie Ratliff           12 Ashland                  73-05     22.37m 
- 11 Kami Baker                 9 Mad. Compreh             69-07     21.20m 
- 12 Kaylie Vance              12 Mad. Compreh             66-09     20.34m 
- 13 Jacquelyn Barles          10 Mansfield Se             38-06     11.73m 
+Event 14  Girls 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 #  652 Busic, Briana         Rittman                61.90      61.83   4  10   
+  2 #  369 Bennett, Brooke       Northmor               62.00      64.31   4   8   
+  3 #  508 Belcher, Makenna      Highland               69.00      66.59   4   6   
+  4 #  696 Millisor, Bridget     Mount Gilead           70.50      67.40   3   5   
+  5       Yoder, Nikki           Hiland                 68.00      67.47   4   4   
+  6       Linhares, Emma         Fredericktow           66.00      70.32   4   3   
+  7 #  374 Huntsman, Brooke      Northmor               70.00      70.37   3   2   
+  8 #  123 Burns, Sophie         Chippewa               71.70      70.76   3   1   
+  9 #  315 Maki, Amber           Hillsdale              79.00      71.57   2 
+ 10       Robinson, Kallie       Utica                  67.73      71.67   4 
+ 11 #  754 Scarberry, Grace      Loudonville            70.00      71.78   3 
+ 12       Miller, Brooke         Hiland                 71.00      71.79   3 
+ 13 #  929 Cassells, Hope        East Knox              72.00      71.91   3 
+ 14 #  408 Weaver, Makayla       Mad. Compreh           78.00      73.84   2 
+ 15 #    3 Scurlock, Bella       Cardington-L           74.00      74.26   2 
+ 16 #  545 Pintos, Juliet        Cloverleaf             70.00      74.68   3 
+ 17       Lindeman, Katie        Fredericktow           73.00      74.91   2 
+ 18 #  519 Wells, Liv            Cloverleaf                        77.31   4 
+ 19 #  656 Tanner, Aubrey        Rittman                           77.58   3 
+ 20 #  930 Salinas, Jade         East Knox            1:22.00    1:21.56   1 
+ 21 #   37 Brehm, Maddie         Cardington-L           76.00    1:22.19   2 
+ 22 #  533 Donahue (wheeled)     Cloverleaf                      3:26.55   1 
+ -- #  102 Popelka, Allison      Chippewa               76.84         NT   2 
+ -- #  674 Schroeter, Isabel     Mount Gilead                         NT   1 
+ --       Swetnam, Brittany      Utica                  74.72         NT   2 
  
-Boys 100 Meter Dash
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Hudson McDaniel           12 Ashland                  11.24   2  10   
-  2 Trace Stiltner            12 Hillsdale                11.38   2   8   
-  3 Angelo Grose              10 Mansfield Se             11.78   2   6   
-  4 Tyrese Long               12 Mansfield Se             11.85   2   4   
-  5 James Wagner              10 Mad. Compreh             11.85   2   2   
-  6 Owen Reef                 11 Ashland                  11.88   2   1   
-  7 Miles Bond                10 Mad. Compreh             11.92   2 
-  8 Casey Tipple              11 Smithville               12.08   2 
-  9 Braxton Slagle            11 Hillsdale                12.11   1 
- 10 Bryce Ullman              10 Smithville               12.45   1 
- 11 Tristan Reed              12 Shelby                   12.48   1 
- 12 Austin Strong             10 Clear Fork               12.71   1 
- 13 Jared Schaefer            11 Clear Fork               12.79   1 
- 14 Brycen Burkhalter         10 Shelby                   13.49   1 
+Event 15  Boys 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 #  564 Stepp, Frank          Cloverleaf             54.50      52.90   4  10   
+  2 #  568 Wilson, Blake         Cloverleaf             54.10      52.91   4   8   
+  3 #  102 Franks, Tanyon        Chippewa               55.00      53.60   4   6   
+  4 #  318 Zoll, Drew            Northmor               54.00      53.86   4   5   
+  5 #  917 Darr, Chase           East Knox              55.80      54.79   4   4   
+  6 #  411 Crowe, Corbin         Mad. Compreh           57.00      55.46   3   3   
+  7 #  313 Moore, Alec           Northmor               55.00      55.60   4   2   
+  8 #  113 Dannemiller, Andr     Chippewa               56.20      55.65   3   1   
+  9       Lowry, Demitri         Utica                  63.87      56.02   1 
+ 10 #  903 Moreland, Brant       East Knox                         56.03   3 
+ 11 #  342 Davis, Josh           Hillsdale              56.10      56.05   3 
+ 11 #  619 Halliwell, Jeffre     Rittman                55.00      56.05   4 
+ 13       Yoder, Nathaniel       Hiland                 59.43      56.52   2 
+ 14 #  425 Richter, Anthony      Mad. Compreh           56.00      58.06   4 
+ 15 #  505 Mentzer, Travis       Highland               59.72      58.12   2 
+ 16 #  627 Hagley, Kamryn        Fredericktow           59.00      58.38   2 
+ 17 #   22 Goers, Mason          Cardington-L           57.08      58.96   3 
+ 18       Humphrey, Kai          Utica                  62.00      59.05   1 
+ 19 #  619 Page, Scott           Mount Gilead           59.80      59.11   2 
+ 20 #  369 Bishop, Colton        Hillsdale              61.00      59.12   1 
+ 21 #  545 Medley, Tobias        Coshocton              58.00      59.89   3 
+ 22 #  522 DeAngelo, Gavin       Highland               60.10      60.35   1 
+ 23 #  626 Main, Brandon         Fredericktow           59.00      60.37   2 
+ 24 #  643 Wilson, Tyler         Danville               59.00      60.44   2 
+ 25 #  608 Vale, Eli             Rittman                59.00      60.84   2 
+ 26 #  504 Bender, Adam          Coshocton              56.00      61.04   3 
+ 27 #  716 Dessenberg, Ian       Loudonville                       61.26   1 
+ 28 #  670 Zmuda, Evan           Mount Gilead           59.80      61.38   2 
+ 29 #  619 Cook, Charlie         Danville               63.00      63.10   1 
+ 30 #  703 Bailey, Nick          Loudonville                       63.23   1 
+ 31       Raber, Andrew          Hiland                 65.23      63.50   1 
+ 32 #    1 Lester, Zach          Cardington-L           59.00      64.55   3 
  
-Boys 200 Meter Dash
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Trace Stiltner            12 Hillsdale                23.58   2  10   
-  2 Grant Gossom              10 Shelby                   23.86   2   8   
-  3 James Wagner              10 Mad. Compreh             23.92   2   6   
-  4 Collin Fitzcharles        11 Ashland                  24.25   2   4   
-  5 Trent Kauffman            12 Smithville               24.67   1   2   
-  6 Tristan Reed              12 Shelby                   25.12   1   1   
-  7 Trent Shane               12 Smithville               25.17   2 
-  8 Victor Mack                9 Mad. Compreh             25.21   2 
-  9 Zemed Krichbaum           11 Ashland                  25.53   2 
- 10 Mason Myers                9 Hillsdale                25.57   1 
- 11 Jared Schaefer            11 Clear Fork               26.43   1 
+Event 17  Girls 300 Meter Hurdles
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 #  752 Kline, Stephanie      Loudonville                       49.80   1  10   
+  2 #  118 Lattea, Abby          Chippewa               53.57      52.64   3   8   
+  3 #  939 Van Hoose, Ashley     East Knox              53.70      54.22   3   6   
+  4 #  355 Ditullio, Juliann     Northmor               55.00      54.31   3   5   
+  5       Smith, Leona           Fredericktow           54.00      54.59   3   4   
+  6 #  121 Delagrange, Avery     Chippewa               54.58      55.94   3   3   
+  7 #  938 Opfer, Emily          East Knox              57.66      56.72   2   2   
+  8 #    9 Lee-Rosch, Caitly     Cardington-L           56.00      57.56   3   1   
+  9 #  403 Lambert, Alyssa       Mad. Compreh           57.50      57.99   3 
+ 10 #  375 Bloom, Natalie        Northmor               58.90      59.39   2 
+ 11 #  658 Hovest, Emily         Rittman                55.70      59.99   3 
+ 12 #  655 McCoy, Alexis         Mount Gilead           63.00      60.44   1 
+ 13 #  676 Sullivan, Samanth     Mount Gilead           58.90      60.54   2 
+ 14       Yoder, Nikki           Hiland                 58.00      60.70   2 
+ 15 #  604 Thomas, Brianna       Danville               60.60      60.98   2 
+ 16 #  548 Malena, Katelyn       Cloverleaf             59.00      61.33   2 
+ 17 #  534 Zamer, Madison        Highland               63.51      62.39   1 
+ 18       Maglott, Sammy         Fredericktow           61.00      62.59   1 
+ 19 #  637 Banfield, Hannah      Rittman                61.00      64.62   2 
+ 20       Hornyak, Kim           Utica                             66.26   1 
+ -- #  616 Spaulding, Autumn     Danville               75.00         NT   1 
+ -- #   34 Crum, Isabelle        Cardington-L           62.00         NT   1 
+ -- #  430 Ladd, Tori            Mad. Compreh           58.00         NT   2 
+ -- #  522 Bolton, Madison       Highland               65.01         NT   1 
  
-Boys 400 Meter Dash
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Hudson McDaniel           12 Ashland                  52.67   2  10   
-  2 Boaz Belsterling          12 Ashland                  54.37   2   8   
-  3 Trent Shane               12 Smithville               55.27   2   6   
-  4 Logan McLaughlin          12 Shelby                   55.48   2   4   
-  5 Anthony Richter            9 Mad. Compreh             56.25   2   2   
-  6 Logan Thornton            12 Shelby                   57.04   2   1   
-  7 Corbin Crowe              10 Mad. Compreh             57.41   1 
-  8 Kyle Rosenbaum            10 Smithville               58.02   2 
-  9 Josh Davis                12 Hillsdale                58.75   1 
- 10 Sergio Cardenas           12 Mansfield Se           1:02.50   2 
- 11 Gavin Broderick           10 Clear Fork             1:02.68   1 
- 12 Logan Wood                10 Clear Fork             1:05.14   1 
- 13 Drew Adams                10 Hillsdale              1:08.40   1 
+Event 18  Boys 300 Meter Hurdles
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1       Gray, Brayden          Hiland                 42.98      42.54   3  10   
+  2 #  614 Riel, Colton          Fredericktow           46.00      45.54   3   8   
+  3 #  310 Petulla, Adam         Northmor               45.30      45.57   3   6   
+  4 #  622 Baer, Aaron           Mount Gilead           48.00      45.91   2   5   
+  5 #  556 Remmert, Landon       Highland               47.80      46.57   2   4   
+  6 #  477 Davis, Lyriq          Mad. Compreh           50.00      46.65   1   3   
+  7       Imbody, Michael        Utica                  47.03      46.83   2   2   
+  8 #  126 Zollinger, Jake       Chippewa               45.10      47.36   3   1   
+  9 #  416 Shasky, Hunter        Mad. Compreh           48.00      47.50   2 
+ 10 #  908 Moreland, Brice       East Knox              47.44      47.51   2 
+ 11 #  579 Taylor, DeAnte        Cloverleaf             49.00      48.11   1 
+ 12 #  906 Enderle, Spencer      East Knox              47.78      48.55   2 
+ 13 #  624 Campbell, Chance      Fredericktow           49.00      48.66   2 
+ 14 #  725 Gebhart, Russell      Loudonville                       48.70   1 
+ 15 #  614 Johnson, Langdon      Danville               45.00      48.95   3 
+ 16 #  528 Dickerson, Devin      Coshocton              43.60      49.11   3 
+ 17 #  315 Petulla, Anthony      Northmor               45.90      49.20   3 
+ 18 #  106 Frazee, Michael       Chippewa               46.20      49.29   3 
+ 19 #  569 Nau, Jacob            Cloverleaf             52.00      51.57   1 
+ 20 #  625 Kerr, Skyler          Danville               50.50      51.94   1 
+ 21 #  617 Cronenwett, Colto     Mount Gilead           51.60      52.47   1 
+ 22       Walker, Carson         Utica                  56.32      55.61   1 
  
-Boys 800 Meter Run
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Lucas Clark               12 Smithville             2:04.05   10   
-  2 Samuel Logan              11 Shelby                 2:04.45    8   
-  3 Daniel Arimi              11 Ashland                2:05.55    6   
-  4 Tyler Green               12 Shelby                 2:11.41    4   
-  5 Ian Swain                 12 Ashland                2:12.41    2   
-  6 Isaiah Tedrow             11 Mad. Compreh           2:14.97    1   
-  7 Owen McNally              11 Smithville             2:19.70  
-  8 Matthew Mays              11 Mansfield Se           2:22.49  
-  9 Kooper Koster             10 Hillsdale              2:26.12  
- 10 Cameron Taylor            10 Mansfield Se           2:28.79  
- 11 Tyler Amos                11 Mad. Compreh           2:29.39  
- 12 Liam Motter                9 Clear Fork             2:40.12  
- 13 Wyatt Strong               9 Clear Fork             2:43.64  
- 14 Caleb Murawski             9 Hillsdale              2:57.59  
+Event 19  Girls 800 Meter Run
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 #  500 Kurtz, Tommie         Cloverleaf           2:25.00    2:22.94   2  10   
+  2 #  636 LaBouf, Madeline      Rittman              2:29.00    2:32.85   2   8   
+  3 #  436 Cook, Nicole          Mad. Compreh         2:38.00    2:33.95   2   6   
+  4 #  137 Lindquist, Grace      Chippewa             2:42.34    2:34.24   2   5   
+  5       Linhares, Molly        Fredericktow         2:42.00    2:35.10   2   4   
+  6 #  650 Wilson, Cora          Rittman              2:42.00    2:37.00   2   3   
+  7 #  418 Smith, Haili          Mad. Compreh         2:45.00    2:42.33   2   2   
+  8 #  101 Lowe, Maddy           Chippewa             2:57.60    2:43.27   1   1   
+  9 #  358 Blunk, Kaitlyn        Northmor             2:48.00    2:43.43   2 
+ 10       Davis, Lauren          Fredericktow         2:39.00    2:43.49   2 
+ 11 #  320 Carnegie, Ava         Hillsdale            2:50.00    2:44.72   1 
+ 12 #  505 Nagel, Emma           Cloverleaf           2:50.00    2:52.66   2 
+ 13 #  514 Schauer, Jordan       Highland             2:57.08    2:54.55   1 
+ 14 #  104 Casey, Emily          Coshocton            2:48.00    2:58.20   2 
+ 15 #  526 White, Miachele       Highland             2:55.00    3:00.33   1 
+ 16 #  351 Wright, Christy       Northmor             2:45.00    3:02.79   2 
+ 17 #  754 Scarberry, Grace      Loudonville          3:00.00    3:03.08   1 
+ 18 #  935 Totten, Joci          East Knox            3:01.00    3:07.70   1 
+ 19 #    8 Young, Marlo          Cardington-L         3:01.00    3:07.82   1 
+ 20 #  317 Eulett, Zoe           Hillsdale            3:00.00    3:14.19   1 
+ 21       Kellett, Abby          Utica                4:11.15    4:05.84   1 
+ -- #  904 Gebhardt, Molly       East Knox            2:58.00         NT   1 
+ -- #  661 Weaver, Makayla       Mount Gilead         3:10.00         NT   1 
  
-Boys 1600 Meter Run
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Samuel Logan              11 Shelby                 4:33.93   10   
-  2 Josh Mendenhall           12 Ashland                4:34.95    8   
-  3 Kaden Mendenhall          10 Ashland                4:34.97    6   
-  4 Justin McKeal             12 Smithville             4:35.02    4   
-  5 Sam Swanger               11 Shelby                 4:57.21    2   
-  6 Connor Ladd               10 Mad. Compreh           4:58.17    1   
-  7 Isaiah Tedrow             11 Mad. Compreh           5:03.74  
-  8 Max Davis                 10 Hillsdale              5:14.53  
-  9 Cameron Taylor            10 Mansfield Se           5:38.03  
- 10 Wyatt Strong               9 Clear Fork             5:41.23  
- 11 Will Weiner               10 Smithville             5:41.23  
- 12 Isaiah Swihart            12 Clear Fork             5:49.72  
- 13 Josh Sipe                 12 Hillsdale              5:53.42  
+Event 20  Boys 800 Meter Run
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 #  565 Vaughan, Tristan      Cloverleaf           2:08.00    2:04.86   2  10   
+  2 #  611 Spencer, Paden        Fredericktow         2:08.00    2:06.01   2   8   
+  3 #  118 Sims, Clayton         Chippewa             2:13.00    2:09.20   2   6   
+  4 #  615 St. Clair, Logan      Rittman              2:11.00    2:10.31   2   5   
+  5 #  116 Gerstenslager, Ca     Chippewa             2:10.00    2:10.72   2   4   
+  6 #  303 Evans, Mostyn         Northmor             2:18.00    2:11.75   2   3   
+  7 #  505 Mentzer, Travis       Highland             2:14.40    2:12.84   2   2   
+  8 #  905 Whitney, Nathan       East Knox            2:14.00    2:12.85   2   1   
+  9       Kuhns, Tyler           Hiland               2:11.05    2:13.87   2 
+ 10 #  407 Baker, Joel           Mad. Compreh         2:15.00    2:14.00   2 
+ 11 #  622 Smith, Dakota         Fredericktow         2:15.00    2:14.74   2 
+ 12 #  913 Kohl, Jeremieh        East Knox            2:15.00    2:17.05   2 
+ 13 #  512 George, Jacob         Coshocton            2:18.00    2:17.35   2 
+ 14 #  562 Curtis, Ryan          Cloverleaf                      2:19.01   1 
+ 15 #  319 Price, Kyle           Northmor             2:25.00    2:20.36   1 
+ 16 #  705 Fraley, Mason         Loudonville                     2:23.12   1 
+ 17 #  614 LaBouf, Jon-Luc       Rittman              2:24.00    2:23.80   1 
+ 18 #  431 Amos, Tyler           Mad. Compreh         2:25.00    2:25.13   1 
+ 19 #  333 Koster, Kooper        Hillsdale            2:15.00    2:25.27   2 
+ 20 #  616 Knight, Tyler         Mount Gilead         2:45.00    2:25.83   1 
+ 21 #  601 Sullivan, Josh        Mount Gilead         2:40.00    2:27.39   1 
+ 22       Homman, Brett          Utica                2:30.09    2:32.00   1 
+ 23 #   18 West, Sam             Cardington-L         2:36.00    2:32.80   1 
+ 24 #  343 Sipe, Josh            Hillsdale            2:35.00    2:33.39   1 
+ 25 #   43 Meade, Kaleb          Cardington-L         2:26.00    2:34.92   1 
+ 26 #  522 DeAngelo, Gavin       Highland             2:23.28    2:35.65   2 
+ 27 #  622 Pitsenberger, Tho     Danville             2:45.00    2:44.65   1 
+ -- #  513 Kobel, Noah           Coshocton            2:35.00         NT   1 
+ -- #  703 Bailey, Nick          Loudonville                          NT   1 
+ --       Alexander, Jack        Utica                2:35.00         NT   1 
  
-Boys 3200 Meter Run
-=======================================================================
-    Name                    Year School                  Finals  Points
-=======================================================================
-  1 Caleb Brown               10 Shelby                 9:55.09   10   
-  2 Reid McFrederick          11 Ashland                9:59.83    8   
-  3 Justin McKeal             12 Smithville            10:02.58    6   
-  4 Dylan Hickey               9 Ashland               10:38.29    4   
-  5 Alexander Moore           12 Shelby                10:57.30    2   
-  6 Connor Ladd               10 Mad. Compreh          11:13.47    1   
-  7 Ben Melkey                10 Smithville            11:18.45  
-  8 Nathan Wright             10 Clear Fork            11:44.06  
-  9 Mason Parker               9 Hillsdale             11:57.20  
- 10 Howie Liviskie            10 Mad. Compreh          12:01.32  
- 11 Jake Wright                9 Hillsdale             12:24.84  
- 12 Ben Blubaugh               9 Clear Fork            13:48.53  
+Event 22  Girls 200 Meter Dash
+============================================================================
+8 Advance:  Top 1 Each Heat plus Next 4 Best Times
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 #  652 Busic, Briana         Rittman                26.90      28.07Q  4 
+  2 #  369 Bennett, Brooke       Northmor               28.20      28.33Q  2 
+  3 #  528 Keener, Sara          Cloverleaf             28.20      28.88Q  1 
+  4 #  307 Taylor, Jordan        Hillsdale              27.70      29.91Q  3 
+  5 #  519 Carpenter, Peyton     Highland               29.42      29.42q  4 
+  6 #  446 Phelps, Rebecca       Mad. Compreh           29.70      29.45q  2 
+  7 #  514 Hansen, Nyah          Cloverleaf             29.00      29.68q  1 
+  8 #  629 Furay, Haley          Danville               30.60      29.82q  1 
+  9       Somers, Marissa        Hiland                 29.46      30.37   4 
+ 10 #  109 Markley, Alexis       Chippewa               31.07      30.46   3 
+ 11 #  763 Reddix, Jaden         Loudonville                       30.68   2 
+ 12 #  502 Church, Whitney       Highland               31.61      31.07   1 
+ 12 #  107 Jansen, Sarah         Coshocton              30.00      31.07   1 
+ 14       McElwee, Alicia        Cardington-L           31.00      31.17   3 
+ 15 #  607 Wilson, Rachel        Danville               32.00      31.30   2 
+ 16 #  696 Millisor, Bridget     Mount Gilead           31.00      31.40   4 
+ 17       Miller, Brooke         Hiland                 32.20      31.52   4 
+ 18       Hyatt, Ashlyn          Fredericktow           31.01      31.60   4 
+ 19 #  122 Kettler, Ellie        Chippewa               31.32      31.67   1 
+ 20 #  673 Mathwig, Madison      Mount Gilead           31.00      31.69   2 
+ 21 #  902 Annett, Madison       East Knox              31.10      31.70   2 
+ 22       Hill, Sierra           Utica                  36.78      32.08   1 
+ 23       Werner, Mel            Fredericktow           32.40      33.24   4 
+ 24 #  408 Weaver, Makayla       Mad. Compreh           34.00      33.28   2 
+ 25       Robinson, Hailey       Utica                             33.45   4 
+ 26 #  779 Farley, Cheyanne      Loudonville                       33.56   3 
+ 27 #  132 Duling, Caitlyn       Coshocton              32.00      33.98   3 
+ 28 #  943 Huggins, Taylor       East Knox              29.20      34.13   2 
+ 29 #  651 Brown, April          Rittman                           34.60   3 
+ 30 #   34 Crum, Isabelle        Cardington-L           35.00      35.00   1 
+ -- #  360 Kelley, Sabrina       Northmor               29.40         NT   3 
+ -- #  313 Sermulis, Audrey      Hillsdale              33.00         NT   3 
  
-Boys 110 Meter Hurdles 39"
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Cole Smith                12 Smithville               14.53   2  10   
-  2 Jamarius Jones            11 Mad. Compreh             16.10   2   8   
-  3 Cameron Stine             11 Shelby                   16.25   2   6   
-  4 Angelo Grose              10 Mansfield Se             16.83   2   4   
-  5 Kaleb Tilton              11 Smithville               18.06   2   2   
-  6 Hunter Shasky             10 Mad. Compreh             18.15   1   1   
-  7 Parker Lewis              10 Shelby                   18.80   2 
-  8 Koltyn Hunt               10 Ashland                  18.82   2 
-  9 Matthew Arnold            11 Clear Fork               18.85   1 
- 10 Kobe Metcalfe              9 Clear Fork               20.99   1 
+Event 22  Girls 200 Meter Dash
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 #  652 Busic, Briana         Rittman                28.07      27.38   10   
+  2 #  369 Bennett, Brooke       Northmor               28.33      27.87    8   
+  3 #  519 Carpenter, Peyton     Highland               29.42      28.73    6   
+  4 #  528 Keener, Sara          Cloverleaf             28.88      29.15    5   
+  5 #  446 Phelps, Rebecca       Mad. Compreh           29.45      29.30    4   
+  6 #  514 Hansen, Nyah          Cloverleaf             29.68      29.42    3   
+  7 #  307 Taylor, Jordan        Hillsdale              29.91      30.33    2   
+  8 #  629 Furay, Haley          Danville               29.82      30.57    1   
  
-Boys 300 Meter Hurdles 36"
-==========================================================================
-    Name                    Year School                  Finals  H# Points
-==========================================================================
-  1 Cole Smith                12 Smithville               40.00   2  10   
-  2 Jamarius Jones            11 Mad. Compreh             42.88   2   8   
-  3 Uriah Schwemley           11 Shelby                   45.03   2   6   
-  4 Jaylon Scott               9 Mad. Compreh             45.55   2   4   
-  5 Kaleb Tilton              11 Smithville               45.72   2   2   
-  6 Parker Lewis              10 Shelby                   46.18   2   1   
-  7 Matthew Arnold            11 Clear Fork               48.50   1 
-  8 Koltyn Hunt               10 Ashland                  48.63   2 
-  9 Kobe Metcalfe              9 Clear Fork               53.83   1 
+Event 23  Boys 200 Meter Dash
+============================================================================
+8 Advance:  Top 1 Each Heat plus Next 4 Best Times
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 #  311 Becker, Conan         Northmor               23.40      23.73Q  2 
+  2 #   22 Goers, Mason          Cardington-L           23.00      23.93Q  3 
+  3 #  331 Stiltner, Trace       Hillsdale              22.90      24.08Q  4 
+  4 #  550 Weaver, Jack          Highland               24.76      24.52Q  1 
+  5 #  509 Veley, Brock          Highland               23.91      24.04q  3 
+  6 #  318 Zoll, Drew            Northmor                          24.61q  1 
+  7 #  570 Munchick, Zack        Cloverleaf             24.50      24.62q  3 
+  8 #  475 Bond, Miles           Mad. Compreh           23.80      24.64q  2 
+  9 #  338 Jones, Bryce          Hillsdale              25.00      24.69   2 
+ 10 #  140 Petty, Tre            Chippewa               24.60      25.54   1 
+ 11 #  624 Campbell, Chance      Fredericktow           26.00      25.58   2 
+ 12 #  619 Halliwell, Jeffre     Rittman                24.50      25.65   2 
+ 13 #  611 Holt, Alex            Danville               24.40      25.75   4 
+ 14       Hershey, Cordell       Hiland                 26.52      25.94   4 
+ 15 #  122 Long, Nick            Chippewa               25.00      25.99   3 
+ 16 #  635 Bolha, Jason          Mount Gilead           27.00      26.25   2 
+ 17 #  581 Arnold, Jake          Cloverleaf             26.00      26.28   1 
+ 18       Yoder, Jadon           Hiland                 26.92      26.29   4 
+ 19 #  545 Medley, Tobias        Coshocton              26.00      26.38   1 
+ 20 #  626 Franks, Justice       Mount Gilead           27.00      26.65   3 
+ 21 #  615 Spearman, Gage        Danville               26.00      26.75   3 
+ 22 #  614 Riel, Colton          Fredericktow           26.00      26.85   2 
+ 23 #  721 Paxton, Ethan         Loudonville                       27.05   2 
+ 24 #  508 George, Adam          Coshocton              26.50      27.16   3 
+ 25 #  706 Morris, Cody          Loudonville                       27.67   1 
+ 26       Geiger, Joey           Utica                             28.12   3 
+ 27 #  915 Kannady, Blake        East Knox              25.80      28.48   4 
+ 28 #   44 Rose, Mike            Cardington-L           30.00      32.65   1 
+ --       Wagner, James          Mad. Compreh           23.80         NT   1 
  
-Boys 4x100 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Ashland  'A'                                          45.57   10   
-     1) Owen Reef 11                    2) Johnathon Rayburn 10           
-     3) Matthew Martin 12               4) Boaz Belsterling 12            
-  2 Shelby  'A'                                           47.32    8   
-     1) Parker Lewis 10                 2) Grant Gossom 10                
-     3) Tristan Reed 12                 4) Owen Fisher 9                  
-  3 Smithville  'A'                                       47.35    6   
-     1) Jace Watts 12                   2) Cole Smith 12                  
-     3) Bryce Ullman 10                 4) Casey Tipple 11                
-  4 Hillsdale  'A'                                        47.56    4   
-     1) Braxton Slagle 11               2) Michael Garn 11                
-     3) Mason Myers 9                   4) Trace Stiltner 12              
-  5 Mad. Comprehensive  'A'                               48.16    2   
-     1) Jaylon Scott 9                  2) Miles Bond 10                  
-     3) James Wagner 10                 4) Jamarius Jones 11              
-  6 Clear Fork  'A'                                       49.20    1   
-     1) Alex Carter 10                  2) Austin Strong 10               
-     3) Gavin Broderick 10              4) Tacoma Orr 10                  
+Event 23  Boys 200 Meter Dash
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 #   22 Goers, Mason          Cardington-L           23.93      23.44   10   
+  2 #  311 Becker, Conan         Northmor               23.73      23.88    8   
+  3 #  331 Stiltner, Trace       Hillsdale              24.08      23.89    6   
+  4 #  570 Munchick, Zack        Cloverleaf             24.62      24.26    5   
+  5 #  509 Veley, Brock          Highland               24.04      24.46    4   
+  6 #  318 Zoll, Drew            Northmor               24.61      24.65    3   
+  7 #  475 Bond, Miles           Mad. Compreh           24.64      24.71    2   
+  8 #  550 Weaver, Jack          Highland               24.52      24.96    1   
  
-Boys 4x200 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Shelby  'A'                                         1:37.28   10   
-     1) Grant Gossom 10                 2) Uriah Schwemley 11             
-     3) Logan McLaughlin 12             4) Owen Fisher 9                  
-  2 Mad. Comprehensive  'A'                             1:37.73    8   
-     1) Victor Mack 9                   2) Miles Bond 10                  
-     3) James Wagner 10                 4) Jamarius Jones 11              
-  3 Smithville  'A'                                     1:37.90    6   
-     1) Jace Watts 12                   2) Casey Tipple 11                
-     3) Bryce Ullman 10                 4) Trent Shane 12                 
-  4 Ashland  'A'                                        1:39.16    4   
-     1) Gavin Rohr 11                   2) Zemed Krichbaum 11             
-     3) Gavin Harper 11                 4) Matthew Martin 12              
-  5 Hillsdale  'A'                                      1:41.71    2   
-     1) Mason Myers 9                   2) Braxton Slagle 11              
-     3) Colton Bishop 10                4) Trace Stiltner 12              
-  6 Clear Fork  'A'                                     1:43.74    1   
-     1) Alex Carter 10                  2) Austin Strong 10               
-     3) Gavin Broderick 10              4) Tacoma Orr 10                  
+Event 24  Girls 3200 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  753 Hinkle, Emma          Loudonville         12:30.00   12:10.82   10   
+  2 #  520 Thompson, Sophia      Highland            12:19.21   12:12.79    8   
+  3 #  114 Kish, Ashley          Chippewa            12:49.00   12:27.37    6   
+  4       Shrimplin, Ashlyn      Fredericktow        12:55.00   13:02.58    5   
+  5 #  352 Duryea, Jessica       Northmor            13:42.00   13:06.87    4   
+  6 #  642 Brainard, Miranda     Rittman             13:12.00   13:09.68    3   
+  7 #  125 Henegar, Allie        Chippewa            14:20.00   13:11.59    2   
+  8 #  513 Porras, Maria         Cloverleaf          13:30.00   13:17.54    1   
+  9       Thorne, Macy           Fredericktow        13:31.00   13:22.77  
+ 10 #  503 Freeland, Bailey      Cloverleaf          13:13.00   13:36.29  
+ 11 #  366 Kanagy, Julia         Northmor            13:30.00   13:45.23  
+ 12 #  430 Weaver, Bailey        Mad. Compreh                   14:43.92  
+ 13 #  411 Noggle, Lauren        Mad. Compreh                   15:12.66  
+ 14 #  518 Schmidt, Katherin     Highland            15:47.00   15:39.98  
+ 15 #  671 Blythin, Elizabet     Rittman             17:00.00   16:30.67  
+ -- #    8 Young, Marlo          Cardington-L                         NT  
+ -- #  759 Carrol, Hannah        Loudonville         14:00.00         NT  
  
-Boys 4x400 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Shelby  'A'                                         3:40.78   10   
-     1) Logan McLaughlin 12             2) Owen Fisher 9                  
-     3) Sam Swanger 11                  4) Samuel Logan 11                
-  2 Ashland  'A'                                        3:41.58    8   
-     1) Josh Mendenhall 12              2) Boaz Belsterling 12            
-     3) Evan Etzwiler 11                4) Zane Michael 12                
-  3 Smithville  'A'                                     3:46.35    6   
-     1) Trent Kauffman 12               2) Kyle Rosenbaum 10              
-     3) Simon Yochheim 10               4) Lucas Clark 12                 
-  4 Mad. Comprehensive  'A'                             3:50.95    4   
-     1) Corbin Crowe 10                 2) Isaiah Tedrow 11               
-     3) Victor Mack 9                   4) Anthony Richter 9              
-  5 Clear Fork  'A'                                     4:07.23    2   
-     1) Gavin Broderick 10              2) Logan Wood 10                  
-     3) Dylan Belcher 10                4) Jared Schaefer 11              
-  6 Hillsdale  'A'                                      4:07.24    1   
-     1) Josh Davis 12                   2) Zac Wertman 9                  
-     3) Colton Bishop 10                4) Andrew Miller 10               
+Event 25  Boys 3200 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  125 Hennis, Steve         Chippewa            10:05.00   10:06.65   10   
+  2 #  502 Gucker, Max           Cloverleaf          10:33.00   10:23.64    8   
+  3 #  620 Riley, Connor         Fredericktow        10:52.00   10:29.00    6   
+  4 #  605 Leach, Logan          Rittman             11:20.00   10:54.99    5   
+  5 #  317 Keen, Gavin           Northmor            11:55.00   10:56.99    4   
+  6 #  601 Stalnaker, Jack       Fredericktow        11:27.00   10:57.86    3   
+  7 #  525 Lee, Dalton           Highland            11:15.52   10:58.74    2   
+  8 #  560 Chudzinski, Kyle      Cloverleaf          11:03.00   10:59.31    1   
+  9 #   28 White, Mason          Cardington-L        10:25.00   11:09.89  
+ 10 #  114 Newsom, Brent         Chippewa            12:00.00   11:15.27  
+ 11 #  636 Robinson, Gavin       Mount Gilead        12:00.00   11:27.18  
+ 12 #  606 Mowery, Eric          Mount Gilead        12:00.00   11:35.11  
+ 13 #  345 Parker, Mason         Hillsdale           11:50.00   11:56.00  
+ 14 #  302 Heilman, Manny        Northmor            12:45.00   12:25.46  
+ 15 #  607 Holman, Arizona       Rittman             14:00.00   12:26.77  
+ 16 #  437 Wagner, Ashton        Mad. Compreh        12:30.00   12:51.42  
+ 17 #   24 Gheen, Devin          Cardington-L        12:30.00   12:58.64  
+ 18 #  702 Rhodes, Seth          Loudonville                    13:02.03  
+ 19 #  339 Murawski, Caleb       Hillsdale                      13:32.40  
+ 20 #  704 Gongwer, Kaleb        Loudonville                    13:32.48  
+ --       Fondriest, Brendon     Utica               13:31.31         NT  
  
-Boys 4x800 Meter Relay
-=======================================================================
-    School                                               Finals  Points
-=======================================================================
-  1 Ashland  'A'                                        8:29.97   10   
-     1) Sam Boyer 11                    2) Zane Michael 12                
-     3) Ian Swain 12                    4) Daniel Arimi 11                
-  2 Smithville  'A'                                     8:34.61    8   
-     1) Justin McKeal 12                2) Owen McNally 11                
-     3) Simon Yochheim 10               4) Lucas Clark 12                 
-  3 Shelby  'A'                                         8:37.85    6   
-     1) Tyler Green 12                  2) Alexander Moore 12             
-     3) Corbin Osborne 11               4) Caleb Brown 10                 
-  4 Mad. Comprehensive  'A'                             9:55.15    4   
-     1) Anthony Richter 9               2) Tyler Amos 11                  
-     3) Ashton Wagner 9                 4) David Gilbert 12               
-  5 Hillsdale  'A'                                     10:14.94    2   
-     1) Kooper Koster 10                2) Drew Adams 10                  
-     3) Jake Wright 9                   4) Josh Sipe 12                   
-  6 Clear Fork  'A'                                    10:53.54    1   
-     1) Zach Welshans 12                2) Liam Motter 9                  
-     3) Hayden Shoemaker 9              4) Richard Hoffman 9              
+Event 26  Girls 4x400 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Northmor                                          4:20.00    4:27.76   2  10   
+     1) #369 Bennett, Brooke            2) #355 Ditullio, Julianna        
+     3) #378 Miracle, Macy              4) #350 Miracle, Hope             
+  2 Rittman                                           4:22.00    4:30.04   2   8   
+     1) #636 LaBouf, Madeline           2) #655 Gasser, Erica             
+     3) #650 Wilson, Cora               4) #635 Hill, Brianna             
+  3 Cloverleaf                                        4:25.00    4:30.88   2   6   
+     1) #517 Oliver, Jenna              2) #500 Kurtz, Tommie             
+     3) #528 Keener, Sara               4) #529 Boltz, Maddie             
+  4 Chippewa                                          4:44.85    4:33.75   2   5   
+     1) #118 Lattea, Abby               2) #121 Delagrange, Avery         
+     3) #123 Burns, Sophie              4) #137 Lindquist, Grace          
+  5 Mad. Comprehensive                                4:35.00    4:36.46   2   4   
+     1) #430 Ladd, Tori                 2) #418 Smith, Haili              
+     3) #406 Richter, Ashley            4) #436 Cook, Nicole              
+  6 Highland                                                     4:51.96   1   3   
+     1) #508 Belcher, Makenna           2) #530 Oder, Bridget             
+     3) #517 Albertson, Rachel          4) #502 Church, Whitney           
+  7 Danville                                          5:15.00    4:55.89   1   2   
+     1) #603 Furay, Hannah              2) #607 Wilson, Rachel            
+     3) #629 Furay, Haley               4) #602 Rine, Julia               
+  8 Loudonville                                                  4:57.18   1   1   
+     1) #757 Forbes, Cora               2) #763 Reddix, Jaden             
+     3) #751 Karper, Tressa             4) #754 Scarberry, Grace          
+  9 Cardington-Lincoln                                5:05.00    5:06.53   1 
+     1) McElwee, Alicia                 2) Brannon, Sage                  
+     3) #3 Scurlock, Bella              4) #9 Lee-Rosch, Caitlyn          
+ 10 East Knox                                         5:06.00    5:09.80   1 
+     1) #904 Gebhardt, Molly            2) #929 Cassells, Hope            
+     3) #935 Totten, Joci               4) #902 Annett, Madison           
+ 11 Mount Gilead                                      5:00.00    5:11.81   2 
+     1) #676 Sullivan, Samantha         2) #660 Shipman, Jadyn            
+     3) #673 Mathwig, Madison           4) #661 Weaver, Makayla           
+ -- Utica                                                             NT   1 
+     1) Hornyak, Kim                    2) Swetnam, Brittany              
+     3) Robinson, Kallie                4) Osborne, Elyse                 
+ -- Fredericktown                                     4:29.00         DQ   2 
+     1) Linhares, Emma                  2) Groseclose, Nichole            
+     3) Stute, Lydia                    4) Smith, Leona                   
  
-Boys High Jump
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Cameron Stine             11 Shelby                 6-04.00      1.93m  10   
-  2 Cole Smith                12 Smithville             6-02.00      1.87m   8   
-  3 Uriah Schwemley           11 Shelby                 6-00.00      1.82m   6   
-  4 Angelo Grose              10 Mansfield Se           5-10.00      1.77m   4   
-  5 Kenny Carpenter           12 Hillsdale              5-08.00      1.72m   2   
-  6 Kaleb Tilton              11 Smithville             5-08.00      1.72m   1   
-  7 Tim Flint                 10 Ashland                5-06.00      1.67m 
-  8 Lyriq Davis               10 Mad. Compreh           5-04.00      1.62m 
-  9 Michael Garn              11 Hillsdale              5-04.00      1.62m 
- 10 Corbin Crowe              10 Mad. Compreh           5-04.00      1.62m 
- 11 Nathan Young              10 Ashland                5-02.00      1.57m 
- 12 Matthew Arnold            11 Clear Fork             5-00.00      1.52m 
- -- Logan Wood                10 Clear Fork                  NH            
+Event 27  Boys 4x400 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Fredericktown                                     3:37.00    3:35.20   2  10   
+     1) #628 Zolman, Zayde              2) #606 Hamilton, Alex            
+     3) #613 Davis, Cole                4) #622 Smith, Dakota             
+  2 Northmor                                          3:45.00    3:41.28   2   8   
+     1) #318 Zoll, Drew                 2) #313 Moore, Alec               
+     3) #323 Becker, Conor              4) #310 Petulla, Adam             
+  3 Cloverleaf                                        3:40.00    3:41.59   2   6   
+     1) #565 Vaughan, Tristan           2) #562 Curtis, Ryan              
+     3) #564 Stepp, Frank               4) #568 Wilson, Blake             
+  4 East Knox                                         3:50.75    3:41.62   2   5   
+     1) #905 Whitney, Nathan            2) #907 Moreland, Dawson          
+     3) #908 Moreland, Brice            4) #917 Darr, Chase               
+  5 Chippewa                                          4:45.00    3:42.55   1   4   
+     1) #116 Gerstenslager, Cameron     2) #102 Franks, Tanyon            
+     3) #113 Dannemiller, Andrew        4) #118 Sims, Clayton             
+  6 Mad. Comprehensive                                3:48.00    3:47.49   2   3   
+     1) #405 Stanfield, Wyatt           2) #411 Crowe, Corbin             
+     3) #407 Baker, Joel                4) #425 Richter, Anthony          
+  7 Hiland                                            4:06.62    3:50.11   1   2   
+     1) Hershey, Cordell                2) Casey, Evan                    
+     3) Gray, Brayden                   4) Yoder, Nathaniel               
+  8 Hillsdale                                         3:54.00    3:52.37   2   1   
+     1) #348 Myers, Mason               2) #342 Davis, Josh               
+     3) #369 Bishop, Colton             4) #338 Jones, Bryce              
+  9 Rittman                                           3:59.00    3:54.03   1 
+     1) #615 St. Clair, Logan           2) #619 Halliwell, Jeffrey        
+     3) #608 Vale, Eli                  4) #605 Leach, Logan              
+ 10 Highland                                                     4:05.00   1 
+     1) #522 DeAngelo, Gavin            2) #505 Mentzer, Travis           
+     3) #558 Thompson, Anthony          4) #556 Remmert, Landon           
+ 11 Loudonville                                                  4:08.20   1 
+     1) #707 Young, Harley              2) #705 Fraley, Mason             
+     3) #703 Bailey, Nick               4) #718 Pryor, Justin             
+ 12 Utica                                             4:11.35    4:08.29   1 
+     1) Lowry, Demitri                  2) Talty, Matt                    
+     3) Imbody, Michael                 4) Humphrey, Kai                  
+ 13 Mount Gilead                                      3:55.00    4:12.09   2 
+     1) #609 Clark, Tyler               2) #601 Sullivan, Josh            
+     3) #619 Page, Scott                4) #616 Knight, Tyler             
+ 14 Danville                                          4:05.00    4:20.44   1 
+     1) #643 Wilson, Tyler              2) #619 Cook, Charlie             
+     3) #615 Spearman, Gage             4) #625 Kerr, Skyler              
+ 15 Cardington-Lincoln                                3:57.00    4:26.72   1 
+     1) #43 Meade, Kaleb                2) #1 Lester, Zach                
+     3) Streich, Skyler                 4) #19 Hamilton, Eric             
+ -- Coshocton                                         3:52.00         NT   2 
+     1) #504 Bender, Adam               2) #527 Gray, Gunner              
+     3) #512 George, Jacob              4) #518 Mathias, Payne            
  
-Boys Pole Vault
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Alex Carter               10 Clear Fork             5-00.00      1.52m   3.44
-  1 Tim Krebs                 11 Hillsdale              5-00.00      1.52m   3.44
-  1 Aedan Roby                 9 Clear Fork             5-00.00      1.52m   3.44
-  1 Jace Watts                12 Smithville             5-00.00      1.52m   3.44
-  1 Trent Kauffman            12 Smithville             5-00.00      1.52m   3.44
-  1 Brinson DeLauder           9 Shelby                 5-00.00      1.52m   3.44
-  1 Brycen Burkhalter         10 Shelby                 5-00.00      1.52m   3.44
-  1 Gavin Rohr                11 Ashland                5-00.00      1.52m   3.44
-  1 Declan Rohr                9 Ashland                5-00.00      1.52m   3.44
+Event 28  Girls Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  350 Miracle, Hope         Northmor            10-00.00   10-03.00   10   
+  2       Wydick, Danielle       Utica                9-06.00    9-06.00    8   
+  3       Grooms, Lilly          Cardington-L         9-00.00    8-06.00    6   
+  4 #  109 Markley, Alexis       Chippewa             7-06.00    8-00.00    5   
+  5 #  124 Cazzoli, Sophie       Chippewa             7-00.00    7-06.00    4   
+  6 #  313 Sermulis, Audrey      Hillsdale            6-00.00    7-00.00    3   
+  7 #  660 Shipman, Jadyn        Mount Gilead         6-00.00    6-06.00    2   
+  8 #  757 Forbes, Cora          Loudonville          6-00.00   J6-06.00    1   
+ -- #  655 McCoy, Alexis         Mount Gilead         5-06.00         NH  
+ -- #  674 Kitchen, Jasmyn       Rittman              7-00.00         NH  
+ -- #  675 Montes, Catherine     Rittman              6-06.00         NH  
+ -- #  360 Kelley, Sabrina       Northmor             6-06.00         NH  
+ -- #  532 Marshall, Maddie      Cloverleaf           6-00.00         NH  
+ -- #  904 Gebhardt, Molly       East Knox            7-06.00         NH  
+ -- #    9 Lee-Rosch, Caitly     Cardington-L         7-06.00         NH  
+ --       Roddy, Maureen         Fredericktow         7-00.00         NH  
+ --       Stute, Lydia           Fredericktow         7-00.00         NH  
+ -- #  936 Crouch, Addison       East Knox            6-00.00         NH  
  
-Boys Long Jump
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Angelo Grose              10 Mansfield Se          22-02.00      6.75m  10   
-  2 Tim Flint                 10 Ashland               20-02.75      6.16m   8   
-  3 Jaylon Scott               9 Mad. Compreh          19-05.50      5.93m   6   
-  4 Trent Shane               12 Smithville            19-03.50      5.88m   4   
-  5 Alex Carter               10 Clear Fork            18-10.00      5.74m   2   
-  6 Grant Gossom              10 Shelby                18-03.75      5.58m   1   
-  7 Mason Myers                9 Hillsdale             17-10.00      5.43m 
-  8 Jace Watts                12 Smithville            17-09.50      5.42m 
-  9 Michael Garn              11 Hillsdale             17-07.50      5.37m 
- 10 Owen Fisher                9 Shelby                17-05.00      5.30m 
- 11 Zemed Krichbaum           11 Ashland               17-02.75      5.25m 
- 12 Tacoma Orr                10 Clear Fork            16-10.50      5.14m 
- 13 Anthony Richter            9 Mad. Compreh          16-02.75      4.94m 
+Event 29  Boys Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  307 Martinez, Tony        Northmor            12-00.00   12-03.00   10   
+  2       Martinsen, Nick        Utica                          11-06.00    8   
+  3 #  131 Douglas, Aden         Chippewa            12-00.00   11-00.00    6   
+  4       Chupp, Aaron           Hiland              10-00.00  J11-00.00    5   
+  5 #  609 Tumbleson, Steven     Fredericktow         9-06.00   10-06.00    4   
+  6 #  663 Clark, Colten         Mount Gilead         9-00.00  J10-06.00    3   
+  7 #  325 Berg, Aaron           Northmor            10-00.00   10-00.00    2   
+  8 #  578 Daniels, Ben          Cloverleaf           7-00.00    9-06.00    1   
+  9 #  707 Young, Harley         Loudonville                     9-00.00  
+ 10 #  706 Morris, Cody          Loudonville                     8-06.00  
+ 10 #  617 Roddy, Roghan         Fredericktow                    8-06.00  
+ 12       Miller, Krischan       Utica                           7-00.00  
+ 12 #  624 Lester, Zac           Mount Gilead         7-00.00    7-00.00  
+ 12 #  504 Brown, Nate           Cloverleaf           7-00.00    7-00.00  
+ 12 #  907 Moreland, Dawson      East Knox            8-00.00    7-00.00  
+ 16 #  330 Krebs, Tim            Hillsdale            9-06.00       9.00  
+ --       Kirsch, Kristian       Rittman              7-06.00         NH  
+ --       Streich, Skyler        Cardington-L         9-00.00         NH  
  
-Boys Shot Put
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 Hunter Tollison           11 Clear Fork            42-00.50     12.81m  10   
-  2 David Massaro             11 Smithville            42-00.00     12.80m   8   
-  3 Andrew Beery              10 Smithville            41-06.50     12.66m   6   
-  4 Nick Danison              11 Ashland               41-00.00     12.49m   4   
-  5 T'Ylheir Grose            10 Mansfield Se          39-03.00     11.96m   2   
-  6 Zack Poffenbaugh          11 Shelby                39-01.50     11.92m   1   
-  7 Emir Hemphill             10 Mansfield Se          37-06.75     11.44m 
-  8 Caleb Ritter              12 Hillsdale             36-07.50     11.16m 
-  9 Preston Arnold            11 Clear Fork            36-06.50     11.13m 
- 10 Max Wertman               11 Hillsdale             36-01.50     11.01m 
- 11 Tyler Baldinger           11 Mad. Compreh          35-06.50     10.83m 
- 12 Jared Risner              12 Ashland               35-00.50     10.68m 
- 13 Heath Bishop              11 Shelby                34-01.00     10.38m 
- 14 Kreston Winters            9 Mad. Compreh          29-04.50      8.95m 
+Event 30  Girls High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1       Young, Taygan          Utica                4-08.00    4-10.00   10   
+  2 #  757 Forbes, Cora          Loudonville          4-00.00   J4-10.00    8   
+  3 #  108 Barnett, Sydnee       Chippewa             4-04.00    4-08.00    6   
+  4 #  637 Banfield, Hannah      Rittman              4-06.00    4-06.00    5   
+  5 #  765 Haggerty, McKenna     Loudonville          4-00.00    4-04.00    4   
+  6       Werner, Mel            Fredericktow                   J4-04.00    3   
+  7 #  403 Lambert, Alyssa       Mad. Compreh         4-04.00    4-02.00    1   
+  7 #  667 Doller, Aunica        Mount Gilead         4-00.00    4-02.00    1   
+  7 #  601 Rolince, Makayla      Danville             4-06.00    4-02.00    1   
+ 10       Wydick, Danielle       Utica                4-06.00   J4-02.00  
+ 10 #   37 Brehm, Maddie         Cardington-L                   J4-02.00  
+ 12       Weller, Summer         Fredericktow         4-04.00    4-00.00  
+ 12 #  363 Theobault, Caitli     Northmor             4-04.00    4-00.00  
+ -- #  529 Thomas, Haley         Highland             4-00.00         NH  
+ -- #  372 Metzger, Lydia        Northmor             4-04.00         NH  
  
-Boys Discus Throw
-=================================================================================
-    Name                    Year School                  Finals            Points
-=================================================================================
-  1 David Massaro             11 Smithville              143-07     43.76m  10   
-  2 Nick Danison              11 Ashland                 125-08     38.30m   8   
-  3 Caleb Keib                 9 Smithville              116-10     35.61m   6   
-  4 Emir Hemphill             10 Mansfield Se            115-04     35.15m   4   
-  5 Austin Bidlack            10 Shelby                  109-06     33.37m   2   
-  6 Kyle Martin               12 Hillsdale               108-09     33.14m   1   
-  7 Peter Dawson              11 Shelby                  107-03     32.68m 
-  8 Preston Arnold            11 Clear Fork              106-05     32.43m 
-  9 Caleb Ritter              12 Hillsdale                99-10     30.42m 
- 10 Tyler Baldinger           11 Mad. Compreh             93-02     28.39m 
- 11 Triton Schuster            9 Ashland                  89-08     27.33m 
- 12 Kreston Winters            9 Mad. Compreh             81-08     24.89m 
- -- T'Ylheir Grose            10 Mansfield Se              FOUL            
- -- Hunter Tollison           11 Clear Fork                FOUL            
+Event 31  Boys High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1       Howell, Declan         Hiland               5-08.00    6-02.00   10   
+  2 #  332 Carpenter, Kenny      Hillsdale            5-08.00    6-01.00    8   
+  3 #  718 Pryor, Justin         Loudonville                     6-00.00    6   
+  4 #  911 Gilmore, Anthony      East Knox            5-10.00    5-06.00    4.50
+  4 #  639 Honzo, Aiden          Mount Gilead         5-00.00    5-06.00    4.50
+  6 #  310 Petulla, Adam         Northmor             5-04.00   J5-06.00    2.50
+  6 #  527 Gray, Gunner          Coshocton            5-04.00   J5-06.00    2.50
+  8 #  635 Bolha, Jason          Mount Gilead         5-00.00   J5-06.00    1   
+  9 #  917 Darr, Chase           East Knox            5-08.00    5-04.00  
+  9       Stacy, Joe             Mad. Compreh         5-04.00    5-04.00  
+  9 #  112 Smith, Drew           Chippewa             5-08.00    5-04.00  
+ 12 #  368 Grimwood, Clayton     Hillsdale            5-02.00    5-02.00  
+ 12 #  477 Davis, Lyriq          Mad. Compreh         5-06.00    5-02.00  
+ 12 #  562 Curtis, Ryan          Cloverleaf           5-00.00    5-02.00  
+ 12 #  107 Troup, Sam            Chippewa             5-04.00    5-02.00  
+ 16       Kuhns, Tyler           Hiland               5-02.00    5-00.00  
+ 16 #  500 Johns, Brayden        Coshocton            5-00.00    5-00.00  
+ --       Loper, Mason           Utica                                NH  
+ --       Newell, Trevor         Utica                4-10.00         NH  
+ -- #  306 Harr, Aiden           Northmor             5-02.00         NH  
+ -- #    1 Lester, Zach          Cardington-L         5-00.00         NH  
+ -- #  701 Portz, Trevor         Loudonville                          NH  
+ -- #  530 Gregerson, Nichol     Highland             5-02.00         NH  
+ -- #  523 Gustafson, Colton     Highland             5-00.00         NH  
+ -- #  555 Bailey, Nick          Cloverleaf           5-00.00         NH  
+ 
+Event 32  Girls Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1       Brannon, Sage          Cardington-L        15-10.00   16-01.00   10   
+  2 #  529 Boltz, Maddie         Cloverleaf          15-06.00   15-08.50    8   
+  3 #  655 Gasser, Erica         Rittman             15-01.00   15-04.00    6   
+  4 #  752 Kline, Stephanie      Loudonville         14-00.00   15-02.75    5   
+  5       McElwee, Alicia        Cardington-L        14-08.00   14-07.50    4   
+  6 #  355 Ditullio, Juliann     Northmor            13-10.00   14-05.75    3   
+  7       Wydick, Danielle       Utica               13-11.50   14-05.25    2   
+  8 #  519 Carpenter, Peyton     Highland            14-03.75   14-04.75    1   
+  9 #  601 Rolince, Makayla      Danville            15-05.00   14-04.25  
+ 10 #  938 Opfer, Emily          East Knox           12-07.00   13-07.00  
+ 10 #  368 Snyder, Bailey        Northmor            12-06.00   13-07.00  
+ 12 #  108 Barnett, Sydnee       Chippewa            13-06.50   13-04.50  
+ 13 #  658 Hovest, Emily         Rittman             13-04.00   13-02.75  
+ 14 #  696 Millisor, Bridget     Mount Gilead        14-05.00   13-02.00  
+ 14       Swetnam, Brittany      Utica               13-06.00   13-02.00  
+ 16 #  122 Kettler, Ellie        Chippewa            12-11.00   13-00.00  
+ 17       Lindeman, Katie        Fredericktow        12-02.00   12-09.50  
+ 17 #  603 Furay, Hannah         Danville                       12-09.50  
+ 19 #  132 Duling, Caitlyn       Coshocton           13-06.00   12-01.75  
+ 20       Johnston, Ashley       Fredericktow        12-08.00   11-07.00  
+ 21 #  321 Walker, Ruby          Hillsdale                      11-00.00  
+ 22 #  512 Wickham, Cassidy      Highland            10-11.00   10-11.50  
+ 23 #  755 Michalovich, Anne     Loudonville                    10-09.75  
+ 24 #  408 Weaver, Makayla       Mad. Compreh                   10-02.75  
+ 25 #  943 Huggins, Taylor       East Knox                      10-02.25  
+ 26 #  669 Simones, Kimberli     Mount Gilead        12-00.00    9-04.00  
+ 27 #  318 Blough, Ellie         Hillsdale           11-00.00    8-04.25  
+ 
+Event 33  Boys Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  333 Lower, P.J.           Northmor            18-00.00   19-05.50   10   
+  2 #   22 Goers, Mason          Cardington-L        19-00.00   19-02.25    8   
+  3       Howell, Declan         Hiland              18-01.00   18-09.50    6   
+  4 #  323 Becker, Conor         Northmor                       18-08.00    5   
+  5 #  611 Holt, Alex            Danville            17-10.00   18-06.00    4   
+  6 #  917 Darr, Chase           East Knox           18-00.00   18-02.50    3   
+  7       Riley, Justin          Utica                          18-01.00    2   
+  8 #  348 Myers, Mason          Hillsdale           18-04.00   17-11.00    1   
+  9 #  110 Cowan, Josh           Chippewa            17-07.00   17-10.25  
+ 10 #  528 Dickerson, Devin      Coshocton           17-00.00   17-10.00  
+ 11       Casey, Evan            Hiland              16-00.00   17-09.00  
+ 11 #  622 Baer, Aaron           Mount Gilead        18-00.00   17-09.00  
+ 13 #  556 Manzuk, John          Cloverleaf          19-02.00   17-07.75  
+ 14 #  905 Whitney, Nathan       East Knox           17-02.00   17-07.00  
+ 15 #  330 Krebs, Tim            Hillsdale           18-00.00   16-11.25  
+ 16 #  569 Nau, Jacob            Cloverleaf          17-06.00   16-04.00  
+ 17 #  725 Gebhart, Russell      Loudonville                    16-03.00  
+ 17 #  626 Franks, Justice       Mount Gilead        17-01.00   16-03.00  
+ 19 #  425 Richter, Anthony      Mad. Compreh        16-05.00   16-02.00  
+ 19 #  526 Damron, Bailey        Highland            17-02.75   16-02.00  
+ 21 #  624 Campbell, Chance      Fredericktow        16-00.00   16-00.00  
+ 22 #  477 Davis, Lyriq          Mad. Compreh        16-05.00   15-10.00  
+ 23       Imbody, Michael        Utica               16-04.00   15-09.50  
+ 24 #  614 Johnson, Langdon      Danville            16-02.00   15-09.00  
+ 25 #  708 Stanger, Ben          Loudonville                    14-11.00  
+ 26 #   44 Rose, Mike            Cardington-L        12-00.00   12-07.50  
+ 
+Event 34  Girls Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  538 Wangler, Lisa         Cloverleaf          36-02.00   36-01.00   10   
+  2 #  765 Haggerty, McKenna     Loudonville         33-00.00   35-06.00    8   
+  3       Young, Taygan          Utica               33-10.00   33-08.00    6   
+  4 #  644 Sisouphanh, Kalia     Rittman             32-04.00   33-02.50    5   
+  5 #  472 Baker, Kami           Mad. Compreh        32-00.00   33-00.00    4   
+  6 #  446 Phelps, Rebecca       Mad. Compreh        31-00.00   32-04.00    3   
+  7 #  527 Stewart, Logan        Cloverleaf          33-04.00   31-10.00    2   
+  8 #  138 Williams, Maribet     Chippewa            30-03.50   29-07.00    1   
+  9       Quinif, Hailey         Utica               27-11.00   29-06.00  
+ 10 #  952 Crouch, Kaylie        East Knox           27-06.00   28-03.00  
+ 11 #  329 Glass, Sage           Hillsdale           28-03.00   28-00.00  
+ 11 #  624 Brown, Makayla        Danville            29-09.00   28-00.00  
+ 13 #  668 Harter, Dani          Mount Gilead        27-10.00   27-07.00  
+ 14 #  691 Irwin, Kylie          Mount Gilead        25-00.00   26-08.50  
+ 15       Dowalter, Blake        Fredericktow        23-05.00   26-06.50  
+ 16 #  347 Craft, Maiya          Northmor            25-10.00   25-08.00  
+ 17 #  790 Lance, Carrie         Loudonville         22-00.00   25-01.00  
+ 18 #  378 Miracle, Macy         Northmor            26-08.00   25-00.50  
+ 19 #  140 Imgram, Jameaka       Coshocton           25-00.00   24-11.50  
+ 20 #  524 Grandstaff, Macke     Highland                       24-08.00  
+ 21       Overholt, Meredith     Fredericktow        24-10.00   24-07.00  
+ 22 #  555 Taylor, Camryn        Highland            25-07.50   24-02.50  
+ 23 #  149 Lewis, Alex           Chippewa            23-10.00   24-01.00  
+ 24 #  314 Watson, Kelsey        Hillsdale           24-06.00   23-11.00  
+ 25 #   14 Kuhn, Baily           Cardington-L        24-02.00   23-10.00  
+ 26 #  646 Leatherman, Peyto     Rittman             23-07.00   23-05.50  
+ 27 #  135 Hill, Josie           Coshocton           25-00.00   22-09.00  
+ 28 #  936 Crouch, Addison       East Knox           22-03.00   22-08.50  
+ 29 #   13 Mellenger, Lexie      Cardington-L        21-02.00   20-11.00  
+ 30 #  628 Addair, Sam           Danville            18-02.00   16-10.50  
+ 31 #  533 Donahue (wheeled)     Cloverleaf                      6-10.00  
+ 
+Event 35  Boys Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  925 Gibson, Jake          East Knox           51-00.50   50-02.00   10   
+  2 #  629 Scheibe, Kyle         Rittman             42-10.00   43-05.00    8   
+  3       Danison, Colton        Utica               42-04.00   42-03.00    6   
+  4       Scheibe, Kody          Rittman             41-00.00   41-08.50    5   
+  5 #  351 Garn, Michael         Hillsdale           39-05.00   41-05.00    4   
+  6 #  359 Ritter, Caleb         Hillsdale           40-03.00   39-01.50    3   
+  7 #  537 Kemp, Jake            Cloverleaf          39-02.00   37-08.00    2   
+  8 #  541 Brightwell-Walls,     Coshocton           42-00.00   37-06.00    1   
+  9 #  147 White, James          Chippewa            36-11.00   37-05.00  
+ 10 #  645 Cooper, Tyler         Mount Gilead        37-00.00   36-08.00  
+ 11 #  443 Baldinger, Tyler      Mad. Compreh        38-00.00   36-06.00  
+ 12 #  571 Baisden, Cody         Highland            36-08.50   36-01.00  
+ 13 #  789 Portz, Dillion        Loudonville                    35-07.50  
+ 14 #  795 Campbell, Evan        Loudonville                    35-06.50  
+ 15 #  924 Hockenberry, Brya     East Knox           35-10.00   35-03.50  
+ 16 #  646 Roskwitalski, Aus     Danville            32-08.00   35-01.00  
+ 16 #  134 Moyer, Zach           Chippewa            37-07.00   35-01.00  
+ 18 #  339 Brookover, Hunter     Northmor            34-01.00   35-00.00  
+ 19 #  583 Sword, Tommy          Cloverleaf          36-07.00   34-07.00  
+ 20 #  641 Wilson, Brad          Danville            38-08.00   34-05.50  
+ 21       Yoder, Michael         Hiland              32-05.00   33-11.00  
+ 22       Withrow, Lucas         Utica               33-06.00   33-06.50  
+ 23 #  560 Cooley, Andrew        Highland            35-02.25   33-04.50  
+ 24 #  639 Laher, Nick           Fredericktow        32-00.00   33-03.00  
+ 25 #  626 Main, Brandon         Fredericktow        34-00.00   33-02.00  
+ 26 #  529 Shannon, Collin       Coshocton           36-00.00   32-10.00  
+ 27 #  340 Moore, Tyson          Northmor            33-01.00   32-03.50  
+ 28       Raber, Andrew          Hiland              30-11.00   30-03.00  
+ 29 #  641 Thornton, Cameran     Mount Gilead        29-08.00   30-00.00  
+ 30 #   19 Hamilton, Eric        Cardington-L                   29-08.50  
+ 31 #  472 Hatfield, Jack        Mad. Compreh        31-00.00   29-02.50  
+ 32 #   18 West, Sam             Cardington-L                   22-01.00  
+ 
+Event 37  Girls Discus Throw
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  644 Sisouphanh, Kalia     Rittman               104-00  113-08.50   10   
+  2 #  538 Wangler, Lisa         Cloverleaf            110-00      99-10    8   
+  3 #  681 Barron, Zoie          Mount Gilead           83-01   88-09.50    6   
+  4 #  371 Jordan, Maddie        Northmor               94-00      88-07    5   
+  5 #  952 Crouch, Kaylie        East Knox              87-01      88-05    4   
+  6 #  527 Stewart, Logan        Cloverleaf            100-00      84-03    3   
+  7 #  668 Harter, Dani          Mount Gilead           81-07      83-06    2   
+  8 #  790 Lance, Carrie         Loudonville            96-00      83-04    1   
+  9       Quinif, Hailey         Utica                  84-05      82-10  
+ 10 #  472 Baker, Kami           Mad. Compreh           90-00   82-00.50  
+ 11 #  378 Miracle, Macy         Northmor               90-00   81-10.50  
+ 12 #  789 Dittrich, Jordyn      Loudonville            92-00      81-06  
+ 13 #  149 Lewis, Alex           Chippewa               81-04   81-05.50  
+ 14 #  327 Hohler, Libby         Hillsdale              83-01      80-11  
+ 15 #  120 Cain, Laryssa         Coshocton              85-02      80-01  
+ 16 #  314 Watson, Kelsey        Hillsdale              78-11   80-00.50  
+ 17       Dowalter, Blake        Fredericktow           80-00      79-09  
+ 18 #  624 Brown, Makayla        Danville               78-07      75-08  
+ 19       Weaver, Molly          Mad. Compreh           84-00   73-09.50  
+ 20 #  138 Williams, Maribet     Chippewa            81-04.50      73-04  
+ 21 #   14 Kuhn, Baily           Cardington-L           70-00      71-01  
+ 22 #  555 Taylor, Camryn        Highland               72-08      68-02  
+ 23 #  945 King, Lexi            East Knox              57-11      66-00  
+ 24 #  529 Thomas, Haley         Highland               74-05   63-09.50  
+ 25 #  116 Williams, Lexi        Coshocton              70-10   63-00.50  
+ 26       Stadler, Kylie         Fredericktow           55-00   60-04.50  
+ 27 #  646 Leatherman, Peyto     Rittman                58-00      59-09  
+ 28 #   13 Mellenger, Lexie      Cardington-L           55-00   54-05.50  
+ 29 #  628 Addair, Sam           Danville               42-10      46-08  
+ --       Kellett, Abby          Utica                  70-10       FOUL  
+ 
+Event 38  Boys Discus Throw
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 #  623 Isaac, Dedric         Rittman               134-06  132-08.50   10   
+  2 #  925 Gibson, Jake          East Knox             127-05     132-01    8   
+  3 #  146 Barnes, Freddy        Chippewa              133-06     121-05    6   
+  4       Danison, Colton        Utica                 116-03     116-03    5   
+  5 #  622 Saunders, Chase       Rittman               116-07     111-04    4   
+  6 #  541 Brightwell-Walls,     Coshocton             112-00  110-09.50    3   
+  7 #  924 Hockenberry, Brya     East Knox             109-04  108-07.50    2   
+  8 #  788 Purdy, Charles        Loudonville                   103-00.75    1   
+  9 #  135 Miller, Carlton       Chippewa              108-04     101-09  
+  9       Yoder, Michael         Hiland                           101-09  
+ 11 #  443 Baldinger, Tyler      Mad. Compreh          115-00     100-06  
+ 12 #  354 Martin, Kyle          Hillsdale             115-06      98-04  
+ 13 #  645 Cooper, Tyler         Mount Gilead           95-09      96-09  
+ 14 #  571 Baisden, Cody         Highland              109-10      94-03  
+ 15 #  625 Herbst, Michael       Fredericktow           86-00   93-03.50  
+ 16 #  537 Kemp, Jake            Cloverleaf            110-00      91-04  
+ 17 #  795 Campbell, Evan        Loudonville                       91-03  
+ 18 #  359 Ritter, Caleb         Hillsdale             109-06      89-06  
+ 19 #  639 Laher, Nick           Fredericktow           94-00      89-02  
+ 20 #  648 Reed, Brent           Danville               90-00      88-08  
+ 21       Withrow, Lucas         Utica                  87-08   88-04.50  
+ 22 #  522 Shook, Hayden         Coshocton             100-00      88-04  
+ 23 #  314 Kitts, Justin         Northmor               94-05      87-07  
+ 24 #  642 Weckesser, John       Danville              107-00      87-03  
+ 25 #  340 Moore, Tyson          Northmor               99-01      86-02  
+ 26 #  560 Cooley, Andrew        Highland               82-08      83-10  
+ 27 #  599 Starman, Cory         Cloverleaf                        81-07  
+ 28 #  472 Hatfield, Jack        Mad. Compreh           82-00      80-03  
+ 29 #   19 Hamilton, Eric        Cardington-L                   74-02.50  
+ 30 #  640 Baldwin, Hunter       Mount Gilead           87-02   73-08.50  
+ 31       Weaver, Bradley        Hiland                 76-10      72-04  
+ 32 #   18 West, Sam             Cardington-L                      61-09  
  
                     Women - Team Rankings - 17 Events Scored
 ===============================================================================
-    1) Mad. Comprehensive         148        2) Shelby                    116.75
-    3) Ashland                     94.75     4) Clear Fork                 56.75
-    5) Smithville                  48.87     6) Mansfield Senior           31   
-    7) Hillsdale                   24.87                                        
+    1) Rittman                    117        2) Cloverleaf                 81   
+    3) Loudonville                 76        4) Northmor                   73   
+    5) Chippewa                    67        6) Fredericktown              49   
+    7) Mad. Comprehensive          36        8) Highland                   34   
+    9) Utica                       26       10) Mount Gilead               25   
+   11) Cardington-Lincoln          23       12) East Knox                  17   
+   13) Hillsdale                   14       14) Danville                   13   
+   15) Hiland                      12                                           
  
                     Men - Team Rankings - 17 Events Scored
 ===============================================================================
-    1) Smithville                 127.88     2) Ashland                   125.88
-    3) Shelby                     123.88     4) Mad. Comprehensive         58   
-    5) Mansfield Senior            34        6) Hillsdale                  33.44
-    7) Clear Fork                  23.88                                        
+    1) Northmor                    94.50     2) Fredericktown              81   
+    2) Chippewa                    81        4) Cloverleaf                 70   
+    5) East Knox                   54.50     6) Hillsdale                  47   
+    7) Rittman                     45        8) Hiland                     37   
+    9) Highland                    33       10) Mount Gilead               27.50
+   11) Cardington-Lincoln          24       12) Utica                      23   
+   13) Mad. Comprehensive          18       14) Coshocton                  15.50
+   15) Loudonville                  8       16) Danville                    4   

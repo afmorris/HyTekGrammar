@@ -21,7 +21,7 @@ namespace HyTekLanguageApplication.Listeners
             @event.EventInfo.Gender = context.eventInfo().eventGender().GetText();
             @event.EventInfo.Name = context.eventInfo().eventName().GetText();
 
-            @event.EventHeader = context.eventHeader().GetText();
+            //@event.EventHeader = context.eventHeader().GetText();
 
             foreach (var eventResult in context.eventResult())
             {

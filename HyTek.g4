@@ -7,22 +7,22 @@ file
 : license exportInfo meetInfo NEWLINE event+;
 
 license
-: 'Licensed to' licensee NEWLINE;
+: LICENSEDTO licensee (NEWLINE)?;
 
 licensee
-: words '-'? words?;
+: words (DASH words)?;
 
 exportInfo
-: 'HY-TEK\'s Meet Manager' exportDate NEWLINE;
+: HYTEK exportDate NEWLINE;
 
 exportDate
 : date clockTime;
 
 meetInfo
-: meetName '-' meetDate NEWLINE (meetLocation NEWLINE)? (date NEWLINE)? 'Results' NEWLINE;
+: meetName DASH? meetDate? NEWLINE (meetLocation NEWLINE)? (date NEWLINE)? RESULTS NEWLINE;
 
 meetName
-: (ID|number)+;
+: (ID|INTEGER_NUMBER)+;
 
 meetDate
 : date;
@@ -37,38 +37,41 @@ eventInfo
 : eventNumber? eventGender eventName ;
 
 eventNumber
-: 'Event' number;
+: EVENT number;
 
 eventGender
-: ('Girls'|'Boys') ;
+: (GIRLS|BOYS) ;
 
 eventName
 : (ID|number)+;
 
 eventHeader
-: SEPARATOR NEWLINE words NEWLINE SEPARATOR NEWLINE 'Finals'?;
+: SEPARATOR NEWLINE columnHeaders NEWLINE SEPARATOR NEWLINE FINALS?;
+
+columnHeaders
+: (ID|number)+;
 
 eventResult
 : individualResult
   | relayResult;
 
 individualResult
-: place athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE;
+: place jerseyNumber? athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE;
 
 relayResult
 : place schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE legInfo?;
 
 metric
-: foot '.' inch 'm';
+: foot DOT inch METERS;
 
 wind
-: 'NWI';
+: NOWIND;
 
 legInfo
 : leg leg NEWLINE leg leg NEWLINE;
 
 leg
-: legNumber ')' athleteName athleteYear?;
+: legNumber RPAREN jerseyNumber? athleteName athleteYear?;
 
 legNumber
 : number;
@@ -76,8 +79,11 @@ legNumber
 place
 : number | DQPLACE;
 
+jerseyNumber
+: NUMBERSIGN number;
+
 athleteName
-: words '-'? '\''? words?;
+: words (DASH words)? (APOSTROPHE words)? (LPAREN words)? (RPAREN words)?;
 
 athleteYear
 : number;
@@ -87,21 +93,21 @@ schoolName
 
 seed
 : time
-  | distance;
+  | distance
+  | dq;
 
 time
-: minute? ':'? second '.' decimal
-  | 'FS'
-  | 'NH'
-  | 'DQ';
+: (minute COLON)? second DOT decimal;
 
 distance
-: foot '-' inch '.'? decimal?
-  | 'FOUL';
+: foot DASH inch DOT? decimal?;
+
+dq : FALSESTART | NOHEIGHT | DISQUALIFIED | FOUL | NOTIME;
 
 performance
-: time
-  | distance;
+: TIE? time QUALIFY?
+  | TIE? distance QUALIFY?
+  | dq;
 
 heatNumber
 : number;
@@ -126,7 +132,7 @@ decimal
 : INTEGER_NUMBER;
 
 period
-: ('AM'|'PM');
+: (AM|PM);
 
 day
 : INTEGER_NUMBER;
@@ -138,10 +144,10 @@ year
 : INTEGER_NUMBER;
 
 date
-: month '/' day '/' year;
+: month SLASH day SLASH year;
 
 clockTime
-: hour ':' minute ':'? second? period;
+: hour COLON minute COLON? second? period;
 
 foot
 : INTEGER_NUMBER;
@@ -161,9 +167,36 @@ INTEGER_NUMBER
 fragment
 DIGIT : ('0'..'9');
 
+LICENSEDTO: 'Licensed to';
+HYTEK: 'HY-TEK\'s Meet Manager';
+RESULTS: 'Results';
+EVENT: 'Event';
+GIRLS: 'Girls';
+BOYS: 'Boys';
+FINALS: 'Finals';
+DOT: '.';
+METERS: 'm';
+NOWIND: 'NWI';
+LPAREN: '(';
+RPAREN: ')';
+DASH: '-';
+APOSTROPHE: '\'';
+COLON: ':';
+FALSESTART: 'FS';
+NOHEIGHT: 'NH';
+DISQUALIFIED: 'DQ';
+FOUL: 'FOUL';
+NOTIME: 'NT';
+TIE: 'J';
+AM: 'AM';
+PM: 'PM';
+SLASH: '/';
+NUMBERSIGN: '#';
+QUALIFY: [qQ];
+
 DQPLACE : '--' ;
 SEPARATOR : '='+ ;
 INT : [0-9]+ ;
-ID  : [a-zA-Z"#'.\-:]+ ;
+ID  : [a-zA-Z"#'.\-:,]+ ;
 NEWLINE : '\r'? '\n' ;
 WS : [ \t]+ -> skip ;

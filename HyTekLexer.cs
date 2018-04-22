@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from c:\C\antlr4\HyTek\HyTek.g4 by ANTLR 4.7.1
+// Generated from c:\Users\antho\source\repos\HyTekGrammar\HyTek.g4 by ANTLR 4.7.1
 
 // Unreachable code detected
 #pragma warning disable 0162

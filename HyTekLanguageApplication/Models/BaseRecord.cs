@@ -1,4 +1,6 @@
-﻿namespace HyTekLanguageApplication.Models
+﻿using ServiceStack.DataAnnotations;
+
+namespace HyTekLanguageApplication.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
@@ -11,16 +13,20 @@
     {
         /// <inheritdoc />
         [Key]
+        [PrimaryKey]
+        [Compute]
         public Guid Id { get; set; } = Guid.NewGuid();
 
         /// <inheritdoc />
         [Required]
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
+        [Compute]
         public DateTimeOffset InsertedDate { get; set; } = DateTimeOffset.Now;
 
         /// <inheritdoc />
         [Required]
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
+        [Compute]
         public DateTimeOffset UpdatedDate { get; set; } = DateTimeOffset.Now;
     }
 }

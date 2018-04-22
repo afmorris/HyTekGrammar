@@ -4,14 +4,14 @@
 //   All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
-namespace OhioTrackStats.DataModels.Converters
+
+using System;
+using System.Data;
+using System.Drawing;
+using ServiceStack.OrmLite;
+
+namespace HyTekLanguageApplication.Models.Converters
 {
-    using System;
-    using System.Data;
-    using System.Drawing;
-
-    using ServiceStack.OrmLite;
-
     /// <summary>
     /// Custom converter for the <see cref="Color" /> type for ORMLite.
     /// </summary>

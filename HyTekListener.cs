@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from c:\Users\antho\source\repos\HyTekGrammar\HyTek.g4 by ANTLR 4.7.1
+// Generated from c:\C\antlr4\HyTek\HyTek.g4 by ANTLR 4.7.1
 
 // Unreachable code detected
 #pragma warning disable 0162
@@ -81,15 +81,15 @@ public interface IHyTekListener : IParseTreeListener {
 	/// <param name="context">The parse tree.</param>
 	void ExitEventName([NotNull] HyTekParser.EventNameContext context);
 	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.columnHeaders"/>.
+	/// Enter a parse tree produced by <see cref="HyTekParser.columnHeadersf"/>.
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
-	void EnterColumnHeaders([NotNull] HyTekParser.ColumnHeadersContext context);
+	void EnterColumnHeadersf([NotNull] HyTekParser.ColumnHeadersfContext context);
 	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.columnHeaders"/>.
+	/// Exit a parse tree produced by <see cref="HyTekParser.columnHeadersf"/>.
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
-	void ExitColumnHeaders([NotNull] HyTekParser.ColumnHeadersContext context);
+	void ExitColumnHeadersf([NotNull] HyTekParser.ColumnHeadersfContext context);
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.eventResult"/>.
 	/// </summary>
@@ -110,6 +110,36 @@ public interface IHyTekListener : IParseTreeListener {
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	void ExitIndividualResult([NotNull] HyTekParser.IndividualResultContext context);
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.throwawayResult"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void EnterThrowawayResult([NotNull] HyTekParser.ThrowawayResultContext context);
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.throwawayResult"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void ExitThrowawayResult([NotNull] HyTekParser.ThrowawayResultContext context);
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.trials"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void EnterTrials([NotNull] HyTekParser.TrialsContext context);
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.trials"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void ExitTrials([NotNull] HyTekParser.TrialsContext context);
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.heightResults"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void EnterHeightResults([NotNull] HyTekParser.HeightResultsContext context);
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.heightResults"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void ExitHeightResults([NotNull] HyTekParser.HeightResultsContext context);
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.relayResult"/>.
 	/// </summary>
@@ -260,6 +290,16 @@ public interface IHyTekListener : IParseTreeListener {
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	void ExitDq([NotNull] HyTekParser.DqContext context);
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.dqReason"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void EnterDqReason([NotNull] HyTekParser.DqReasonContext context);
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.dqReason"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	void ExitDqReason([NotNull] HyTekParser.DqReasonContext context);
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.performance"/>.
 	/// </summary>

@@ -106,12 +106,10 @@
     <Compile Include="DataModels\Meet.cs" />
     <Compile Include="DataModels\RelayResult.cs" />
     <Compile Include="DataModels\Performance.cs" />
+    <Compile Include="DataModels\ThrowawayResult.cs" />
     <Compile Include="Extensions\IntExtensions.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="Listeners\EventListener.cs" />
-    <Compile Include="Listeners\ExportInfoListener.cs" />
-    <Compile Include="Listeners\LicenseListener.cs" />
-    <Compile Include="Listeners\MeetInfoListener.cs" />
     <Compile Include="Models\Athlete.cs" />
     <Compile Include="Models\AthletePerformance.cs" />
     <Compile Include="Models\BaseRecord.cs" />

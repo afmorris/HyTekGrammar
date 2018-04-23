@@ -15,18 +15,28 @@ eventGender
 eventName
 : (ID|number)+;
 
-columnHeaders
+columnHeadersf
 : (ID|number)+;
 
 eventResult
 : individualResult
+  | throwawayResult
   | relayResult;
 
 individualResult
-: place jerseyNumber? athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE;
+: place jerseyNumber? athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? dqReason? points? tiebreaker? NEWLINE trials? heightResults?;
+
+throwawayResult
+: place jerseyNumber? athleteName athleteYear? schoolName NEWLINE;
+
+trials
+: performance+ NEWLINE?;
+
+heightResults
+: (PASS | CLEAR | FAIL)+ NEWLINE;
 
 relayResult
-: place schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE legInfo? NEWLINE;
+: place schoolName seed? performance metric? wind? heatNumber? dqReason? points? tiebreaker? NEWLINE legInfo? NEWLINE;
 
 metric
 : foot DOT inch METERS;
@@ -72,9 +82,12 @@ distance
 
 dq : FALSESTART | NOHEIGHT | DISQUALIFIED | FOUL | NOTIME | DIDNOTFINISH | DISQUALIFIED INTERFERENCE;
 
+dqReason
+: OUTOFZONE;
+
 performance
-: TIE? time QUALIFY? WINDAIDED?
-  | TIE? distance QUALIFY?
+: TIE? time QUALIFY? RECORD?
+  | TIE? distance QUALIFY? RECORD?
   | dq;
 
 heatNumber
@@ -133,7 +146,10 @@ WS : [ \t]+ -> skip ;
 ATSIGN: '@' -> skip;
 SEMICOLON: ';' -> skip;
 TOPINFO: LICENSEDTO .* RESULTS .*? NEWLINE .*? NEWLINE -> skip;
-SEPARATOR: '='+ .*? '='+ NEWLINE ((PRELIMINARIES | FINALS) NEWLINE)? -> skip;
+SEPARATOR: '='+ .*? '='+ NEWLINE -> skip;
+FINALSKIP: FINALS NEWLINE -> skip;
+PRELIMS: PRELIMINARIES NEWLINE -> skip;
+NOWINDPARENS: '(NWI)' -> skip;
 EVENTNUMBER: EVENT .*? [0-9]+ -> skip;
 LICENSEDTO: 'Licensed to';
 RESULTS: 'Results';
@@ -171,10 +187,14 @@ PM: 'PM';
 SLASH: '/';
 NUMBERSIGN: '#';
 QUALIFY: [qQ];
-WINDAIDED: 'A';
+RECORD: 'A' | 'R';
+PASS: 'P'+;
+FAIL: 'X'+;
+CLEAR: 'X'* 'O'+;
+OUTOFZONE: 'Out of Zone';
 
 DQPLACE : '--' ;
 
 INT : [0-9]+ ;
-ID  : [a-zA-Z"#'.\-:,()]+ ;
+ID  : [a-zA-Z"#'.\-:,()’]+ ;
 NEWLINE : '\r'? '\n' ;

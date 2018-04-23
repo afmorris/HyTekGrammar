@@ -7,17 +7,12 @@ namespace HyTekLanguageApplication.Listeners
 {
     public class EventListener : HyTekBaseListener
     {
-        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL", "NT", "DNF"};
+        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL", "NT", "DNF", "DQInterference"};
 
         public override void ExitEvent(HyTekParser.EventContext context)
         {
             var @event = new Event();
 
-            if (context.eventInfo().eventNumber() != null)
-            {
-                int.TryParse(context.eventInfo().eventNumber().number().GetText(), out var eventNumber);
-                @event.EventInfo.Number = eventNumber;
-            }
             @event.EventInfo.Gender = context.eventInfo().eventGender().GetText();
             @event.EventInfo.Name = context.eventInfo().eventName().GetText();
 
@@ -182,7 +177,7 @@ namespace HyTekLanguageApplication.Listeners
 
                     @event.EventResults.Add(result);
                 }
-                else
+                else if (eventResult.relayResult() != null)
                 {
                     var relayContext = eventResult.relayResult();
 

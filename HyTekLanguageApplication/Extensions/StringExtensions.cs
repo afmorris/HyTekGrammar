@@ -11,13 +11,13 @@ namespace HyTekLanguageApplication.Extensions
         {
             { "100M", new HashSet<string> { "100MeterDash" } },
             { "200M", new HashSet<string> { "200MeterDash" } },
-            { "400M", new HashSet<string> { "400MeterDash" } },
+            { "400M", new HashSet<string> { "400MeterDash", "400MeterDashTimedFinal" } },
             { "800M", new HashSet<string> { "800MeterRun" } },
             { "1600M", new HashSet<string> { "1600MeterRun" } },
             { "3200M", new HashSet<string> { "3200MeterRun" } },
             { "100M Hurdles", new HashSet<string> { "100MeterHurdles33\"", "100MeterHurdles" } },
             { "110M Hurdles", new HashSet<string> { "110MeterHurdles39\"", "110MeterHurdles" } },
-            { "300M Hurdles", new HashSet<string> { "300MeterHurdles30\"", "300MeterHurdles36\"", "300MeterHurdles" } },
+            { "300M Hurdles", new HashSet<string> { "300MeterHurdles30\"", "300MeterHurdles36\"", "300MeterHurdles", "300MeterHurdlesTimedFinal" } },
             { "4x100M Relay", new HashSet<string> { "4x100MeterRelay" } },
             { "4x200M Relay", new HashSet<string> { "4x200MeterRelay" } },
             { "4x400M Relay", new HashSet<string> { "4x400MeterRelay" } },
@@ -27,6 +27,7 @@ namespace HyTekLanguageApplication.Extensions
             { "High Jump", new HashSet<string> { "HighJump" } },
             { "Long Jump", new HashSet<string> { "LongJump" } },
             { "Pole Vault", new HashSet<string> { "PoleVault" } },
+            { "SKIP", new HashSet<string> { "102MeterDashWheelchair", "402MeterDashWheelchair"}}
         };
 
         private static readonly Dictionary<Gender, HashSet<string>> GenderLookup = new Dictionary<Gender, HashSet<string>>

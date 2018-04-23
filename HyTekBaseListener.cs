@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from c:\Users\antho\source\repos\HyTekGrammar\HyTek.g4 by ANTLR 4.7.1
+// Generated from c:\C\antlr4\HyTek\HyTek.g4 by ANTLR 4.7.1
 
 // Unreachable code detected
 #pragma warning disable 0162
@@ -95,17 +95,17 @@ public partial class HyTekBaseListener : IHyTekListener {
 	/// <param name="context">The parse tree.</param>
 	public virtual void ExitEventName([NotNull] HyTekParser.EventNameContext context) { }
 	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.columnHeaders"/>.
+	/// Enter a parse tree produced by <see cref="HyTekParser.columnHeadersf"/>.
 	/// <para>The default implementation does nothing.</para>
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
-	public virtual void EnterColumnHeaders([NotNull] HyTekParser.ColumnHeadersContext context) { }
+	public virtual void EnterColumnHeadersf([NotNull] HyTekParser.ColumnHeadersfContext context) { }
 	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.columnHeaders"/>.
+	/// Exit a parse tree produced by <see cref="HyTekParser.columnHeadersf"/>.
 	/// <para>The default implementation does nothing.</para>
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
-	public virtual void ExitColumnHeaders([NotNull] HyTekParser.ColumnHeadersContext context) { }
+	public virtual void ExitColumnHeadersf([NotNull] HyTekParser.ColumnHeadersfContext context) { }
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.eventResult"/>.
 	/// <para>The default implementation does nothing.</para>
@@ -130,6 +130,42 @@ public partial class HyTekBaseListener : IHyTekListener {
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	public virtual void ExitIndividualResult([NotNull] HyTekParser.IndividualResultContext context) { }
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.throwawayResult"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void EnterThrowawayResult([NotNull] HyTekParser.ThrowawayResultContext context) { }
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.throwawayResult"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void ExitThrowawayResult([NotNull] HyTekParser.ThrowawayResultContext context) { }
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.trials"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void EnterTrials([NotNull] HyTekParser.TrialsContext context) { }
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.trials"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void ExitTrials([NotNull] HyTekParser.TrialsContext context) { }
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.heightResults"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void EnterHeightResults([NotNull] HyTekParser.HeightResultsContext context) { }
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.heightResults"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void ExitHeightResults([NotNull] HyTekParser.HeightResultsContext context) { }
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.relayResult"/>.
 	/// <para>The default implementation does nothing.</para>
@@ -310,6 +346,18 @@ public partial class HyTekBaseListener : IHyTekListener {
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	public virtual void ExitDq([NotNull] HyTekParser.DqContext context) { }
+	/// <summary>
+	/// Enter a parse tree produced by <see cref="HyTekParser.dqReason"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void EnterDqReason([NotNull] HyTekParser.DqReasonContext context) { }
+	/// <summary>
+	/// Exit a parse tree produced by <see cref="HyTekParser.dqReason"/>.
+	/// <para>The default implementation does nothing.</para>
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	public virtual void ExitDqReason([NotNull] HyTekParser.DqReasonContext context) { }
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.performance"/>.
 	/// <para>The default implementation does nothing.</para>

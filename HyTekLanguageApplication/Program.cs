@@ -23,44 +23,30 @@ namespace HyTekLanguageApplication
     class Program
     {
         private static IDbConnectionFactory dbFactory;
-        private static readonly string MeetName = "Mansfield Mehock Relays";
-        private static readonly Guid LocationId = new Guid("32BBEFE5-4EDD-41B5-9E75-B9C2B640CBEC");
-        private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 4, 14, 0, 0, 0, TimeSpan.Zero);
+        private static readonly string MeetName = "Bucyrus Elks Invitational";
+        private static readonly Guid LocationId = new Guid("7C836D9F-EACA-4CBE-8103-BA6B35CB48BC");
+        private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 3, 31, 0, 0, 0, TimeSpan.Zero);
 
         public static readonly Dictionary<string, HashSet<string>> SchoolLookup = new Dictionary<string, HashSet<string>>
         {
-            {"Gahanna Lincoln", new HashSet<string> { "Gah. Lincoln" }},
-            {"SKIP", new HashSet<string> { "East Kentwood", "East Kentwoo", "Monroe Miler", "Monroe Milers Homeschool" }},
-            {"Lima Senior", new HashSet<string> { "Lima Senior" }},
-            {"Mansfield Madison Comp.", new HashSet<string> { "Mad. Comprehensive", "Mad. Compreh" }},
-            {"Ashland", new HashSet<string> { "Ashland" }},
             {"Galion", new HashSet<string> { "Galion" }},
-            {"Mount Gilead", new HashSet<string> { "Mount Gilead" }},
-            {"Warsaw River View", new HashSet<string> { "River View" }},
-            {"Shelby", new HashSet<string> { "Shelby" }},
             {"Ontario", new HashSet<string> { "Ontario" }},
-            {"Cle. Hts. Beaumont", new HashSet<string> { "Beaumont" }},
-            {"Sylvania Southview", new HashSet<string> { "Syl. Southview", "Syl. Southvi" }},
-            {"Chillicothe Unioto", new HashSet<string> { "Unioto" }},
-            {"Lyndhurst Brush", new HashSet<string> { "Brush" }},
-            {"Westlake", new HashSet<string> { "Westlake" }},
-            {"Mansfield St. Peter's", new HashSet<string> { "St. Peter's" }},
-            {"Cle. Villa Angela-St. Joseph", new HashSet<string> { "Cle. VASJ", "Cle. Vasj" }},
-            {"Chillicothe", new HashSet<string> { "Chillicothe" }},
-            {"Bexley", new HashSet<string> { "Bexley" }},
-            {"Mansfield Senior", new HashSet<string> { "Mansfield Senior", "Mansfield Se" }},
-            {"Mansfield Christian", new HashSet<string> { "Mans. Christian", "Mans. Christ" }},
-            {"Ashland Mapleton", new HashSet<string> { "Mapleton" }},
-            {"Bellville Clear Fork", new HashSet<string> { "Clear Fork" }},
-            {"Willard", new HashSet<string> { "Willard" }},
-            {"Ashland Crestview", new HashSet<string> { "Ash. Crestview", "Ash. Crestvi" }},
-            {"Sandusky", new HashSet<string> { "Sandusky" }},
-            {"Day. Thurgood Marshall", new HashSet<string> { "Thurgood Marshall", "Thurgood Mar" }},
-            {"Fort Recovery", new HashSet<string> { "Ft. Recovery" }},
-            {"North Olmsted", new HashSet<string> { "No. Olmsted" }},
-            {"Caledonia River Valley", new HashSet<string> { "Cal. River Valley", "Cal. River V" }},
-            {"Cleve. St Martin De Porres", new HashSet<string> { "St. Martin dePorres", "St. Martin d" }},
-            {"Cle. John Adams", new HashSet<string> { "John Adams" }}
+            {"Caledonia River Valley", new HashSet<string> { "River Valley" }},
+            {"Oak Harbor", new HashSet<string> { "Oak Harbor" }},
+            {"Lexington", new HashSet<string> { "Lexington" }},
+            {"Upper Sandusky", new HashSet<string> { "Upper Sandusky", "Upper Sandus" }},
+            {"North Robinson Colonel Crawford", new HashSet<string> { "Col. Crawford", "Col. Crawfor" }},
+            {"Sycamore Mohawk", new HashSet<string> { "Mohawk" }},
+            {"Collins Western Reserve", new HashSet<string> { "Western Reserve", "Western Rese" }},
+            {"Ashland Crestview", new HashSet<string> { "Crestview" }},
+            {"Marion Harding", new HashSet<string> { "Marion Harding", "Marion Hardi" }},
+            {"Bucyrus", new HashSet<string> { "Bucyrus" }},
+            {"Bucyrus Wynford", new HashSet<string> { "Wynford" }},
+            {"Greenwich South Central", new HashSet<string> { "South Central", "South Centra" }},
+            {"Morral Ridgedale", new HashSet<string> { "Ridgedale" }},
+            {"Plymouth", new HashSet<string> { "Plymouth" }},
+            {"Crestline", new HashSet<string> { "Crestline" }},
+            {"Mount Gilead Gilead Christian", new HashSet<string> { "Gilead Chris", "Gilead Christian" }}
         };
 
         private static readonly IAppSettings Settings = new AppSettings();
@@ -70,7 +56,7 @@ namespace HyTekLanguageApplication
         {
             SetupDbFactory();
             string html;
-            var url = "http://www.baumspage.com/track/mehock/2018/2018%20_m_%20Final%20Results.htm";
+            var url = "http://www.baumspage.com/track/bucy-elks/2018/2018%20Results.htm";
             using (var client = new WebClient())
             {
                 html = client.DownloadString(url);
@@ -86,11 +72,8 @@ namespace HyTekLanguageApplication
             HyTekLexer lexer = new HyTekLexer(inputStream);
             CommonTokenStream tokenStream = new CommonTokenStream(lexer);
             HyTekParser parser = new HyTekParser(tokenStream);
-            parser.AddParseListener(new LicenseListener());
-            parser.AddParseListener(new ExportInfoListener());
-            parser.AddParseListener(new MeetInfoListener());
             parser.AddParseListener(new EventListener());
-            parser.file();
+            parser.init();
 
             PopulateDatabase();
 
@@ -148,9 +131,12 @@ namespace HyTekLanguageApplication
             foreach (var @event in File.Events)
             {
                 var eventName = @event.EventInfo.Name.TranslateEventName();
-                var gender = @event.EventInfo.Gender.TranslateGender();
-                var dbEvent = GetEvent(eventName, gender);
-                PopulateAthletesAndPerformances(@event.EventResults, dbEvent, meet);
+                if (eventName != "SKIP")
+                {
+                    var gender = @event.EventInfo.Gender.TranslateGender();
+                    var dbEvent = GetEvent(eventName, gender);
+                    PopulateAthletesAndPerformances(@event.EventResults, dbEvent, meet);
+                }
             }
 
             int b = 2;

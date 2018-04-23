@@ -7,7 +7,7 @@ namespace HyTekLanguageApplication.Listeners
 {
     public class EventListener : HyTekBaseListener
     {
-        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL"};
+        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL", "NT", "DNF"};
 
         public override void ExitEvent(HyTekParser.EventContext context)
         {
@@ -52,13 +52,30 @@ namespace HyTekLanguageApplication.Listeners
 
                     result.AthleteName = string.Join(" ", athleteNameList);
 
+                    //result.AthleteName = string.Join(" ", individualContext.athleteName().words().children);
+
+                    foreach (var kvp in  Program.SchoolLookup)
+                    {
+                        foreach (var schoolName in kvp.Value)
+                        {
+                            if (result.AthleteName.Contains(schoolName))
+                            {
+                                result.SchoolName = schoolName;
+                                result.AthleteName = result.AthleteName.Replace($" {schoolName}", "");
+                            }
+                        }
+                    }
+
                     if (individualContext.athleteYear() != null)
                     {
                         int.TryParse(individualContext.athleteYear().GetText(), out var athleteYear);
                         result.AthleteYear = athleteYear;
                     }
 
-                    result.SchoolName = string.Join(" ", individualContext.schoolName().words().children);
+                    if (string.IsNullOrEmpty(result.SchoolName))
+                    {
+                        result.SchoolName = string.Join(" ", individualContext.schoolName().words().children);
+                    }
 
                     if (individualContext.seed() != null)
                     {
@@ -257,6 +274,8 @@ namespace HyTekLanguageApplication.Listeners
                             }
 
                             leg.AthleteName = string.Join(" ", athleteNameList);
+
+                            //leg.AthleteName = string.Join(" ", legContext.athleteName().words().children);
 
                             if (legContext.athleteYear() != null)
                             {

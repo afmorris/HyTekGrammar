@@ -41,96 +41,6 @@ public interface IHyTekListener : IParseTreeListener {
 	/// <param name="context">The parse tree.</param>
 	void ExitInit([NotNull] HyTekParser.InitContext context);
 	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.file"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterFile([NotNull] HyTekParser.FileContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.file"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitFile([NotNull] HyTekParser.FileContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.license"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterLicense([NotNull] HyTekParser.LicenseContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.license"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitLicense([NotNull] HyTekParser.LicenseContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.licensee"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterLicensee([NotNull] HyTekParser.LicenseeContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.licensee"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitLicensee([NotNull] HyTekParser.LicenseeContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.exportInfo"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterExportInfo([NotNull] HyTekParser.ExportInfoContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.exportInfo"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitExportInfo([NotNull] HyTekParser.ExportInfoContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.exportDate"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterExportDate([NotNull] HyTekParser.ExportDateContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.exportDate"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitExportDate([NotNull] HyTekParser.ExportDateContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetInfo"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterMeetInfo([NotNull] HyTekParser.MeetInfoContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetInfo"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitMeetInfo([NotNull] HyTekParser.MeetInfoContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetName"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterMeetName([NotNull] HyTekParser.MeetNameContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetName"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitMeetName([NotNull] HyTekParser.MeetNameContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetDate"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterMeetDate([NotNull] HyTekParser.MeetDateContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetDate"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitMeetDate([NotNull] HyTekParser.MeetDateContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetLocation"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterMeetLocation([NotNull] HyTekParser.MeetLocationContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetLocation"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitMeetLocation([NotNull] HyTekParser.MeetLocationContext context);
-	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.event"/>.
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
@@ -151,16 +61,6 @@ public interface IHyTekListener : IParseTreeListener {
 	/// <param name="context">The parse tree.</param>
 	void ExitEventInfo([NotNull] HyTekParser.EventInfoContext context);
 	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.eventNumber"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterEventNumber([NotNull] HyTekParser.EventNumberContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.eventNumber"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitEventNumber([NotNull] HyTekParser.EventNumberContext context);
-	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.eventGender"/>.
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
@@ -180,16 +80,6 @@ public interface IHyTekListener : IParseTreeListener {
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	void ExitEventName([NotNull] HyTekParser.EventNameContext context);
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.eventHeader"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void EnterEventHeader([NotNull] HyTekParser.EventHeaderContext context);
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.eventHeader"/>.
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	void ExitEventHeader([NotNull] HyTekParser.EventHeaderContext context);
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.columnHeaders"/>.
 	/// </summary>

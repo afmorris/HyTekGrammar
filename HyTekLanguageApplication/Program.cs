@@ -23,20 +23,44 @@ namespace HyTekLanguageApplication
     class Program
     {
         private static IDbConnectionFactory dbFactory;
-        private static readonly string MeetName = "Jackson Invitational";
-        private static readonly Guid LocationId = new Guid("E3982FC2-E647-43DB-BED2-AA3EA20551F3");
-        private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 3, 30, 0, 0, 0, TimeSpan.Zero);
+        private static readonly string MeetName = "Mansfield Mehock Relays";
+        private static readonly Guid LocationId = new Guid("32BBEFE5-4EDD-41B5-9E75-B9C2B640CBEC");
+        private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 4, 14, 0, 0, 0, TimeSpan.Zero);
 
-        private static readonly Dictionary<string, HashSet<string>> SchoolLookup = new Dictionary<string, HashSet<string>>
+        public static readonly Dictionary<string, HashSet<string>> SchoolLookup = new Dictionary<string, HashSet<string>>
         {
-            {"Bidwell River Valley", new HashSet<string> { "River Valley" }},
-            {"Albany Alexander", new HashSet<string> { "Alexander" }},
-            {"Jackson", new HashSet<string> { "Jackson" }},
-            {"Oak Hill", new HashSet<string> { "Oak Hill" }},
-            {"Pomeroy Meigs", new HashSet<string> { "Meigs" }},
-            {"Minford", new HashSet<string> { "Minford" }},
-            {"Wellston", new HashSet<string> { "Wellston" }},
-            {"Beaver Eastern", new HashSet<string> { "Bea. Eastern" }},
+            {"Gahanna Lincoln", new HashSet<string> { "Gah. Lincoln" }},
+            {"SKIP", new HashSet<string> { "East Kentwood", "East Kentwoo", "Monroe Miler", "Monroe Milers Homeschool" }},
+            {"Lima Senior", new HashSet<string> { "Lima Senior" }},
+            {"Mansfield Madison Comp.", new HashSet<string> { "Mad. Comprehensive", "Mad. Compreh" }},
+            {"Ashland", new HashSet<string> { "Ashland" }},
+            {"Galion", new HashSet<string> { "Galion" }},
+            {"Mount Gilead", new HashSet<string> { "Mount Gilead" }},
+            {"Warsaw River View", new HashSet<string> { "River View" }},
+            {"Shelby", new HashSet<string> { "Shelby" }},
+            {"Ontario", new HashSet<string> { "Ontario" }},
+            {"Cle. Hts. Beaumont", new HashSet<string> { "Beaumont" }},
+            {"Sylvania Southview", new HashSet<string> { "Syl. Southview", "Syl. Southvi" }},
+            {"Chillicothe Unioto", new HashSet<string> { "Unioto" }},
+            {"Lyndhurst Brush", new HashSet<string> { "Brush" }},
+            {"Westlake", new HashSet<string> { "Westlake" }},
+            {"Mansfield St. Peter's", new HashSet<string> { "St. Peter's" }},
+            {"Cle. Villa Angela-St. Joseph", new HashSet<string> { "Cle. VASJ", "Cle. Vasj" }},
+            {"Chillicothe", new HashSet<string> { "Chillicothe" }},
+            {"Bexley", new HashSet<string> { "Bexley" }},
+            {"Mansfield Senior", new HashSet<string> { "Mansfield Senior", "Mansfield Se" }},
+            {"Mansfield Christian", new HashSet<string> { "Mans. Christian", "Mans. Christ" }},
+            {"Ashland Mapleton", new HashSet<string> { "Mapleton" }},
+            {"Bellville Clear Fork", new HashSet<string> { "Clear Fork" }},
+            {"Willard", new HashSet<string> { "Willard" }},
+            {"Ashland Crestview", new HashSet<string> { "Ash. Crestview", "Ash. Crestvi" }},
+            {"Sandusky", new HashSet<string> { "Sandusky" }},
+            {"Day. Thurgood Marshall", new HashSet<string> { "Thurgood Marshall", "Thurgood Mar" }},
+            {"Fort Recovery", new HashSet<string> { "Ft. Recovery" }},
+            {"North Olmsted", new HashSet<string> { "No. Olmsted" }},
+            {"Caledonia River Valley", new HashSet<string> { "Cal. River Valley", "Cal. River V" }},
+            {"Cleve. St Martin De Porres", new HashSet<string> { "St. Martin dePorres", "St. Martin d" }},
+            {"Cle. John Adams", new HashSet<string> { "John Adams" }}
         };
 
         private static readonly IAppSettings Settings = new AppSettings();
@@ -46,8 +70,7 @@ namespace HyTekLanguageApplication
         {
             SetupDbFactory();
             string html;
-            var url = "http://www.baumspage.com/track/madisoncomp/2018/2018%20Results.htm";
-            //var url = "http://www.baumspage.com/track/loudenville/2018/2018%20Results.htm";
+            var url = "http://www.baumspage.com/track/mehock/2018/2018%20_m_%20Final%20Results.htm";
             using (var client = new WebClient())
             {
                 html = client.DownloadString(url);
@@ -87,7 +110,7 @@ namespace HyTekLanguageApplication
         private static void PopulateDatabase()
         {
             var meet = GetOrCreateMeet();
-            NormalizeResults(meet);
+            PopulateResults(meet);
         }
 
         private static Meet GetOrCreateMeet()
@@ -120,7 +143,7 @@ namespace HyTekLanguageApplication
             return GetMeet();
         }
 
-        private static void NormalizeResults(Meet meet)
+        private static void PopulateResults(Meet meet)
         {
             foreach (var @event in File.Events)
             {
@@ -146,36 +169,39 @@ namespace HyTekLanguageApplication
             foreach (var result in eventResults)
             {
                 var school = result.SchoolName.TranslateSchool(SchoolLookup);
-                var dbSchool = GetSchool(school);
-                var performance = GetOrCreatePerformance(dbEvent.Id, dbSchool.Id, meet.Id, (decimal)result.Performance.Data, meet.Date, dbEvent.IsRunningEvent);
-
-                if (dbEvent.IsRelayEvent)
+                if (school != "SKIP")
                 {
-                    if (result is RelayResult relayResult)
+                    var dbSchool = GetSchool(school);
+                    var performance = GetOrCreatePerformance(dbEvent.Id, dbSchool.Id, meet.Id, (decimal)result.Performance.Data, meet.Date, dbEvent.IsRunningEvent);
+
+                    if (dbEvent.IsRelayEvent)
                     {
-                        // go through the legs
-                        foreach (var leg in relayResult.LegInfo.Legs)
+                        if (result is RelayResult relayResult)
                         {
-                            var firstName = leg.AthleteName.GetFirstName();
-                            var lastName = leg.AthleteName.GetLastName();
-                            var year = leg.AthleteYear.ParseYear();
+                            // go through the legs
+                            foreach (var leg in relayResult.LegInfo.Legs)
+                            {
+                                var firstName = leg.AthleteName.GetFirstName();
+                                var lastName = leg.AthleteName.GetLastName();
+                                var year = leg.AthleteYear.ParseYear();
+
+                                var athlete = GetOrCreateAthlete(firstName, lastName, year, dbSchool, dbEvent.Gender);
+                                var athletePerformance = GetOrCreateAthletePerformance(athlete.Id, performance.Id);
+                            }
+                        }
+                    }
+                    else
+                    {
+                        if (result is IndividualResult individualResult)
+                        {
+                            var firstName = individualResult.AthleteName.GetFirstName();
+                            var lastName = individualResult.AthleteName.GetLastName();
+                            var year = individualResult.AthleteYear.ParseYear();
 
                             var athlete = GetOrCreateAthlete(firstName, lastName, year, dbSchool, dbEvent.Gender);
                             var athletePerformance = GetOrCreateAthletePerformance(athlete.Id, performance.Id);
                         }
                     }
-                }
-                else
-                {
-                    if (result is IndividualResult individualResult)
-                    {
-                        var firstName = individualResult.AthleteName.GetFirstName();
-                        var lastName = individualResult.AthleteName.GetLastName();
-                        var year = individualResult.AthleteYear.ParseYear();
-
-                        var athlete = GetOrCreateAthlete(firstName, lastName, year, dbSchool, dbEvent.Gender);
-                        var athletePerformance = GetOrCreateAthletePerformance(athlete.Id, performance.Id);
-                    }   
                 }
             }
         }

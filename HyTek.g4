@@ -1,52 +1,19 @@
 grammar HyTek;
 
 init
-: file;
-
-file
-: license exportInfo meetInfo NEWLINE event+;
-
-license
-: LICENSEDTO licensee (NEWLINE)?;
-
-licensee
-: words (DASH words)?;
-
-exportInfo
-: HYTEK exportDate NEWLINE;
-
-exportDate
-: date clockTime;
-
-meetInfo
-: meetName DASH? meetDate? NEWLINE (meetLocation NEWLINE)? (date NEWLINE)? RESULTS NEWLINE;
-
-meetName
-: (ID|INTEGER_NUMBER)+;
-
-meetDate
-: date;
-
-meetLocation
-: words;
+: event+;
 
 event
-: eventInfo NEWLINE eventHeader eventResult+ NEWLINE+;
+: eventInfo NEWLINE eventResult+ NEWLINE;
 
 eventInfo
-: eventNumber? eventGender eventName ;
-
-eventNumber
-: EVENT number;
+: eventGender eventName ;
 
 eventGender
 : (GIRLS|BOYS) ;
 
 eventName
 : (ID|number)+;
-
-eventHeader
-: SEPARATOR NEWLINE columnHeaders NEWLINE SEPARATOR NEWLINE FINALS?;
 
 columnHeaders
 : (ID|number)+;
@@ -59,16 +26,17 @@ individualResult
 : place jerseyNumber? athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE;
 
 relayResult
-: place schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE legInfo?;
+: place schoolName seed? performance metric? wind? heatNumber? points? tiebreaker? NEWLINE legInfo? NEWLINE;
 
 metric
 : foot DOT inch METERS;
 
 wind
-: NOWIND;
+: NOWIND
+  | DASH? number (DOT number)?;
 
 legInfo
-: leg leg NEWLINE leg leg NEWLINE;
+: leg leg NEWLINE leg leg;
 
 leg
 : legNumber RPAREN jerseyNumber? athleteName athleteYear?;
@@ -83,7 +51,7 @@ jerseyNumber
 : NUMBERSIGN number;
 
 athleteName
-: words (DASH words)? (APOSTROPHE words)? (LPAREN words)? (RPAREN words)?;
+: words (DASH words)? (APOSTROPHE words)?;
 
 athleteYear
 : number;
@@ -102,10 +70,10 @@ time
 distance
 : foot DASH inch DOT? decimal?;
 
-dq : FALSESTART | NOHEIGHT | DISQUALIFIED | FOUL | NOTIME;
+dq : FALSESTART | NOHEIGHT | DISQUALIFIED | FOUL | NOTIME | DIDNOTFINISH | DISQUALIFIED INTERFERENCE;
 
 performance
-: TIE? time QUALIFY?
+: TIE? time QUALIFY? WINDAIDED?
   | TIE? distance QUALIFY?
   | dq;
 
@@ -161,19 +129,27 @@ number
 words
 : ID*;
 
+WS : [ \t]+ -> skip ;
+ATSIGN: '@' -> skip;
+SEMICOLON: ';' -> skip;
+TOPINFO: LICENSEDTO .* RESULTS .*? NEWLINE .*? NEWLINE -> skip;
+SEPARATOR: '='+ .*? '='+ NEWLINE ((PRELIMINARIES | FINALS) NEWLINE)? -> skip;
+EVENTNUMBER: EVENT .*? [0-9]+ -> skip;
+LICENSEDTO: 'Licensed to';
+RESULTS: 'Results';
+EVENT: 'Event';
+
 INTEGER_NUMBER
 : DIGIT+;
 
 fragment
 DIGIT : ('0'..'9');
 
-LICENSEDTO: 'Licensed to';
-HYTEK: 'HY-TEK\'s Meet Manager';
-RESULTS: 'Results';
-EVENT: 'Event';
+
 GIRLS: 'Girls';
 BOYS: 'Boys';
 FINALS: 'Finals';
+PRELIMINARIES: 'Preliminaries';
 DOT: '.';
 METERS: 'm';
 NOWIND: 'NWI';
@@ -187,16 +163,18 @@ NOHEIGHT: 'NH';
 DISQUALIFIED: 'DQ';
 FOUL: 'FOUL';
 NOTIME: 'NT';
+DIDNOTFINISH: 'DNF';
+INTERFERENCE: 'Interference';
 TIE: 'J';
 AM: 'AM';
 PM: 'PM';
 SLASH: '/';
 NUMBERSIGN: '#';
 QUALIFY: [qQ];
+WINDAIDED: 'A';
 
 DQPLACE : '--' ;
-SEPARATOR : '='+ ;
+
 INT : [0-9]+ ;
-ID  : [a-zA-Z"#'.\-:,]+ ;
+ID  : [a-zA-Z"#'.\-:,()]+ ;
 NEWLINE : '\r'? '\n' ;
-WS : [ \t]+ -> skip ;

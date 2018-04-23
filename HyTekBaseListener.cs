@@ -47,114 +47,6 @@ public partial class HyTekBaseListener : IHyTekListener {
 	/// <param name="context">The parse tree.</param>
 	public virtual void ExitInit([NotNull] HyTekParser.InitContext context) { }
 	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.file"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterFile([NotNull] HyTekParser.FileContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.file"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitFile([NotNull] HyTekParser.FileContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.license"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterLicense([NotNull] HyTekParser.LicenseContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.license"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitLicense([NotNull] HyTekParser.LicenseContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.licensee"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterLicensee([NotNull] HyTekParser.LicenseeContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.licensee"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitLicensee([NotNull] HyTekParser.LicenseeContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.exportInfo"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterExportInfo([NotNull] HyTekParser.ExportInfoContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.exportInfo"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitExportInfo([NotNull] HyTekParser.ExportInfoContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.exportDate"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterExportDate([NotNull] HyTekParser.ExportDateContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.exportDate"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitExportDate([NotNull] HyTekParser.ExportDateContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetInfo"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterMeetInfo([NotNull] HyTekParser.MeetInfoContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetInfo"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitMeetInfo([NotNull] HyTekParser.MeetInfoContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetName"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterMeetName([NotNull] HyTekParser.MeetNameContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetName"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitMeetName([NotNull] HyTekParser.MeetNameContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetDate"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterMeetDate([NotNull] HyTekParser.MeetDateContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetDate"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitMeetDate([NotNull] HyTekParser.MeetDateContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.meetLocation"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterMeetLocation([NotNull] HyTekParser.MeetLocationContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.meetLocation"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitMeetLocation([NotNull] HyTekParser.MeetLocationContext context) { }
-	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.event"/>.
 	/// <para>The default implementation does nothing.</para>
 	/// </summary>
@@ -179,18 +71,6 @@ public partial class HyTekBaseListener : IHyTekListener {
 	/// <param name="context">The parse tree.</param>
 	public virtual void ExitEventInfo([NotNull] HyTekParser.EventInfoContext context) { }
 	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.eventNumber"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterEventNumber([NotNull] HyTekParser.EventNumberContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.eventNumber"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitEventNumber([NotNull] HyTekParser.EventNumberContext context) { }
-	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.eventGender"/>.
 	/// <para>The default implementation does nothing.</para>
 	/// </summary>
@@ -214,18 +94,6 @@ public partial class HyTekBaseListener : IHyTekListener {
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	public virtual void ExitEventName([NotNull] HyTekParser.EventNameContext context) { }
-	/// <summary>
-	/// Enter a parse tree produced by <see cref="HyTekParser.eventHeader"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void EnterEventHeader([NotNull] HyTekParser.EventHeaderContext context) { }
-	/// <summary>
-	/// Exit a parse tree produced by <see cref="HyTekParser.eventHeader"/>.
-	/// <para>The default implementation does nothing.</para>
-	/// </summary>
-	/// <param name="context">The parse tree.</param>
-	public virtual void ExitEventHeader([NotNull] HyTekParser.EventHeaderContext context) { }
 	/// <summary>
 	/// Enter a parse tree produced by <see cref="HyTekParser.columnHeaders"/>.
 	/// <para>The default implementation does nothing.</para>

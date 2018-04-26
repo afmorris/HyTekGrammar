@@ -23,30 +23,36 @@ namespace HyTekLanguageApplication
     class Program
     {
         private static IDbConnectionFactory dbFactory;
-        private static readonly string MeetName = "Bucyrus Elks Invitational";
-        private static readonly Guid LocationId = new Guid("7C836D9F-EACA-4CBE-8103-BA6B35CB48BC");
+        private static readonly string MeetName = "Rocky Brands Track & Field Invitational";
+        private static readonly Guid LocationId = new Guid("66C004C0-16BE-4AB9-A1FA-679DE078847E");
         private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 3, 31, 0, 0, 0, TimeSpan.Zero);
+        private static readonly string filePath = @"c:\c\antlr4\HyTek\results2.txt";
 
         public static readonly Dictionary<string, HashSet<string>> SchoolLookup = new Dictionary<string, HashSet<string>>
         {
-            {"Galion", new HashSet<string> { "Galion" }},
-            {"Ontario", new HashSet<string> { "Ontario" }},
-            {"Caledonia River Valley", new HashSet<string> { "River Valley" }},
-            {"Oak Harbor", new HashSet<string> { "Oak Harbor" }},
-            {"Lexington", new HashSet<string> { "Lexington" }},
-            {"Upper Sandusky", new HashSet<string> { "Upper Sandusky", "Upper Sandus" }},
-            {"North Robinson Colonel Crawford", new HashSet<string> { "Col. Crawford", "Col. Crawfor" }},
-            {"Sycamore Mohawk", new HashSet<string> { "Mohawk" }},
-            {"Collins Western Reserve", new HashSet<string> { "Western Reserve", "Western Rese" }},
-            {"Ashland Crestview", new HashSet<string> { "Crestview" }},
-            {"Marion Harding", new HashSet<string> { "Marion Harding", "Marion Hardi" }},
-            {"Bucyrus", new HashSet<string> { "Bucyrus" }},
-            {"Bucyrus Wynford", new HashSet<string> { "Wynford" }},
-            {"Greenwich South Central", new HashSet<string> { "South Central", "South Centra" }},
-            {"Morral Ridgedale", new HashSet<string> { "Ridgedale" }},
-            {"Plymouth", new HashSet<string> { "Plymouth" }},
-            {"Crestline", new HashSet<string> { "Crestline" }},
-            {"Mount Gilead Gilead Christian", new HashSet<string> { "Gilead Chris", "Gilead Christian" }}
+            {"Reedsville Eastern", new HashSet<string> { "Reed. Eastern", "Reed. Easter" }},
+            {"Nelsonville-York", new HashSet<string> { "Nelsonville-York", "Nelsonville-York B", "Nelsonville-" }},
+            {"Lancaster Fairfield Christian Acad.", new HashSet<string> { "Fairfield Christian", "Fairfield Ch" }},
+            {"Waterford", new HashSet<string> { "Waterford" }},
+            {"Belpre", new HashSet<string> { "Belpre", "Belpre B" }},
+            {"Stewart Federal Hocking", new HashSet<string> { "Federal Hocking", "Federal Hock" }},
+            {"Beverly Fort Frye", new HashSet<string> { "Fort Frye" }},
+            {"Racine Southern", new HashSet<string> { "Southern" }},
+            {"Corning Miller", new HashSet<string> { "Miller" }},
+            {"Glouster Trimble", new HashSet<string> { "Trimble", "Trimble B" }},
+            {"Crown City South Gallia", new HashSet<string> { "South Gallia" }},
+            {"Lancaster", new HashSet<string> { "Lancaster", "Lancaster B" }},
+            {"New Concord John Glenn", new HashSet<string> { "John Glenn" }},
+            {"Wheelersburg", new HashSet<string> { "Wheelersburg" }},
+            {"The Plains Athens", new HashSet<string> { "Athens" }},
+            {"Vincent Warren", new HashSet<string> { "Warren" }},
+            {"SKIP", new HashSet<string> { "Park. South", "Park. South B", "Parkersburg", "Parkersburg B" }},
+            {"Mcconnelsville Morgan", new HashSet<string> { "Morgan" }},
+            {"Washington C.H. Washington", new HashSet<string> { "Washington" }},
+            {"Chillicothe Unioto", new HashSet<string> { "Unioto" }},
+            {"Pomeroy Meigs", new HashSet<string> { "Meigs" }},
+            {"Fairfield", new HashSet<string> { "Fairfield" }},
+            {"Lancaster Fisher Cath.", new HashSet<string> { "Fisher Catholic", "Fisher Catho" }},
         };
 
         private static readonly IAppSettings Settings = new AppSettings();
@@ -55,18 +61,7 @@ namespace HyTekLanguageApplication
         static void Main(string[] args)
         {
             SetupDbFactory();
-            string html;
-            var url = "http://www.baumspage.com/track/bucy-elks/2018/2018%20Results.htm";
-            using (var client = new WebClient())
-            {
-                html = client.DownloadString(url);
-            }
-
-            var doc = new HtmlDocument();
-            doc.LoadHtml(html);
-
-            var preNode = doc.DocumentNode.SelectSingleNode("//pre");
-            var content = preNode.InnerText;
+            var content = System.IO.File.ReadAllText(filePath);
 
             AntlrInputStream inputStream = new AntlrInputStream(content);
             HyTekLexer lexer = new HyTekLexer(inputStream);

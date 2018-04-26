@@ -7,7 +7,7 @@ namespace HyTekLanguageApplication.Listeners
 {
     public class EventListener : HyTekBaseListener
     {
-        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL", "NT", "DNF", "DQInterference"};
+        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL", "NT", "DNF", "DQInterference", "SCR", "ND"};
 
         public override void ExitEvent(HyTekParser.EventContext context)
         {

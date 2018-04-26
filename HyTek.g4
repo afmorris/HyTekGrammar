@@ -24,7 +24,7 @@ eventResult
   | relayResult;
 
 individualResult
-: place jerseyNumber? athleteName athleteYear? schoolName seed? performance metric? wind? heatNumber? dqReason? points? tiebreaker? NEWLINE trials? heightResults?;
+: place jerseyNumber? athleteName athleteYear? schoolName seed? NUMBERSIGN? performance metric? wind? heatNumber? dqReason? points? tiebreaker? NEWLINE trials? heightResults?;
 
 throwawayResult
 : place jerseyNumber? athleteName athleteYear? schoolName NEWLINE;
@@ -58,7 +58,7 @@ place
 : number | DQPLACE;
 
 jerseyNumber
-: NUMBERSIGN number;
+: NUMBERSIGN? number;
 
 athleteName
 : words (DASH words)? (APOSTROPHE words)?;
@@ -80,14 +80,14 @@ time
 distance
 : foot DASH inch DOT? decimal?;
 
-dq : FALSESTART | NOHEIGHT | DISQUALIFIED | FOUL | NOTIME | DIDNOTFINISH | DISQUALIFIED INTERFERENCE;
+dq : FALSESTART | NOHEIGHT | DISQUALIFIED | FOUL | NOTIME | DIDNOTFINISH | DISQUALIFIED INTERFERENCE | SCRATCH | NODISTANCE;
 
 dqReason
 : OUTOFZONE;
 
 performance
-: TIE? time QUALIFY? RECORD?
-  | TIE? distance QUALIFY? RECORD?
+: TIE? time QUALIFY? RECORD? NUMBERSIGN?
+  | TIE? distance QUALIFY? RECORD? NUMBERSIGN?
   | dq;
 
 heatNumber
@@ -192,9 +192,11 @@ PASS: 'P'+;
 FAIL: 'X'+;
 CLEAR: 'X'* 'O'+;
 OUTOFZONE: 'Out of Zone';
+SCRATCH: 'SCR';
+NODISTANCE: 'ND';
 
 DQPLACE : '--' ;
 
 INT : [0-9]+ ;
-ID  : [a-zA-Z"#'.\-:,()’]+ ;
+ID  : [a-zA-Z"#'.\-:,()’ć]+ ;
 NEWLINE : '\r'? '\n' ;

@@ -7,7 +7,7 @@ namespace HyTekLanguageApplication.Listeners
 {
     public class EventListener : HyTekBaseListener
     {
-        private readonly HashSet<string> _noPerformance = new HashSet<string> {"FS", "NH", "DQ", "FOUL", "NT", "DNF", "DQInterference", "SCR", "ND"};
+        private readonly HashSet<string> _noPerformance = new HashSet<string> { "FS", "NH", "DQ", "FOUL", "NT", "DNF", "DQInterference", "SCR", "ND" };
 
         public override void ExitEvent(HyTekParser.EventContext context)
         {
@@ -49,7 +49,7 @@ namespace HyTekLanguageApplication.Listeners
 
                     //result.AthleteName = string.Join(" ", individualContext.athleteName().words().children);
 
-                    foreach (var kvp in  Program.SchoolLookup)
+                    foreach (var kvp in Program.SchoolLookup)
                     {
                         foreach (var schoolName in kvp.Value)
                         {
@@ -103,7 +103,7 @@ namespace HyTekLanguageApplication.Listeners
                             result.Seed.Data = Math.Round(seedData, 2);
                         }
                     }
-                    
+
                     result.Performance = new Performance();
                     if (individualContext.performance().time() != null)
                     {
@@ -116,6 +116,7 @@ namespace HyTekLanguageApplication.Listeners
                         float.TryParse(individualContext.performance().time().@decimal().GetText(), out var performanceDecimal);
 
                         var performanceData = (performanceMinutes * 60) + performanceSeconds + (performanceDecimal / 100);
+                        SanityCheck(performanceData, @event.EventInfo.Name, @event.EventInfo.Gender);
                         result.Performance.Data = Math.Round(performanceData, 2);
                     }
                     else if (individualContext.performance().distance() != null)
@@ -129,6 +130,7 @@ namespace HyTekLanguageApplication.Listeners
                         }
 
                         var performanceData = (performanceFeet * 12) + performanceInches + (performanceDecimal / 100);
+                        SanityCheck(performanceData, @event.EventInfo.Name, @event.EventInfo.Gender);
                         result.Performance.Data = Math.Round(performanceData, 2);
                     }
 
@@ -204,7 +206,7 @@ namespace HyTekLanguageApplication.Listeners
                         var seedData = (seedMinutes * 60) + seedSeconds + (seedDecimal / 100);
                         result.Seed.Data = Math.Round(seedData, 2);
                     }
-                    
+
                     result.Performance = new Performance();
                     float performanceMinutes = 0;
                     if (relayContext.performance().time().minute() != null)
@@ -215,6 +217,7 @@ namespace HyTekLanguageApplication.Listeners
                     float.TryParse(relayContext.performance().time().@decimal().GetText(), out var performanceDecimal);
 
                     var performanceData = (performanceMinutes * 60) + performanceSeconds + (performanceDecimal / 100);
+                    SanityCheck(performanceData, @event.EventInfo.Name, @event.EventInfo.Gender);
                     result.Performance.Data = Math.Round(performanceData, 2);
 
                     if (relayContext.heatNumber() != null)
@@ -289,6 +292,150 @@ namespace HyTekLanguageApplication.Listeners
             Program.File.Events.Add(@event);
 
             base.ExitEvent(context);
+        }
+
+        private void SanityCheck(double data, string eventName, string eventGender)
+        {
+            if (eventGender == "Boys")
+            {
+                switch (eventName)
+                {
+                    case "100MeterDash":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 10, null);
+                        break;
+                    case "200MeterDash":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 20, null);
+                        break;
+                    case "400MeterDash":
+                    case "400MeterDashTimedFinal":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 45, null);
+                        break;
+                    case "800MeterRun":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 107, null);
+                        break;
+                    case "1600MeterRun":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 240, null);
+                        break;
+                    case "3200MeterRun":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 510, null);
+                        break;
+                    case "110MeterHurdles39\"":
+                    case "110MeterHurdles":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 13, null);
+                        break;
+                    case "300MeterHurdles36\"":
+                    case "300MeterHurdles":
+                    case "300MeterHurdlesTimedFinal":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 35, null);
+                        break;
+                    case "4x100MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 40, null);
+                        break;
+                    case "4x200MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 80, null);
+                        break;
+                    case "4x400MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 195, null);
+                        break;
+                    case "4x800MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 455, null);
+                        break;
+                    case "ShotPut":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 60, 840);
+                        break;
+                    case "DiscusThrow":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 60, 2400);
+                        break;
+                    case "HighJump":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 30, 90);
+                        break;
+                    case "LongJump":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 30, 300);
+                        break;
+                    case "PoleVault":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 30, 216);
+                        break;
+                    default:
+                        break;
+                }
+            }
+            else if (eventGender == "Girls")
+            {
+                switch (eventName)
+                {
+                    case "100MeterDash":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 10, null);
+                        break;
+                    case "200MeterDash":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 20, null);
+                        break;
+                    case "400MeterDash":
+                    case "400MeterDashTimedFinal":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 45, null);
+                        break;
+                    case "800MeterRun":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 107, null);
+                        break;
+                    case "1600MeterRun":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 240, null);
+                        break;
+                    case "3200MeterRun":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 510, null);
+                        break;
+                    case "100MeterHurdles33\"":
+                    case "100MeterHurdles":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 13, null);
+                        break;
+                    case "300MeterHurdles30\"":
+                    case "300MeterHurdles":
+                    case "300MeterHurdlesTimedFinal":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 40, null);
+                        break;
+                    case "4x100MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 40, null);
+                        break;
+                    case "4x200MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 80, null);
+                        break;
+                    case "4x400MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 195, null);
+                        break;
+                    case "4x800MeterRelay":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 455, null);
+                        break;
+                    case "ShotPut":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 60, 840);
+                        break;
+                    case "DiscusThrow":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 60, 2400);
+                        break;
+                    case "HighJump":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 30, 90);
+                        break;
+                    case "LongJump":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 30, 300);
+                        break;
+                    case "PoleVault":
+                        ThrowIfUnrealisticPerformance(data, eventName, eventGender, 30, 216);
+                        break;
+                    default:
+                        break;
+                }
+            }
+        }
+
+        private void ThrowIfUnrealisticPerformance(double data, string eventName, string eventGender, double? lowerLimit, double? upperLimit)
+        {
+            if (lowerLimit.HasValue && data < lowerLimit.Value)
+            {
+                throw new ArgumentOutOfRangeException(nameof(data), data, $"Unrealistic performance for {eventGender} {eventName}: {data}");
+            }
+
+            if (upperLimit.HasValue && data > upperLimit.Value)
+            {
+                throw new ArgumentOutOfRangeException(nameof(data), data, $"Unrealistic performance for {eventGender} {eventName}: {data}");
+
+            }
         }
     }
 }

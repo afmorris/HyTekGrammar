@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
 using System.Drawing;
-using System.Net;
 using Antlr4.Runtime;
-using HtmlAgilityPack;
 using HyTekLanguageApplication.Constants;
 using HyTekLanguageApplication.DataModels;
 using HyTekLanguageApplication.Extensions;
@@ -23,36 +20,23 @@ namespace HyTekLanguageApplication
     class Program
     {
         private static IDbConnectionFactory dbFactory;
-        private static readonly string MeetName = "Rocky Brands Track & Field Invitational";
-        private static readonly Guid LocationId = new Guid("66C004C0-16BE-4AB9-A1FA-679DE078847E");
-        private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 3, 31, 0, 0, 0, TimeSpan.Zero);
-        private static readonly string filePath = @"c:\c\antlr4\HyTek\results2.txt";
+        private static readonly string MeetName = "Gene Cole Invitational";
+        private static readonly Guid LocationId = new Guid("CF55DDC9-2864-4879-8A28-C5EF56C17231");
+        private static readonly DateTimeOffset MeetDate = new DateTimeOffset(2018, 4, 24, 0, 0, 0, TimeSpan.Zero);
+        private static readonly string filePath = @"C:\Users\antho\source\repos\HyTekGrammar\results2.txt";
 
         public static readonly Dictionary<string, HashSet<string>> SchoolLookup = new Dictionary<string, HashSet<string>>
         {
-            {"Reedsville Eastern", new HashSet<string> { "Reed. Eastern", "Reed. Easter" }},
-            {"Nelsonville-York", new HashSet<string> { "Nelsonville-York", "Nelsonville-York B", "Nelsonville-" }},
-            {"Lancaster Fairfield Christian Acad.", new HashSet<string> { "Fairfield Christian", "Fairfield Ch" }},
-            {"Waterford", new HashSet<string> { "Waterford" }},
-            {"Belpre", new HashSet<string> { "Belpre", "Belpre B" }},
-            {"Stewart Federal Hocking", new HashSet<string> { "Federal Hocking", "Federal Hock" }},
-            {"Beverly Fort Frye", new HashSet<string> { "Fort Frye" }},
-            {"Racine Southern", new HashSet<string> { "Southern" }},
-            {"Corning Miller", new HashSet<string> { "Miller" }},
-            {"Glouster Trimble", new HashSet<string> { "Trimble", "Trimble B" }},
-            {"Crown City South Gallia", new HashSet<string> { "South Gallia" }},
+            {"Gahanna Lincoln", new HashSet<string> { "Gah. Lincoln" }},
             {"Lancaster", new HashSet<string> { "Lancaster", "Lancaster B" }},
-            {"New Concord John Glenn", new HashSet<string> { "John Glenn" }},
-            {"Wheelersburg", new HashSet<string> { "Wheelersburg" }},
-            {"The Plains Athens", new HashSet<string> { "Athens" }},
-            {"Vincent Warren", new HashSet<string> { "Warren" }},
-            {"SKIP", new HashSet<string> { "Park. South", "Park. South B", "Parkersburg", "Parkersburg B" }},
-            {"Mcconnelsville Morgan", new HashSet<string> { "Morgan" }},
-            {"Washington C.H. Washington", new HashSet<string> { "Washington" }},
-            {"Chillicothe Unioto", new HashSet<string> { "Unioto" }},
-            {"Pomeroy Meigs", new HashSet<string> { "Meigs" }},
-            {"Fairfield", new HashSet<string> { "Fairfield" }},
-            {"Lancaster Fisher Cath.", new HashSet<string> { "Fisher Catholic", "Fisher Catho" }},
+            {"Canal Winchester", new HashSet<string> { "Canal Winchester", "Canal Winchester B", "Canal Winche" }},
+            {"Hilliard Darby", new HashSet<string> { "Hil. Darby", "Hil. Darby B" }},
+            {"Logan", new HashSet<string> { "Logan", "Logan B" }},
+            {"Pickerington Central", new HashSet<string> { "Pick. Central", "Pick. Central B", "Pick. Centra" }},
+            {"Ashville Teays Valley", new HashSet<string> { "Teays Valley" }},
+            {"Heath", new HashSet<string> { "Heath" }},
+            {"Grove City", new HashSet<string> { "Grove City", "Grove City B" }},
+            {"Cols. St. Charles", new HashSet<string> { "St. Charles" }},
         };
 
         private static readonly IAppSettings Settings = new AppSettings();
@@ -133,8 +117,6 @@ namespace HyTekLanguageApplication
                     PopulateAthletesAndPerformances(@event.EventResults, dbEvent, meet);
                 }
             }
-
-            int b = 2;
         }
 
         private static TrackAndFieldEvent GetEvent(string eventName, Gender gender)
